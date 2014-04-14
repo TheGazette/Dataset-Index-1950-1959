@@ -1857,8 +1857,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Buse</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>2706</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Solla</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3234</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacock</Key>
-      <Forenames>A. R. De C.</Forenames>
+      <Forenames>A. R. De C</Forenames>
       <PageNumber>2181</PageNumber>
     </MainItem>
   </ItemGroup>

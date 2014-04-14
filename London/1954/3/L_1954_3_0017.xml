@@ -941,8 +941,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S.</Forenames>
-      <Text>von P</Text>
+      <Forenames>H. S. von P</Forenames>
       <PageNumber>3949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1074,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. P.</Forenames>
-      <Text>(R.A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1431,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>iM. P. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4087</PageNumber>
     </MainItem>
   </ItemGroup>

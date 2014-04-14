@@ -39,15 +39,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, J. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, H. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>H. G.</Forenames>
       <PageNumber>7849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,8 +62,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. S</Forenames>
       <PageNumber>6423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,8 +99,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, J. R</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,15 +122,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, S. ... ;</Text>
+      <Key>O'Hara</Key>
+      <Forenames>S.</Forenames>
+      <Text>... ;</Text>
       <PageNumber>7058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, H. I</Text>
+      <Key>O'Hare</Key>
+      <Forenames>H. I.</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,8 +151,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J</Forenames>
       <PageNumber>7510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +182,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, S. P. B</Text>
+      <Key>O'Neill</Key>
+      <Forenames>S. P. B.</Forenames>
       <PageNumber>7658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +286,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. J</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,8 +332,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,8 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>

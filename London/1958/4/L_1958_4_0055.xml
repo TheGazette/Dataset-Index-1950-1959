@@ -2103,7 +2103,9 @@
     <MainItem>
       <Key>Bloomfield</Key>
       <Forenames>D.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>

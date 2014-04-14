@@ -178,7 +178,9 @@
     <MainItem>
       <Key>Courtney</Key>
       <Forenames>E.</Forenames>
-      <Text>DL. M</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,8 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton-IHess</Key>
-      <Forenames>A. R. E. M.</Forenames>
-      <Text>de A</Text>
+      <Forenames>A. R. E. M. de A</Forenames>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,10 +1559,65 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Putron</Forenames>
-      <Text>, M. E</Text>
+      <Key>de Boos</Key>
+      <Forenames>S. M.</Forenames>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Hamilton</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonlblanque</Key>
+      <Forenames>S. B. M.</Forenames>
+      <PageNumber>6773</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fraine</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>6771</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kay</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>6777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Putron</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>6772</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>D. M.</Forenames>
+      <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1632,7 +1688,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dedman</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1681,17 +1681,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aldwyn</Forenames>
-      <Text>, Earl</Text>
+      <Key>St. Aldwyn</Key>
+      <Title>Earl .</Title>
       <PageNumber>1162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2464,8 +2462,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. C</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. C</Text>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>

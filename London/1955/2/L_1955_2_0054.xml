@@ -307,7 +307,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. De F.</Forenames>
+      <Forenames>P. De F</Forenames>
       <PageNumber>3141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,8 +699,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. C</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. C</Text>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,6 +1259,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>K. R. J.</Forenames>
+      <PageNumber>1932</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeBuriatte</Key>
       <Forenames>A. H.</Forenames>
       <PageNumber>3586</PageNumber>
@@ -1266,25 +1273,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, M. G</Text>
+      <Key>De Garis</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>de Hamel</Key>
+      <Forenames>F. A.</Forenames>
+      <PageNumber>3447</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Llanos</Key>
+      <Forenames>J. M.</Forenames>
+      <PageNumber>3001</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>2148</PageNumber>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ste Croix</Forenames>
+      <Key>De Ste</Key>
+      <Forenames>Croix</Forenames>
       <Text>, G. E. M</Text>
       <PageNumber>2545</PageNumber>
     </MainItem>

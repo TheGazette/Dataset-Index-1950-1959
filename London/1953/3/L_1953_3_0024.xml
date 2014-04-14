@@ -1416,8 +1416,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1966,8 +1965,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2588,7 +2586,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>B.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2725,8 +2725,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>

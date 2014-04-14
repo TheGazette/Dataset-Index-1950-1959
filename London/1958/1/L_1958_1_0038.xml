@@ -357,8 +357,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien., J. K. A</Text>
+      <Key>O'Brien</Key>
+      <Text>, J. K. A</Text>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,22 +391,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Coffey, G. T. S</Text>
+      <Key>O'Coffey</Key>
+      <Forenames>G. T. S.</Forenames>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, (D. S</Text>
+      <Key>O'Connor</Key>
+      <Text>(D. S</Text>
       <PageNumber>1273</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, ID. M</Text>
+      <Key>O'Dea</Key>
+      <Text>ID. M</Text>
       <PageNumber>1837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +426,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. S</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. S.</Forenames>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,8 +448,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hynn, T</Text>
+      <Key>O'Hynn</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +586,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>389</PageNumber>
     </MainItem>
   </ItemGroup>

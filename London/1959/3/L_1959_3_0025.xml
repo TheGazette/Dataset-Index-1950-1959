@@ -41,18 +41,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Board</Forenames>
-      <Text>, R</Text>
+      <Key>De Board</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carte</Forenames>
-      <Text>, H. O</Text>
+      <Key>de Bretiton-Gordon</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>4672</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Carte</Key>
+      <Forenames>H. O.</Forenames>
       <PageNumber>5422</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>Thompson</Forenames>
+      <Text>, S. B</Text>
+      <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -64,10 +77,39 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, B. W</Text>
+      <Key>de Lisle</Key>
+      <Forenames>Bush</Forenames>
+      <Text>, M. P. T</Text>
+      <PageNumber>4987</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Morgan</Key>
+      <Forenames>B. W.</Forenames>
       <PageNumber>4793</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rebekill</Key>
+      <Forenames>W. A.</Forenames>
+      <PageNumber>4345</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Reybekill</Key>
+      <Forenames>W. A.</Forenames>
+      <PageNumber>4674</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>R. J.</Forenames>
+      <PageNumber>5785</PageNumber>
+      <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -79,9 +121,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, J. K</Text>
+      <Key>De Wolf</Key>
+      <Forenames>J. K.</Forenames>
       <PageNumber>6127</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1111,8 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arrowsmith</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>5077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,7 +1760,9 @@
       <Key>Buzzard</Key>
       <Title>Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1958,8 +1959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de O</Text>
+      <Forenames>N. P. de O</Forenames>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2303,6 +2303,13 @@
       <Key>Day</Key>
       <Forenames>I. F</Forenames>
       <PageNumber>5265</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>J. F.</Forenames>
+      <PageNumber>5076</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. B. de L</Forenames>
       <PageNumber>4255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +497,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. A.</Forenames>
-      <Text>TD</Text>
+      <Text>
+        <Honour>TD</Honour>
+      </Text>
       <PageNumber>4252</PageNumber>
     </MainItem>
   </ItemGroup>

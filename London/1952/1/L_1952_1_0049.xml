@@ -460,7 +460,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,8 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Forenames>I.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>I. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>

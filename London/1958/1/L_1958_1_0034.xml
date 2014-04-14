@@ -725,8 +725,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>A. H. St. M</Forenames>
       <PageNumber>1587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1993,7 +1992,9 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>1923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2484,7 +2485,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. Du M.</Forenames>
+      <Forenames>J. Du M</Forenames>
       <PageNumber>1020</PageNumber>
     </MainItem>
   </ItemGroup>

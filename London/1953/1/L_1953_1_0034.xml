@@ -469,7 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGrigor</Key>
-      <Text>McGrigor, Sir Sir C. C. E., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1089,9 @@
       <Key>Makins</Key>
       <Title>Sir</Title>
       <Forenames>W. V.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>

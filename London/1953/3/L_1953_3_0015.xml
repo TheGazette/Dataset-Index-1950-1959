@@ -191,9 +191,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, P. W. G</Text>
+      <Key>Du Buisson</Key>
+      <Forenames>P. W. G.</Forenames>
       <PageNumber>3679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,8 +1443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiley</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. A. St. C</Forenames>
       <PageNumber>3681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2397,8 +2395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longsdon</Key>
-      <Forenames>S. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>S. M. de L</Forenames>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>

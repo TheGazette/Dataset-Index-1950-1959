@@ -266,7 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Feversham</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,14 +281,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fiddess</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fidler</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowell</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frew</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1478,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>M. N</Text>
+      <Forenames>M. N.</Forenames>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,7 +1626,9 @@
       <Key>Gilmour</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2082,7 +2085,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2201,7 +2206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granville</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2218,7 +2224,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2347,7 +2353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenfield</Key>
-      <Text>C E. V</Text>
+      <Forenames>C</Forenames>
+      <Text>E. V</Text>
       <PageNumber>5810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2458,7 +2465,9 @@
       <Key>Grey-Egerton</Key>
       <Title>Sir</Title>
       <Forenames>P. R.</Forenames>
-      <Text>le B., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6065</PageNumber>
     </MainItem>
   </ItemGroup>

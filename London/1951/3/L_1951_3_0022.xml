@@ -1532,8 +1532,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,8 +1942,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,8 +2013,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. V. O</Forenames>
-      <Text>'B., Sub. not</Text>
+      <Forenames>G. V. O'B</Forenames>
+      <Text>., Sub. not</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>

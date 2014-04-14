@@ -1100,10 +1100,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, T. W. F</Text>
+      <Key>de Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
+      <PageNumber>67</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Looze</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>64</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>T. W. F.</Forenames>
       <PageNumber>68</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>M. C. B.</Forenames>
+      <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1803,9 +1823,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, F. A</Text>
+      <Key>Du Pree</Key>
+      <Forenames>F. A.</Forenames>
       <PageNumber>1134</PageNumber>
     </MainItem>
   </ItemGroup>

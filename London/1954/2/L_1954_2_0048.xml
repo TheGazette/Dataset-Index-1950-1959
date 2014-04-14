@@ -1627,8 +1627,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strattoh</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. B. de F</Forenames>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2322,8 +2321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiptaft</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de T</Text>
+      <Forenames>J. R. de T</Forenames>
       <PageNumber>2835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2480,7 +2478,9 @@
     <MainItem>
       <Key>Trustram</Key>
       <Forenames>Eve</Forenames>
-      <Text>, Sir A. M., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>

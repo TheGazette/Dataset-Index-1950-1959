@@ -104,10 +104,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, R. M</Text>
+      <Key>Van Oss</Key>
+      <Forenames>R. M.</Forenames>
       <PageNumber>1602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straulbenzee</Key>
+      <Forenames>P. T.</Forenames>
+      <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1677,7 +1683,9 @@
       <Key>Wiggrn</Key>
       <Title>Sir</Title>
       <Forenames>C. R. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>

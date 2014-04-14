@@ -277,26 +277,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, R. U. A. J</Text>
+      <Key>De Burgh</Key>
+      <Forenames>R. U. A. J.</Forenames>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burley</Forenames>
-      <Text>, R. P</Text>
+      <Key>De Burley</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, T. W. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>T. W. F.</Forenames>
       <PageNumber>426</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ville</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>424</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Voil</Key>
+      <Forenames>P. W.</Forenames>
+      <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

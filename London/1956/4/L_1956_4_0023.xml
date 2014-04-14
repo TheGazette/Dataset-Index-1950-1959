@@ -405,28 +405,30 @@
       </Key>
       <Forenames>E.</Forenames>
       <Text>DL</Text>
-      <PageNumber>5556</PageNumber>
-      <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. A. J.</Forenames>
-      <PageNumber>7003</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>K. W.</Forenames>
-      <PageNumber>6257</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>5556</PageNumber>
+    <PageNumber>7333</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___ ___</KeyDitto>
+        </Key>
+        <Forenames>H. A. J.</Forenames>
+        <PageNumber>7003</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>
+          <KeyDitto>___</KeyDitto>
+        </Key>
+        <Forenames>K. W.</Forenames>
+        <PageNumber>6257</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -521,7 +523,9 @@
       <Key>Byass</Key>
       <Title>Sir</Title>
       <Forenames>G. R. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1167,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. F. de V</Forenames>
       <PageNumber>5686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,8 +1846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>5615</PageNumber>
     </MainItem>
   </ItemGroup>

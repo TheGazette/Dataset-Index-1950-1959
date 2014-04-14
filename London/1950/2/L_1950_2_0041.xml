@@ -344,14 +344,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jitbahadur</Key>
-      <Forenames>Rai</Forenames>
+      <Title>Rai .</Title>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jobson</Key>
-      <Text>.E. R</Text>
+      <Forenames>E. R.</Forenames>
       <PageNumber>2981</PageNumber>
       <PageNumber>2982</PageNumber>
     </MainItem>
@@ -708,7 +708,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +839,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kader</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaludas</Key>
-      <Forenames>Pradhan</Forenames>
+      <Title>Pradhan .</Title>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kee</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keens</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellond</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1061,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1107,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S, L</Text>
+      <Forenames>S</Forenames>
+      <Text>, L</Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1131,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,8 +1285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Killery</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>2355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,7 +1516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkman</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1557,7 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,7 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Konstant</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laird</Key>
-      <Text>, J: R</Text>
+      <Forenames>J</Forenames>
+      <Text>: R</Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lalbahadur</Key>
-      <Forenames>Thapa</Forenames>
+      <Title>Thapa.</Title>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamond</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>3312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1898,7 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,14 +1908,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3234</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Laycock</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1959,14 +1960,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Leah</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leask</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1980,7 +1981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leckie</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2046,14 +2047,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2232</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leech</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2582,7 +2583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Locke</Key>
-      <Text>. P. F. C. R</Text>
+      <Forenames>P. F. C. R.</Forenames>
       <PageNumber>3168</PageNumber>
     </MainItem>
   </ItemGroup>

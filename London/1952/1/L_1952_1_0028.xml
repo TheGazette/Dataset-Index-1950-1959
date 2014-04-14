@@ -1728,7 +1728,9 @@
       <Key>Carew-Pole</Key>
       <Title>Sir</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,8 +1746,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. F. de V</Forenames>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -553,9 +553,72 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Free</Forenames>
-      <Text>, H. V. H</Text>
+      <Key>de Brunner</Key>
+      <Forenames>P. M .</Forenames>
+      <PageNumber>3523</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caestecker</Key>
+      <Forenames>J. J.</Forenames>
+      <PageNumber>1936</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Calmer</Key>
+      <Forenames>R. S.</Forenames>
+      <PageNumber>2343</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Forenames>D. J.</Forenames>
+      <PageNumber>2636</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. T.</Forenames>
+      <PageNumber>2636</PageNumber>
+      <PageNumber>2636</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Loriol</Key>
+      <Forenames>P. G. L.</Forenames>
+      <PageNumber>3268</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Free</Key>
+      <Forenames>H. V. H.</Forenames>
+      <PageNumber>3342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>H. P.</Forenames>
+      <PageNumber>3461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rosa</Key>
+      <Forenames>L. V.</Forenames>
+      <PageNumber>3267</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vine</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>3342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2550,8 +2613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Forenames>C. R.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. R. de M</Forenames>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>

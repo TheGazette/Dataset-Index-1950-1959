@@ -1723,7 +1723,9 @@
     <MainItem>
       <Key>Berry</Key>
       <Forenames>P.</Forenames>
-      <Text>K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>5248</PageNumber>
     </MainItem>
   </ItemGroup>

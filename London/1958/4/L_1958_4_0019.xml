@@ -754,10 +754,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cosson</Forenames>
-      <Text>, A. C. E</Text>
+      <Key>De Cosson</Key>
+      <Forenames>A. C. E.</Forenames>
       <PageNumber>7216</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -906,8 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnan</Key>
-      <Forenames>F.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. de S</Forenames>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,8 +1014,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Forenames>H. R.</Forenames>
-      <Text>de C. (</Text>
+      <Forenames>H. R. de C</Forenames>
+      <Text>. (</Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,8 +1877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1882,8 +1886,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. V.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. V. de B</Forenames>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>

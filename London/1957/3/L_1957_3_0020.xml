@@ -357,8 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>G. St. M</Forenames>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +571,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, J.. M</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>J.</Forenames>
+      <Text>. M</Text>
       <PageNumber>5176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +586,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, A. G</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,17 +1260,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, O. J. F. L</Text>
+      <Key>St. John</Key>
+      <Forenames>O. J. F. L.</Forenames>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, P. R</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>P. R.</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1976,9 +1974,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, G. D</Text>
+      <Key>Van Someren</Key>
+      <Forenames>G. D.</Forenames>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>

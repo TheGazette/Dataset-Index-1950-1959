@@ -826,8 +826,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansbridge</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>1745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2429,8 +2428,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H. F.</Forenames>
       <PageNumber>2511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2495,8 +2494,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>3539</PageNumber>
     </MainItem>
   </ItemGroup>

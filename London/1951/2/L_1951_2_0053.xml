@@ -838,8 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribble</Key>
-      <Forenames>M.</Forenames>
-      <Text>de G</Text>
+      <Forenames>M. de G</Forenames>
       <PageNumber>3117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,8 +1706,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. G. St. J</Forenames>
       <PageNumber>3230</PageNumber>
     </MainItem>
   </ItemGroup>

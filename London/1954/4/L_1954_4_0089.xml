@@ -815,7 +815,9 @@
     <MainItem>
       <Key>Coast</Key>
       <Forenames>Protection Act</Forenames>
-      <Text>: West Lancashire R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5783</PageNumber>
       <PageNumber>5992</PageNumber>
       <PageNumber>6129</PageNumber>
@@ -848,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mozambique, notice</Text>
+      <Forenames>de Mozambique</Forenames>
+      <Text>, notice</Text>
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>

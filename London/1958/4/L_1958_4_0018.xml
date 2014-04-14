@@ -1819,7 +1819,9 @@
       <Key>Blunden</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2239,8 +2241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burdis</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. de V</Forenames>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>

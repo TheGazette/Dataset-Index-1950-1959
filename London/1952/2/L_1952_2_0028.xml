@@ -1444,7 +1444,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. F. De V.</Forenames>
+      <Forenames>P. F. De V</Forenames>
       <PageNumber>3225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2420,7 +2420,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>

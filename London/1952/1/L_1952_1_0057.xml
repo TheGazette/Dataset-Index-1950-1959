@@ -1128,8 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DArcy</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,25 +1624,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M. De Cicester-Steuart-Smith, A. L. V. J</Text>
+      <Key>De Burgh</Key>
+      <Forenames>M. De</Forenames>
+      <Text>Cicester-Steuart-Smith, A. L. V. J</Text>
       <PageNumber>331</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Graeve</Forenames>
-      <Text>, J. H</Text>
+      <Key>de Ferranti</Key>
+      <Forenames>B. Z.</Forenames>
+      <PageNumber>1397</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Graeve</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Thier</Forenames>
-      <Text>, L. R</Text>
+      <Key>De Thier</Key>
+      <Forenames>L. R.</Forenames>
       <PageNumber>253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,8 +1831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickey</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>D. O'R</Forenames>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2595,10 +2598,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, D. F</Text>
+      <Key>du Boulay</Key>
+      <Forenames>R. W. H.</Forenames>
+      <PageNumber>1681</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du Feu</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>252</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Pree</Key>
+      <Forenames>F. A.</Forenames>
+      <PageNumber>1681</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

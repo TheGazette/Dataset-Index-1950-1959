@@ -1956,26 +1956,51 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blaby</Forenames>
-      <Text>, J. T</Text>
+      <Key>De Blaby</Key>
+      <Forenames>J. T.</Forenames>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brunner</Forenames>
-      <Text>, P. M</Text>
+      <Key>De Brunner</Key>
+      <Forenames>P. M</Forenames>
       <PageNumber>4531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, E. J</Text>
+      <Key>de Bruxelles</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>5104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rosa</Key>
+      <Forenames>L. V.</Forenames>
+      <PageNumber>4746</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Selincourt</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>5165</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>4920</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>F. L. P.</Forenames>
+      <PageNumber>5163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2108,7 +2133,9 @@
       <Key>Dewey</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt. Dickerson, R. P. G</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>

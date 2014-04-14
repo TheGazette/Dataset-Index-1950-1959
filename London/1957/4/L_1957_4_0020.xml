@@ -457,8 +457,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J: G. H</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J</Forenames>
+      <Text>: G. H</Text>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +479,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, D</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +524,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. F</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. F.</Forenames>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -832,8 +832,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,8 +1515,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. P.</Forenames>
-      <Text>de H</Text>
+      <Forenames>H. P. de H</Forenames>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -135,8 +135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blower</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>F. St. M</Forenames>
       <PageNumber>7079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,8 +1720,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Garra, A</Text>
+      <Key>O'Garra</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>6322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,8 +1743,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Harte, A. E</Text>
+      <Key>O'Harte</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>

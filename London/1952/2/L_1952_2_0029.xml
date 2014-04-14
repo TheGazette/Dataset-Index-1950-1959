@@ -1480,7 +1480,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. A. De V.</Forenames>
+      <Forenames>D. A. De V</Forenames>
       <PageNumber>3064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,8 +1512,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>3061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1625,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,17 +1831,51 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cort</Forenames>
-      <Text>, W. J. de Ferranti, B. R</Text>
+      <Key>de Cent</Key>
+      <Forenames>D. C.</Forenames>
+      <PageNumber>3374</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Cort</Key>
+      <Forenames>W. J. de Ferranti</Forenames>
+      <Text>, B. R</Text>
       <PageNumber>2500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, J. D. P</Text>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>3061</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Longueuil</Key>
+      <Forenames>J. C. S. G.</Forenames>
+      <PageNumber>1873</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paula</Key>
+      <Forenames>F. C.</Forenames>
+      <PageNumber>3113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>3288</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Winton</Key>
+      <Forenames>J. D. P.</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>

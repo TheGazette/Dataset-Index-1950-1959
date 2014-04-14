@@ -47,8 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patey</Key>
-      <Forenames>P.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. de V</Forenames>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,8 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paynter</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. P</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. P</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,7 +1792,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>

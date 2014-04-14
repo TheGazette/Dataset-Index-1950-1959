@@ -1241,10 +1241,59 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vere Hunt</Forenames>
+      <Key>de Bruyne</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>6783</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buriatte</Key>
+      <Forenames>T. J.</Forenames>
+      <PageNumber>7196</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Butts</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>6869</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Larrinaga</Key>
+      <Forenames>R. A. R.</Forenames>
+      <PageNumber>7840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laszlo</Key>
+      <Forenames>P. R.</Forenames>
+      <PageNumber>7499</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>E. V.</Forenames>
+      <PageNumber>6864</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vere</Key>
+      <Forenames>Hunt</Forenames>
       <Text>, J. P. H</Text>
       <PageNumber>6784</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>D. B. G.</Forenames>
+      <PageNumber>6482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1862,7 +1911,7 @@
       <PageNumber>6411</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>,.</Text>
+      <Text>,</Text>
       <PageNumber>6577</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2067,8 +2116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. H. O'D</Forenames>
       <PageNumber>7351</PageNumber>
     </MainItem>
   </ItemGroup>

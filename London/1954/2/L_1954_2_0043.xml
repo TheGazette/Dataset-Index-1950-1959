@@ -142,9 +142,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Heaume</Forenames>
-      <Text>, G</Text>
+      <Key>Du Heaume</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>3458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +919,9 @@
       <Key>Eve</Key>
       <Title>Sir</Title>
       <Forenames>A. M. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1897,8 +1897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallaher</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2334,7 +2333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Glazebrook</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -130,7 +130,9 @@
     <MainItem>
       <Key>Pill</Key>
       <Forenames>M. T</Forenames>
-      <Text>ISO Pilling, H. J. v</Text>
+      <Text>
+        <Honour>ISO</Honour>
+      </Text>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2592,7 +2594,9 @@
       <Key>Rigby</Key>
       <Title>Sir</Title>
       <Forenames>H. J. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>

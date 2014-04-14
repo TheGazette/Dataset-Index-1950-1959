@@ -185,7 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Agnew</Key>
-      <Text>, iM. F</Text>
+      <Text>iM. F</Text>
       <PageNumber>232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +542,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Edgar</Forenames>
+      <Title>Edgar .</Title>
       <PageNumber>582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +551,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>1599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderton</Key>
-      <Text>, &gt;M. A</Text>
+      <Text>&gt;M. A</Text>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,7 +1445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1481,7 +1481,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bale</Key>
-      <Text>.C. M. A</Text>
+      <Forenames>C. M. A.</Forenames>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2259,8 +2259,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Barton-St</Key>
-      <Text>. Leger, R. C</Text>
+      <Key>Barton-St. Leger</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>835</PageNumber>
     </MainItem>
   </ItemGroup>

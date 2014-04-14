@@ -1921,8 +1921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbery</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>D. O'D</Forenames>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1973,8 +1972,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. W.</Forenames>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2001,8 +2000,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. C</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2159,8 +2158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penney</Key>
-      <Forenames>G. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. N. St. J</Forenames>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2526,7 +2524,9 @@
       <Key>Roche</Key>
       <Title>Sir</Title>
       <Forenames>S. O. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>

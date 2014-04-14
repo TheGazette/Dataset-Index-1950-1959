@@ -1887,9 +1887,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Gaisford-St</Key>
-      <Forenames>Lawrence</Forenames>
-      <Text>, C. S</Text>
+      <Key>Gaisford-St. Lawrence</Key>
+      <Forenames>C. S.</Forenames>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2318,8 +2317,10 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Sir</Title>
-      <Forenames>R. P. St</Forenames>
-      <Text>. L., Bt</Text>
+      <Forenames>R. P. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4235</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -274,8 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannigan</Key>
-      <Forenames>A. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. J. St. J</Forenames>
       <PageNumber>286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +607,9 @@
       <Key>Harvie-Watt</Key>
       <Title>Sir</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1569,9 @@
       <Key>Hoskyns</Key>
       <Title>Sir</Title>
       <Forenames>J. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,8 +1834,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. H. V</Text>
+      <Forenames>R. St. H</Forenames>
+      <Text>. V</Text>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>

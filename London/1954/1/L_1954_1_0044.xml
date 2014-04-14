@@ -453,7 +453,9 @@
       <Key>Gooch</Key>
       <Title>Sir</Title>
       <Forenames>R. E. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1492,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>I. F.</Forenames>
-      <Text>de H</Text>
+      <Forenames>I. F. de H</Forenames>
       <PageNumber>1303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1836,8 +1837,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G.-T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>.-T</Text>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>

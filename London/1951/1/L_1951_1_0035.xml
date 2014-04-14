@@ -199,8 +199,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. M. F</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. M. F.</Forenames>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,15 +224,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D. C</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. C.</Forenames>
       <PageNumber>1161</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. S. S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. S. S.</Forenames>
       <PageNumber>593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,22 +257,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, T. R</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>T. R.</Forenames>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. G. D</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. G. D.</Forenames>
       <PageNumber>128</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, H. IM. C</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>H.</Forenames>
+      <Text>IM. C</Text>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +286,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, J. G. A. J</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>J. G. A. J.</Forenames>
       <PageNumber>1557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,22 +307,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, T. M</Text>
+      <Key>O'Grady</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>1410</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, T. J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, D. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,22 +381,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, P. M</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahoney, J. J. J</Text>
+      <Key>O'Mahoney</Key>
+      <Forenames>J. J. J.</Forenames>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mara, J. E</Text>
+      <Key>O'Mara</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>1286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +409,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. C</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,8 +439,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, B. A</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1090,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paynter</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. P</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. P</Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2722,8 +2723,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. S.</Forenames>
-      <Text>de W</Text>
+      <Forenames>P. S. de W</Forenames>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>

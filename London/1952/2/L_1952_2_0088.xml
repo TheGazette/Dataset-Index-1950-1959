@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Forenames>Evelyn</Forenames>
+      <Title>Evelyn .</Title>
       <PageNumber>2275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +143,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Edward</Forenames>
+      <Title>Edward .</Title>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Eliza</Forenames>
+      <Title>Eliza .</Title>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>2280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +571,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>2219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +877,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Hannah</Forenames>
+      <Title>Hannah .</Title>
       <PageNumber>2051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +886,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry .</Title>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +895,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>2279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keay</Key>
-      <Text>C. A</Text>
+      <Forenames>C. A .</Forenames>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keith</Key>
-      <Text>K</Text>
+      <Forenames>K .</Forenames>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>2863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>2931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kimmings</Key>
-      <Text>H. O</Text>
+      <Forenames>H. O.</Forenames>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2271,7 +2271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>2155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2451,7 +2451,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C I. R</Text>
+      <Forenames>C</Forenames>
+      <Text>I. R</Text>
       <PageNumber>1999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2538,7 +2539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Layland</Key>
-      <Text>E Le Fevere de Ten Hove, J. L F. P. M. G. (J.)</Text>
+      <Forenames>E</Forenames>
+      <Text>Le Fevere de Ten Hove, J. L F. P. M. G. (J.)</Text>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2561,7 +2563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2598,7 +2600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leak</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -492,15 +492,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, P</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>2619</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, A. M</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,8 +1248,8 @@
   <SubCategoryTitle>INDIAN FORCES</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, W</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>

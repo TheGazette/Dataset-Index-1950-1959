@@ -580,8 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romilly</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. M. de B</Forenames>
       <PageNumber>3451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1023,9 @@
       <Key>Ruggs-Price</Key>
       <Title>Sir</Title>
       <Forenames>C. J. N.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,9 +1415,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, E. R. G</Text>
+      <Key>St. John</Key>
+      <Forenames>E. R. G</Forenames>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>

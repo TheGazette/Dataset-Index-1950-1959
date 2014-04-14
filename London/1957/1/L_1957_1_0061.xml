@@ -2440,8 +2440,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>551</PageNumber>
       <PageNumber>1590</PageNumber>
     </MainItem>
@@ -2475,8 +2475,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>

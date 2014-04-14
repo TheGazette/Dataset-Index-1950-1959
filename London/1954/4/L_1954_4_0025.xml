@@ -69,18 +69,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Baer</Forenames>
-      <Text>, O. R</Text>
+      <Key>De Baer</Key>
+      <Forenames>O. R.</Forenames>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brunner</Forenames>
-      <Text>, P. M</Text>
+      <Key>de Beer</Key>
+      <Forenames>M. W.</Forenames>
+      <PageNumber>5696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Belle</Key>
+      <Forenames>F. A. de Bethune</Forenames>
+      <Text>, G. F. M</Text>
+      <PageNumber>5764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Brunner</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>7139</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Deney</Key>
+      <Forenames>G. I.</Forenames>
+      <PageNumber>5765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fenanti</Key>
+      <Forenames>S. B. J. Z</Forenames>
+      <PageNumber>5633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -92,9 +119,68 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lane</Key>
+      <Forenames>Lea</Forenames>
+      <Text>, J. P</Text>
+      <PageNumber>6624</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Larrinaga</Key>
+      <Forenames>A. R.</Forenames>
+      <PageNumber>5569</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Forenames>D. J.</Forenames>
+      <PageNumber>6189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. T.</Forenames>
+      <PageNumber>7373</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhe</Key>
+      <Forenames>Philipe</Forenames>
+      <Text>, A. T</Text>
+      <PageNumber>6979</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rusett</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>6686</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deSaulles</Key>
       <Forenames>B. R. N.</Forenames>
       <PageNumber>5566</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>A. E. L.</Forenames>
+      <PageNumber>6042</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Whalley</Key>
+      <Forenames>C. V.</Forenames>
+      <Text>(</Text>
+      <PageNumber>427936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -109,9 +195,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wimton</Forenames>
-      <Text>, G. F. W</Text>
+      <Key>de Wildenlberg</Key>
+      <Forenames>C. M. G.</Forenames>
+      <Text>de Planta</Text>
+      <PageNumber>5631</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wimton</Key>
+      <Forenames>G. F. W.</Forenames>
       <PageNumber>6555</PageNumber>
     </MainItem>
   </ItemGroup>

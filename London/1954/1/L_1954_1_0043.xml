@@ -309,10 +309,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bethune</Forenames>
-      <Text>, G. F. M</Text>
+      <Key>De Bethune</Key>
+      <Forenames>G. F. M.</Forenames>
       <PageNumber>1075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blank</Key>
+      <Forenames>I. P. M.</Forenames>
+      <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -320,6 +326,27 @@
       <Key>DeBruxelles</Key>
       <Forenames>C. E.</Forenames>
       <PageNumber>1881</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cort</Key>
+      <Forenames>W. J.</Forenames>
+      <PageNumber>153</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costobadie</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>1452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>V. J.</Forenames>
+      <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -476,8 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Forenames>H. G. The</Forenames>
-      <Text>IDuke of</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>The IDuke of</Text>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,6 +859,13 @@
       <Forenames>S. H.</Forenames>
       <PageNumber>212</PageNumber>
       <PageNumber>212</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Pontet</Key>
+      <Forenames>R. S.</Forenames>
+      <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

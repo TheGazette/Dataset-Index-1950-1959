@@ -148,8 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkes</Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. G. St. J</Forenames>
       <PageNumber>4507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cramp</Key>
-      <Forenames>A. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. C. St. J</Forenames>
       <PageNumber>5044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,15 +1766,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, C. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>C. M.</Forenames>
       <PageNumber>5045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon. B. A</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2038,9 +2036,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>5172</PageNumber>
     </MainItem>
   </ItemGroup>

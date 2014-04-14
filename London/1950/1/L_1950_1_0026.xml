@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billiard</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,14 +49,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Text>, !R. H</Text>
+      <Text>!R. H</Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brownjohn</Key>
-      <Text>, IN. C. D</Text>
+      <Text>IN. C. D</Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferis</Key>
-      <Text>, Sir iM. R</Text>
+      <Title>Sir</Title>
+      <Text>iM. R</Text>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,15 +147,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>521</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shorn</Key>
-      <Text>, AC</Text>
+      <Text>AC</Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +273,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adiv</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>1270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, 'M. iR</Text>
+      <Text>'M. iR</Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, G;</Text>
+      <Forenames>G</Forenames>
+      <Text>;</Text>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +666,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,8 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allix</Key>
-      <Forenames>M.</Forenames>
-      <Text>du V. /</Text>
+      <Forenames>M. du V</Forenames>
+      <Text>. /</Text>
       <PageNumber>464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Almond</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambrose</Key>
-      <Text>, 'R. J. Q</Text>
+      <Text>'R. J. Q</Text>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amos</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +860,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Forenames>The Marquess</Forenames>
+      <Title>The</Title>
+      <Forenames>Marquess</Forenames>
       <Text>of</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
@@ -1042,7 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstice</Key>
-      <Text>, iM. J. C</Text>
+      <Text>iM. J. C</Text>
       <PageNumber>586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Text>, IR. J</Text>
+      <Text>IR. J</Text>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aron</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Asher</Key>
-      <Text>, iM</Text>
+      <Text>iM</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Attard</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1506,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austen</Key>
-      <Text>, AC</Text>
+      <Text>AC</Text>
       <PageNumber>101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,7 +1548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,7 +1848,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1936,14 +1938,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Balbahadur</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung.</Title>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bald</Key>
-      <Text>, iR. R. G</Text>
+      <Text>iR. R. G</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2274,7 +2276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>, ,C. G</Text>
+      <Text>,C. G</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2499,7 +2501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartolo-Parnis</Key>
-      <Text>,iM.,Sub. not</Text>
+      <Text>iM.,Sub. not</Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2534,7 +2536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Basten</Key>
-      <Text>, E: T., Sub. not</Text>
+      <Forenames>E</Forenames>
+      <Text>: T., Sub. not</Text>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>

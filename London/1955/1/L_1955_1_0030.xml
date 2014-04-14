@@ -409,8 +409,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. J. St. C</Forenames>
       <PageNumber>562</PageNumber>
       <PageNumber>1253</PageNumber>
     </MainItem>
@@ -2237,7 +2236,9 @@
       <Key>Cayzer</Key>
       <Title>Sir</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>

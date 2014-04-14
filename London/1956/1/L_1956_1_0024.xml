@@ -596,6 +596,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Spon</Key>
+      <Forenames>M. F. L.</Forenames>
+      <PageNumber>364</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deal</Key>
       <Forenames>B. N</Forenames>
       <PageNumber>1073</PageNumber>
@@ -663,8 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnan</Key>
-      <Forenames>F.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. de S</Forenames>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,8 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,8 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>F. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. H. de B</Forenames>
       <PageNumber>567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,8 +1755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamlin</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>

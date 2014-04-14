@@ -352,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tovell</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,14 +457,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vautier</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>J. R. H</Text>
+      <Forenames>J. R. H.</Forenames>
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,28 +628,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardle</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6074</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>W. G</Text>
+      <Forenames>W. G.</Forenames>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wass</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waterfall</Key>
-      <Text>S. D</Text>
+      <Forenames>S. D.</Forenames>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +665,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winch</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,8 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsfold</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>6076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullard</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ajbir</Key>
-      <Forenames>Thapa</Forenames>
+      <Title>Thapa .</Title>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,8 +1703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allix</Key>
-      <Forenames>M.</Forenames>
-      <Text>du V</Text>
+      <Forenames>M. du V</Forenames>
       <PageNumber>5419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allsopp</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2192,7 +2190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcroft</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5942</PageNumber>
     </MainItem>
   </ItemGroup>

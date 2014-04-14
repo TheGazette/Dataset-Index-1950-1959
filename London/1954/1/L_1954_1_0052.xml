@@ -81,6 +81,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Morris</Forenames>
+      <Text>, A</Text>
+      <PageNumber>637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duce</Key>
       <Forenames>G. R.</Forenames>
       <Text>, Cane</Text>

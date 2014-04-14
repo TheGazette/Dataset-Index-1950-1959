@@ -536,8 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowett</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L. Q</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>. Q</Text>
       <PageNumber>8114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,16 +982,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Martin</Forenames>
-      <Text>, M. O</Text>
+      <Key>St. Martin</Key>
+      <Forenames>M. O.</Forenames>
       <PageNumber>7609</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur Sheil</Forenames>
+      <Key>St. Maur</Key>
+      <Forenames>Sheil</Forenames>
       <Text>, J. W. M</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>

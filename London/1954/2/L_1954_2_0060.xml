@@ -2066,7 +2066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Casalis</Key>
-      <Text>de Pury, R. E</Text>
+      <Forenames>de Pury</Forenames>
+      <Text>, R. E</Text>
       <PageNumber>3066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,8 +2279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. de L</Forenames>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>

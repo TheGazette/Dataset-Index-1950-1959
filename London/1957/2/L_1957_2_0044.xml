@@ -1374,17 +1374,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Laun</Forenames>
-      <Text>, W</Text>
+      <Key>Van Laun</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>3495</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, R. M</Text>
+      <Key>Van Oss</Key>
+      <Forenames>R. M.</Forenames>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,8 +1587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigor</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. V. J</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. J</Text>
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,8 +1646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>H. O'D</Forenames>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>

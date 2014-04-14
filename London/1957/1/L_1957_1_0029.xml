@@ -177,9 +177,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn-Sayer</Forenames>
-      <Text>, J. H</Text>
+      <Key>St. Aubyn-Sayer</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1716,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. A. De G.</Forenames>
+      <Forenames>S. A. De G</Forenames>
       <PageNumber>78</PageNumber>
       <PageNumber>1123</PageNumber>
     </MainItem>

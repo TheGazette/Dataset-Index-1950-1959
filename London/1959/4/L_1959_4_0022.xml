@@ -1756,8 +1756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley-Hall</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2044,8 +2043,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>7000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2058,15 +2057,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, H. A</Text>
+      <Key>O'Grady</Key>
+      <Forenames>H. A.</Forenames>
       <PageNumber>7001</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, D</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>7000</PageNumber>
     </MainItem>
   </ItemGroup>

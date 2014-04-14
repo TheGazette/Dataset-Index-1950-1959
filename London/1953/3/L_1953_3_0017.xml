@@ -344,7 +344,9 @@
       <Key>Walsham</Key>
       <Title>Sir</Title>
       <Forenames>J. S. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,7 +1469,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. R.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>

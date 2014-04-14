@@ -485,8 +485,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baglee</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <PageNumber>4159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,8 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbrigge</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barne</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. E. St. J</Forenames>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,8 +1535,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartelot</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. G</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. G</Text>
       <PageNumber>5039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2549,8 +2547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bembridge</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de L. H</Text>
+      <Forenames>R. A. de L</Forenames>
+      <Text>. H</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>

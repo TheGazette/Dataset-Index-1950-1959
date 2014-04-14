@@ -394,8 +394,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de B</Text>
+      <Forenames>K. de B</Forenames>
       <PageNumber>5153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1279,9 @@
       <Key>Boles</Key>
       <Title>Sir</Title>
       <Forenames>J. J. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4547</PageNumber>
     </MainItem>
   </ItemGroup>

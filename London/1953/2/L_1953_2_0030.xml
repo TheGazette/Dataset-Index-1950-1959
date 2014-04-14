@@ -1355,8 +1355,7 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>1931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,8 +1503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>W. P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. P. St. J</Forenames>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1765,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. W. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2269,7 +2269,9 @@
       <Key>Birkin</Key>
       <Title>Sir</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2404,8 +2406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackmore</Key>
-      <Forenames>D. M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>D. M. de C</Forenames>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>

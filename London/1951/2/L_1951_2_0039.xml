@@ -845,7 +845,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>M. N. P. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1298,9 @@
       <Key>Cotterell</Key>
       <Title>Sir</Title>
       <Forenames>R. C. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2018,8 +2022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniell</Key>
-      <Forenames>A. P.</Forenames>
-      <Text>de T</Text>
+      <Forenames>A. P. de T</Forenames>
       <PageNumber>3281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2267,8 +2270,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>2382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2339,9 +2341,22 @@
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilton</Forenames>
-      <Text>, C. S</Text>
+      <Key>de Cent</Key>
+      <Text>CD</Text>
+      <PageNumber>2994</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>S. B. J. Z.</Forenames>
+      <PageNumber>2993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wilton</Key>
+      <Forenames>C. S.</Forenames>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2430,7 +2445,9 @@
       <Key>Dewey</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>

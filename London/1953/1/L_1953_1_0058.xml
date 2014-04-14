@@ -408,7 +408,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W.</Text>
+      <Text>W</Text>
       <PageNumber>160</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1466,8 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>E. St. B</Forenames>
       <PageNumber>161</PageNumber>
     </MainItem>
   </ItemGroup>

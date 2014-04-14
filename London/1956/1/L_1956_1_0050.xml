@@ -414,8 +414,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,15 +428,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, B</Text>
+      <Key>O'Malley</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, E</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>

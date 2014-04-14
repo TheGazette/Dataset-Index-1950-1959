@@ -2091,7 +2091,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.PC), Corr</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2120,7 +2122,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. K.</Forenames>
-      <Text>(R A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>

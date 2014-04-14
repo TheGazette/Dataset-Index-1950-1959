@@ -1756,7 +1756,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2062,8 +2064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arcedeckne-Butler</Key>
-      <Title>St.</Title>
-      <Forenames>J. P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>P.</Forenames>
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>

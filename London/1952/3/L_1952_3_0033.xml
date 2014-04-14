@@ -1724,8 +1724,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2768,7 +2768,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>I. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -926,16 +926,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, P. R. R</Text>
+      <Key>de Bernier</Key>
+      <Forenames>E. A. P.</Forenames>
+      <PageNumber>5701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boinod</Key>
+      <Forenames>D. B. de V</Forenames>
+      <Text>. J</Text>
+      <PageNumber>5760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bono</Key>
+      <Forenames>P. J. B.</Forenames>
+      <PageNumber>5760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh</Key>
+      <Forenames>P. R. R.</Forenames>
       <PageNumber>6464</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Butts.</Title>
+      <Key>De Butts</Key>
       <Forenames>F.</Forenames>
       <Text>IM</Text>
       <PageNumber>6463</PageNumber>
@@ -943,18 +963,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>6710</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, R. St. C</Text>
       <PageNumber>63115</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, G. A. W</Text>
+      <Key>De Penning</Key>
+      <Forenames>G. A. W.</Forenames>
       <PageNumber>7588</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, A. M. J</Text>
+      <PageNumber>5901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -968,18 +1002,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Uphaugh</Forenames>
-      <Text>, J. R. D</Text>
+      <Key>De Uphaugh</Key>
+      <Forenames>J. R. D.</Forenames>
       <PageNumber>7</PageNumber>
       <PageNumber>184</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zouohe</Forenames>
-      <Text>, R. B</Text>
+      <Key>de Vine</Key>
+      <Forenames>A. D.</Forenames>
+      <PageNumber>5900</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zoete</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>6465</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Zouohe</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>6778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2087,8 +2133,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>P.</Forenames>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2204,10 +2250,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Heaume</Forenames>
+      <Key>du Boulay</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>6045</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Du Heaume</Key>
       <Text>; G</Text>
       <PageNumber>7189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Pare</Key>
+      <Forenames>Braham</Forenames>
+      <Text>, J. C</Text>
+      <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

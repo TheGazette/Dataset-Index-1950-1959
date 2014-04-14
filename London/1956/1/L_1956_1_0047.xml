@@ -630,8 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiptaft</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de T</Text>
+      <Forenames>J. R. de T</Forenames>
       <PageNumber>1140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,8 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudball</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>T. St. V</Forenames>
       <PageNumber>645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,10 +1774,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Lande</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Lande</Forenames>
       <Text>, C. J</Text>
       <PageNumber>1503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Orton</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>1224</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2024,6 +2029,13 @@
       <Forenames>Bergen</Forenames>
       <Text>, J. E</Text>
       <PageNumber>1505</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Bethmann-Hollweg</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2529,8 +2541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Forenames>C. R. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>C. R. St. Q</Forenames>
       <PageNumber>753</PageNumber>
     </MainItem>
   </ItemGroup>

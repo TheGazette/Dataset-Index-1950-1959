@@ -588,7 +588,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>M.M</Text>
+      <Text>
+        <Honour>M.M</Honour>
+      </Text>
       <PageNumber>6772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chetwynd</Key>
-      <Forenames>Viscountess</Forenames>
+      <Title>Viscountess</Title>
       <PageNumber>6771</PageNumber>
     </MainItem>
   </ItemGroup>

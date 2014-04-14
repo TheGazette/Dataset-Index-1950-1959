@@ -685,10 +685,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Title>Cuylenburg.</Title>
-      <Forenames>R. O</Forenames>
-      <Text>'B</Text>
+      <Key>Van Cuylenburg</Key>
+      <Forenames>R. O'B</Forenames>
       <PageNumber>5251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,17 +699,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Veen</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Veen</Forenames>
       <Text>, C. W</Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, H</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>5139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,17 +722,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praagh</Forenames>
-      <Text>, G. E</Text>
+      <Key>Van Praagh</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wyck</Forenames>
-      <Text>, W. C</Text>
+      <Key>Van Wyck</Key>
+      <Forenames>W. C .</Forenames>
       <PageNumber>5139</PageNumber>
     </MainItem>
   </ItemGroup>

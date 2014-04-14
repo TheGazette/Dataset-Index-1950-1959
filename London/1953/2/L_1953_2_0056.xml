@@ -716,22 +716,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, E. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>2035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, M. M. J</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>M. M. J.</Forenames>
       <PageNumber>2701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,8 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrer</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L. Vanderspar, M. E</Text>
+      <Forenames>M. H. de L</Forenames>
+      <Text>. Vanderspar, M. E</Text>
       <PageNumber>2768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1747,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1869,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. De V.</Forenames>
+      <Forenames>J. De V</Forenames>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>

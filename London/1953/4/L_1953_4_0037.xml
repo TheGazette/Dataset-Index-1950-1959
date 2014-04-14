@@ -37,8 +37,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. T.</Forenames>
-      <Text>de H</Text>
+      <Forenames>J. T. de H</Forenames>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,17 +57,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, J. A</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rossum</Forenames>
-      <Text>, G. D. V</Text>
+      <Key>van Geyzel</Key>
+      <Forenames>P. F. E. J.</Forenames>
+      <PageNumber>5493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Rossum</Key>
+      <Forenames>G. D. V.</Forenames>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,8 +141,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>P. St. G</Forenames>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,8 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigors</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>

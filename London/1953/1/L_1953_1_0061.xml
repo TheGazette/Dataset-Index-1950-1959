@@ -1469,8 +1469,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,8 +1486,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>1093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,15 +1500,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, G. P</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,8 +1658,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>1376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,8 +1711,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, T. S</Text>
+      <Key>O'Regan</Key>
+      <Forenames>T. S.</Forenames>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,8 +1817,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, K. M. M</Text>
+      <Key>O'Shea</Key>
+      <Forenames>K. M. M.</Forenames>
       <PageNumber>1093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,8 +1845,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, K. T. A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>K. T. A.</Forenames>
       <PageNumber>1793</PageNumber>
     </MainItem>
   </ItemGroup>

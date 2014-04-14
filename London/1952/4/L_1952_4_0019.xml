@@ -102,7 +102,9 @@
       <Key>Beaumont</Key>
       <Title>Sir</Title>
       <Forenames>G. H. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2102,7 +2104,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>C. F. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -318,16 +318,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Damm</Forenames>
-      <Text>, S</Text>
+      <Key>Van Damm</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>2414</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bok</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bok</Forenames>
       <Text>, R</Text>
       <PageNumber>2541</PageNumber>
     </MainItem>
@@ -2426,8 +2425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willey</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>

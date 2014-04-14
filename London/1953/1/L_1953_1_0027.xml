@@ -882,7 +882,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>C. F. R.</Forenames>
-      <Text>, Bt, Coir</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1682,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2289,7 +2293,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. R. S.</Text>
+      <Text>W. R. S</Text>
       <PageNumber>1152</PageNumber>
     </SubItem>
   </ItemGroup>

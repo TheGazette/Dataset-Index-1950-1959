@@ -391,8 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>5147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,8 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fishburn</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'L</Text>
+      <Forenames>M. O'L</Forenames>
       <PageNumber>5523</PageNumber>
     </MainItem>
   </ItemGroup>

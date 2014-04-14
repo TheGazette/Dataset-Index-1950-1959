@@ -1246,8 +1246,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, S</Text>
+      <Key>O'Brian</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1263,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H</Forenames>
       <PageNumber>1297</PageNumber>
     </MainItem>
   </ItemGroup>

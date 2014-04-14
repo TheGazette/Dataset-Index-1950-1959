@@ -1350,8 +1350,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J</Forenames>
+      <Forenames>St. J</Forenames>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,8 +1711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>6770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2034,17 +2032,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Meeteren</Forenames>
-      <Text>, F. . A</Text>
+      <Key>Van Meeteren</Key>
+      <Forenames>F.</Forenames>
+      <Text>. A</Text>
       <PageNumber>6206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wtberghe</Forenames>
-      <Text>, C G</Text>
+      <Key>Van Wtberghe</Key>
+      <Forenames>C</Forenames>
+      <Text>G</Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>

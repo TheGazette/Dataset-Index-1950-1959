@@ -324,8 +324,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhys</Key>
-      <Forenames>W. J. St</Forenames>
-      <Text>. E.-G</Text>
+      <Forenames>W. J. St. E</Forenames>
+      <Text>.-G</Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,17 +1308,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, K. N</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>K. N.</Forenames>
       <PageNumber>6158</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, A. H. G</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>A. H. G.</Forenames>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>

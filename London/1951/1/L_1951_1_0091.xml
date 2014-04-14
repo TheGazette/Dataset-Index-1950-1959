@@ -199,7 +199,7 @@
       <Key>
         <KeyDitto>—.—</KeyDitto>
       </Key>
-      <Forenames>Ernest</Forenames>
+      <Title>Ernest .</Title>
       <PageNumber>1493</PageNumber>
     </MainItem>
     <SubItem>
@@ -263,8 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tees</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. O'B</Forenames>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>1020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +415,7 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Forenames>Daniel</Forenames>
+      <Title>Daniel .</Title>
       <PageNumber>841</PageNumber>
     </MainItem>
     <SubItem>
@@ -440,7 +439,7 @@
       <PageNumber>1148</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>I</Text>
+      <Text>I.</Text>
       <PageNumber>1021</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -560,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,14 +584,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornes</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorniley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurman</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickner</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,14 +730,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilley</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Timberlake</Key>
-      <Text>. P. H</Text>
+      <Forenames>P. H.</Forenames>
       <PageNumber>1273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tindale</Key>
-      <Text>, I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tobitt</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +822,7 @@
       <PageNumber>510</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>T. M. S</Text>
+      <Text>T. M. S.</Text>
       <PageNumber>514</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -858,7 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tonks</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>342</PageNumber>
     </MainItem>
     <SubItem>
@@ -897,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tostdevine</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,14 +910,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tourrand</Key>
-      <Text>. L. L. iM</Text>
+      <Forenames>L. L.</Forenames>
+      <Text>iM</Text>
       <PageNumber>903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Towert</Key>
-      <Text>. J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tresman</Key>
-      <Text>. W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>1143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1193,7 @@
       <PageNumber>464</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>L</Text>
+      <Text>L.</Text>
       <PageNumber>761</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1245,7 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuffill</Key>
-      <Text>. H. B</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turle</Key>
-      <Text>, ,M</Text>
+      <Text>,M</Text>
       <PageNumber>770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1337,7 @@
       <PageNumber>637</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>N</Text>
+      <Text>N.</Text>
       <PageNumber>1484</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1415,7 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Uden</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Urch</Key>
-      <Text>. S. H. (S. E.)</Text>
+      <Forenames>S. H.</Forenames>
+      <Text>(S. E.)</Text>
       <PageNumber>1698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,38 +1469,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Velde, M</Text>
+      <Forenames>de Velde</Forenames>
+      <Text>, M</Text>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, B. G</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, B. G</Text>
       <PageNumber>1605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Van Den Den Dungen</Forenames>
+      <Key>Van Van</Key>
+      <Forenames>Den Den Dungen</Forenames>
       <Text>, Dungen, A W</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Vin</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Vin</Forenames>
       <Text>, L. A. F. C. (A.)</Text>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Engelen</Forenames>
-      <Text>, J. M. V. (J.)</Text>
+      <Key>Van Engelen</Key>
+      <Forenames>J. M. V.</Forenames>
+      <Text>(J.)</Text>
       <PageNumber>521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,9 +1516,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Steene</Forenames>
-      <Text>, J. L. J</Text>
+      <Key>Van Steene</Key>
+      <Forenames>J. L. J.</Forenames>
       <PageNumber>511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1881,7 +1883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>. Albert</Text>
+      <Forenames>Albert</Forenames>
       <PageNumber>1155</PageNumber>
     </MainItem>
     <SubItem>
@@ -1889,7 +1891,7 @@
       <PageNumber>758</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>C. G. S</Text>
+      <Text>C. G. S.</Text>
       <PageNumber>1548</PageNumber>
     </SubItem>
   </ItemGroup>

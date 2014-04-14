@@ -1114,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bembridge</Key>
-      <Forenames>R. A. De L. H.</Forenames>
+      <Forenames>R. A. De L</Forenames>
+      <Text>. H</Text>
       <PageNumber>3445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2645,8 +2646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Britts</Key>
-      <Forenames>G. A. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>G. A. St. H</Forenames>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>

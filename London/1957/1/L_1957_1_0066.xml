@@ -1428,8 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>1289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2409,8 +2408,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, M. W</Text>
+      <Key>O'Connell</Key>
+      <Forenames>M. W.</Forenames>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>

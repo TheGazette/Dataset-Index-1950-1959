@@ -417,7 +417,9 @@
       <Key>Buzzard</Key>
       <Title>Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2564,8 +2566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G. E</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. E</Text>
       <PageNumber>549</PageNumber>
     </MainItem>
   </ItemGroup>

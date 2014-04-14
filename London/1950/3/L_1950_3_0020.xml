@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Botterill</Key>
-      <Text>J. L</Text>
+      <Forenames>J. L.</Forenames>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brandon</Key>
-      <Text>I. H</Text>
+      <Forenames>I. H.</Forenames>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brindle</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +849,9 @@
       <Key>Broughton</Key>
       <Title>Sir</Title>
       <Forenames>E. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burfitt</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1381,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Busuttil</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,7 +1793,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1993,7 +1996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2258,7 +2261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cauriter</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2389,7 +2392,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>

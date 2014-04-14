@@ -214,8 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court-Smith</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,8 +1013,7 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>3937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1034,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Text>D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,8 +1045,8 @@
       <Key>
         <KeyDitto>___ ___ ——</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. C</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. C</Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,6 +1608,34 @@
       <Key>Death</Key>
       <Forenames>R</Forenames>
       <PageNumber>4784</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>4187</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burlet</Key>
+      <Forenames>R. P. A. J.</Forenames>
+      <PageNumber>3582</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buse</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>5029</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>4915</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2522,9 +2550,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, R. P</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>

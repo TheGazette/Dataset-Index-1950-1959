@@ -254,7 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skingle</Key>
-      <Text>S. G. B</Text>
+      <Forenames>S. G. B.</Forenames>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +594,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1091,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>C, D</Text>
+      <Forenames>C</Forenames>
+      <Text>, D</Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,8 +1110,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. St. A</Forenames>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stamataris</Key>
-      <Text>M. -</Text>
+      <Forenames>M.</Forenames>
+      <Text>-</Text>
       <PageNumber>4791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1427,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staveley</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,7 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonall</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1792,7 +1795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratheden</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1836,7 +1839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,7 +1872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>C. C</Text>
+      <Forenames>C. C.</Forenames>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2042,14 +2045,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sumner</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -2076,7 +2079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton</Key>
-      <Text>R. D</Text>
+      <Forenames>R. D.</Forenames>
       <PageNumber>4688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2099,14 +2102,14 @@
       <Key>
         <KeyDitto>___ ___ ___ -—</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2151,7 +2154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swepstone</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,7 +2281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tamworth</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>

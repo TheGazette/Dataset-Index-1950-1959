@@ -404,7 +404,7 @@
       <PageNumber>4911</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cane</Text>
+      <Text>Cane.</Text>
       <PageNumber>4195</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1047,7 +1047,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>T</Text>
+      <Text>T.</Text>
       <PageNumber>4913</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2234,9 +2234,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>

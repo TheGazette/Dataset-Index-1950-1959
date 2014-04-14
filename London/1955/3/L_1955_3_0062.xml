@@ -849,33 +849,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, D</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Emden</Forenames>
-      <Text>, W. G</Text>
+      <Key>Van Emden</Key>
+      <Forenames>W. G.</Forenames>
       <PageNumber>4689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, E. L</Text>
+      <Key>Van Someren</Key>
+      <Forenames>E. L.</Forenames>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Wadenoijen</Forenames>
-      <Text>, H. C</Text>
+      <Key>Van Wadenoijen</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>

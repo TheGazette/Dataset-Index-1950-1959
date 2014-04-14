@@ -387,8 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashe</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,8 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayre</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. Baber, A. W</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. Baber, A. W</Text>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1311,8 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bass</Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>G. L. St. P</Forenames>
       <PageNumber>4922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Forenames>J. M. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. M. O'R</Forenames>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,8 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Battine</Key>
-      <Forenames>O. L. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>O. L. St. C</Forenames>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2430,7 +2426,9 @@
     <MainItem>
       <Key>Blofield</Key>
       <Forenames>H. J. Blois</Forenames>
-      <Text>, Sir G. R. E., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -26,7 +26,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youdale</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +90,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zealley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitasing</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,21 +182,23 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Asbahadur</Key>
-      <Forenames>Limbu</Forenames>
+      <Title>Limbu .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylen</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,14 +226,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Balbahadur</Key>
-      <Forenames>Pun</Forenames>
+      <Title>Pun .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Balpir</Key>
-      <Forenames>Thapa</Forenames>
+      <Title>Thapa .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bharti</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,14 +370,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Chhatraman</Key>
-      <Forenames>Rai</Forenames>
+      <Title>Rai .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Christian</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooksey</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalman</Key>
-      <Forenames>Rana</Forenames>
+      <Title>Rana .</Title>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnelly</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrier</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,14 +561,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fiset</Key>
-      <Text>S. L</Text>
+      <Forenames>S. L.</Forenames>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>N. A</Text>
+      <Forenames>N. A</Forenames>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>

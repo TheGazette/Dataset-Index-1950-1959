@@ -961,8 +961,10 @@
   <ItemGroup>
     <MainItem>
       <Key>German</Key>
-      <Forenames>G. J. St</Forenames>
-      <Text>. L., Bt. Gethin, Sir R. P</Text>
+      <Forenames>G. J. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1980,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. B. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>

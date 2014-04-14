@@ -358,11 +358,55 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beer</Key>
+      <Forenames>W. P. E.</Forenames>
+      <PageNumber>2163</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buratte</Key>
+      <Forenames>J. T.</Forenames>
+      <PageNumber>3997</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>V. J</Forenames>
+      <PageNumber>3073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>M. P.</Forenames>
+      <Text>, Sub. not</Text>
+      <PageNumber>3476</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. J.</Forenames>
       <PageNumber>2766</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Semlyen</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>3899</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zulueta</Key>
+      <Forenames>P. P. J.</Forenames>
+      <Text>.„</Text>
+      <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1562,9 +1606,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, A. J</Text>
+      <Key>Du Sautoy</Key>
+      <Forenames>A. J.</Forenames>
       <PageNumber>2249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2237,8 +2280,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>

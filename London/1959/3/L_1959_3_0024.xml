@@ -873,7 +873,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2313,8 +2315,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. R. R. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. R. R. St. A</Forenames>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>

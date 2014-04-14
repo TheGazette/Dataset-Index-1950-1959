@@ -262,21 +262,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Catterall</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Causer</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cave</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,14 +293,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cawley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cawson</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +333,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalupa</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chandler</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +480,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappell</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,14 +630,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Chater</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1844</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chatley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarkson</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Claybourn</Key>
-      <Text>S. L</Text>
+      <Forenames>S. L.</Forenames>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Claybrook</Key>
-      <Text>L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>C. A</Text>
+      <Forenames>C. A.</Forenames>
       <PageNumber>1589</PageNumber>
     </MainItem>
   </ItemGroup>

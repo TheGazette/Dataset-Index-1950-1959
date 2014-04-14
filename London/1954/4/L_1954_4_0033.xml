@@ -534,7 +534,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. R. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +695,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de Lane</Text>
+      <Forenames>J. P. de Lane</Forenames>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2087,8 +2088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LIoyd-Davies</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2243,8 +2243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Forenames>D. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. J. St. J</Forenames>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1793,7 +1793,9 @@
       <Key>Scott-Douglas</Key>
       <Title>Sir</Title>
       <Forenames>J. L. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5456</PageNumber>
     </MainItem>
   </ItemGroup>

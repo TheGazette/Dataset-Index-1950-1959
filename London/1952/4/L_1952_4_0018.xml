@@ -848,8 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alcock</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>6332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,8 +1798,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baglee</Key>
-      <Title>St.</Title>
-      <Forenames>J. B.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>B.</Forenames>
       <PageNumber>6259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1941,8 +1940,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>de C</Text>
+      <Forenames>W. de C</Forenames>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>

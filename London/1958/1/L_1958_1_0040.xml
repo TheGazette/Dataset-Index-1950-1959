@@ -127,7 +127,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1922,8 +1924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheil</Key>
-      <Forenames>J. W. M. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>J. W. M. St. M</Forenames>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2632,7 +2633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>R. B. De F.</Forenames>
+      <Forenames>R. B. De F</Forenames>
       <PageNumber>1189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2693,8 +2694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>R. P. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. P. A. de B</Forenames>
       <PageNumber>1429</PageNumber>
     </MainItem>
   </ItemGroup>

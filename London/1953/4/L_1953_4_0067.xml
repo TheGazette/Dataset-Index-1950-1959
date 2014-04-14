@@ -538,9 +538,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bylevelt</Forenames>
-      <Text>, J. C</Text>
+      <Key>Van Bylevelt</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>6938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,17 +553,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Schaick</Forenames>
-      <Text>, H</Text>
+      <Key>Van Schaick</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>5432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Toen</Forenames>
-      <Text>, R</Text>
+      <Key>Van Toen</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>5565</PageNumber>
     </MainItem>
   </ItemGroup>

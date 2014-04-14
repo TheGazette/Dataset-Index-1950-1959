@@ -845,9 +845,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, Sir A., Bt</Text>
+      <Key>St. Clair-Ford</Key>
+      <Title>Sir</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>

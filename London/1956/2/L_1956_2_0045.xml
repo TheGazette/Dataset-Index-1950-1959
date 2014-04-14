@@ -1342,17 +1342,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, E. R. G</Text>
+      <Key>St. John</Key>
+      <Forenames>E. R. G.</Forenames>
       <PageNumber>2910</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, K</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>K.</Forenames>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>

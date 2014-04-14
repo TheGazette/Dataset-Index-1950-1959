@@ -830,8 +830,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. R</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. R.</Forenames>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,15 +853,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, P</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, (D</Text>
+      <Key>O'Dwyer</Key>
+      <Text>(D</Text>
       <PageNumber>1592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,8 +889,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. W</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. W.</Forenames>
       <PageNumber>7731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,15 +1034,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, iN</Text>
+      <Key>O'Shea</Key>
+      <Text>iN</Text>
       <PageNumber>1284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>

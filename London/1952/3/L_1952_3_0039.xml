@@ -678,8 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>P. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. H. de L</Forenames>
       <PageNumber>4295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chastel</Key>
-      <Text>de Boinville, G. N. P</Text>
+      <Forenames>de Boinville</Forenames>
+      <Text>, G. N. P</Text>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +954,9 @@
       <Key>Cholmeley</Key>
       <Title>Sir</Title>
       <Forenames>H. J. F. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1631,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. R. R</Text>
+      <Text>W. R. R.</Text>
       <PageNumber>3636</PageNumber>
     </SubItem>
     <KeyDitto>___</KeyDitto>

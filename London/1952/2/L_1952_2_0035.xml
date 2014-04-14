@@ -554,7 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neilson</Key>
-      <Forenames>G. De B.</Forenames>
+      <Forenames>G. De B</Forenames>
       <PageNumber>3062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,15 +928,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, A</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>1874</PageNumber>
       <PageNumber>2435</PageNumber>
     </MainItem>
@@ -950,8 +950,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. V. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. V. F.</Forenames>
       <PageNumber>3111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,15 +964,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, T. R</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>T. R.</Forenames>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>2357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,8 +1022,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, L. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>L. P.</Forenames>
       <PageNumber>2952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1052,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. P</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. P.</Forenames>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,8 +1087,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. D. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. D. J.</Forenames>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,14 +1096,16 @@
     <MainItem>
       <Key>Orlay</Key>
       <Forenames>G.</Forenames>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2360</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, B. A</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2037,8 +2039,8 @@
       <Key>
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. M</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. M</Text>
       <PageNumber>3167</PageNumber>
     </MainItem>
   </ItemGroup>

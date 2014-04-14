@@ -145,8 +145,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>S. B. de C</Forenames>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,8 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudball</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>T. St. V</Forenames>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,9 +788,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Helden</Forenames>
-      <Text>, H. W</Text>
+      <Key>Van Helden</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,7 +1315,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2779</PageNumber>
     </MainItem>
   </ItemGroup>

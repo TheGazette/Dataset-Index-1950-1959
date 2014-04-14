@@ -279,9 +279,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hasselt</Forenames>
-      <Text>, M</Text>
+      <Key>Van Hasselt</Key>
+      <Forenames>M</Forenames>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,8 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>H. de G</Forenames>
       <PageNumber>4596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1050,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>K. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>K. St. C</Forenames>
       <PageNumber>4980</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shier</Key>
-      <Text>, iR</Text>
+      <Text>iR</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipley</Key>
-      <Text>, iR</Text>
+      <Text>iR</Text>
       <PageNumber>413</PageNumber>
       <PageNumber>414</PageNumber>
     </MainItem>
@@ -97,14 +97,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shrives</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Silcox</Key>
-      <Text>,. W. J</Text>
+      <Text>. W. J</Text>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +181,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>,. F. D</Text>
+      <Text>. F. D</Text>
       <PageNumber>530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Text>, IR. I. L</Text>
+      <Text>IR. I. L</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smoker</Key>
-      <Text>, iB. G. .:</Text>
+      <Text>iB. G. .:</Text>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerfield</Key>
-      <Text>. B. M</Text>
+      <Forenames>B. M.</Forenames>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stahneld</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,14 +1270,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Studd</Key>
-      <Text>, AG</Text>
+      <Text>AG</Text>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sturgess</Key>
-      <Text>, F :</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Svkes</Key>
-      <Text>. &lt;D. S., Sb. not;</Text>
+      <Text>&lt;D. S., Sb. not;</Text>
       <PageNumber>1273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,14 +1426,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>, IR. A. J</Text>
+      <Text>IR. A. J</Text>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tathaim</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1488,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>L S</Text>
+      <Forenames>L</Forenames>
+      <Text>S</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tedder</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,7 +1863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Text>. G. G. P</Text>
+      <Forenames>G. G. P.</Forenames>
       <PageNumber>658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1961,7 +1963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tinsley</Key>
-      <Text>,,J</Text>
+      <Text>,J</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2065,14 +2067,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Townley</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TownsendvD</Key>
-      <Text>. L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>1420</PageNumber>
       <PageNumber>1421</PageNumber>
     </MainItem>
@@ -2310,7 +2312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Twine</Key>
-      <Text>, C A. -</Text>
+      <Forenames>C</Forenames>
+      <Text>A. -</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2538,7 +2541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wa</Key>
-      <Text>.ghorn, A. F. Waite, W</Text>
+      <Text>ghorn, A. F. Waite, W</Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -437,8 +437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuff</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>6405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +951,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de T</Text>
+      <Forenames>P. de T</Forenames>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,16 +1541,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, V. -</Text>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>5754</PageNumber>
+      <PageNumber>5838</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brfie</Key>
+      <Text>^Ferguson, A</Text>
+      <PageNumber>7216</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brunner</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>6562</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>5906</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gale</Key>
+      <Forenames>D. O.</Forenames>
+      <PageNumber>5619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Havilland</Key>
+      <Forenames>V.</Forenames>
+      <Text>-</Text>
       <PageNumber>5557</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Hoyde</Forenames>
+      <Key>De La</Key>
+      <Forenames>Hoyde</Forenames>
       <Text>, D. R. H</Text>
       <PageNumber>5686</PageNumber>
       <PageNumber>5686</PageNumber>
@@ -1560,34 +1594,66 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, G. E</Text>
+      <Key>De Lacy</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lange</Forenames>
-      <Text>, A. E</Text>
+      <Key>De Lange</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, G. A. W</Text>
+      <Key>De Penning</Key>
+      <Forenames>G. A. W.</Forenames>
       <PageNumber>6319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pret-Roose</Forenames>
-      <Text>, M. J. G</Text>
+      <Key>De Pret-Roose</Key>
+      <Forenames>M. J. G.</Forenames>
       <PageNumber>5617</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>P. B.</Forenames>
+      <PageNumber>6855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>7294</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rosa</Key>
+      <Forenames>L. V.</Forenames>
+      <PageNumber>6565</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Jorre</Forenames>
+      <Text>, J. A</Text>
+      <PageNumber>6250</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1601,10 +1667,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Whalley</Forenames>
-      <Text>, C. V</Text>
+      <Key>de Selincourt</Key>
+      <Forenames>D. R.</Forenames>
+      <PageNumber>6252</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vile</Key>
+      <Text>CP</Text>
+      <PageNumber>7216</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Whalley</Key>
+      <Forenames>C. V.</Forenames>
       <PageNumber>5616</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>J. K.</Forenames>
+      <PageNumber>6860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

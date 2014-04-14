@@ -846,8 +846,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John D. E.</Forenames>
+      <Key>St. John</Key>
+      <Forenames>D. E.</Forenames>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,8 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Forenames>M. W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>M. W. St. L</Forenames>
       <PageNumber>2919</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -670,7 +670,9 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,8 +808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>V. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,9 +1795,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boisson</Forenames>
-      <Text>, H. W</Text>
+      <Key>Du Boisson</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>4298</PageNumber>
     </MainItem>
   </ItemGroup>

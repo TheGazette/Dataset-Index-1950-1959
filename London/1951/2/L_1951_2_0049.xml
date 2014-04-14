@@ -52,8 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,15 +130,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. B.</Forenames>
       <PageNumber>2877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, W</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>

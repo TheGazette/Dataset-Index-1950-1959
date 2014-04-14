@@ -182,25 +182,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Bergh</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Bergh</Forenames>
       <Text>, C. J</Text>
       <PageNumber>644</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ments</Forenames>
-      <Text>, M</Text>
+      <Key>Van Ments</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, E. L</Text>
+      <Key>Van Someren</Key>
+      <Forenames>E. L.</Forenames>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>

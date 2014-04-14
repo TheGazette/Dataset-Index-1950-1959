@@ -759,7 +759,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>A. R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,8 +1535,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. P. O'C</Forenames>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,8 +1651,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. N.</Forenames>
-      <Text>de L</Text>
+      <Forenames>D. N. de L</Forenames>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>

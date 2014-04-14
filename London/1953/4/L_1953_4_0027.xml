@@ -517,8 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gransden</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,7 +1844,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2305,7 +2306,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6149</PageNumber>
     </MainItem>
   </ItemGroup>

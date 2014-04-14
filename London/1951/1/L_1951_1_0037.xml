@@ -153,8 +153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Forenames>R. P. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. P. A. de B</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1914,7 +1913,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. G.</Forenames>
-      <Text>(R.A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>416</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -112,9 +112,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rensburg</Forenames>
-      <Text>, H</Text>
+      <Key>Van Rensburg</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>1951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +544,9 @@
       <Key>Anson</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,8 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bircher</Key>
-      <Forenames>F. M. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>F. M. St. L</Forenames>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>

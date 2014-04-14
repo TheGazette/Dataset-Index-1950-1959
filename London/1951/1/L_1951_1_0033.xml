@@ -386,7 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, A. J. W</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, A. J. W</Text>
       <PageNumber>243</PageNumber>
     </MainItem>
   </ItemGroup>

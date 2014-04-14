@@ -1338,16 +1338,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de G</Text>
+      <Forenames>R. S. de G</Forenames>
       <PageNumber>2147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>A. J. D. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>A. J. D. O'H</Forenames>
       <PageNumber>2077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorsom</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>R. O'C</Forenames>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2540,9 +2537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Title>Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Master of</Text>
+      <Title>Hon. The Master</Title>
+      <Text>of</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>

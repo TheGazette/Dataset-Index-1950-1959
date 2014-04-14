@@ -39,7 +39,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +448,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,15 +473,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Hill, J. D</Text>
+      <Key>O'Brien-Hill</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>1812</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. V</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. V.</Forenames>
       <PageNumber>153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,8 +518,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, A</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>1626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +571,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, P. H. V. de C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>P. H. V. de C</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,15 +595,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, T. J., Corr</Text>
+      <Key>O'Hara</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara-lBoyce, J. S</Text>
+      <Key>O'Hara-l</Key>
+      <Forenames>Boyce</Forenames>
+      <Text>, J. S</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,8 +779,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, J. P</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>1480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +800,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>1315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,8 +861,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, M. D</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>11976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,8 +1012,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, D. H</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,8 +1026,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, K. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>K. P.</Forenames>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,8 +1056,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, B. A., Sub. not</Text>
+      <Key>O'Toole</Key>
+      <Forenames>B. A.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>2054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1096,9 @@
       <Key>Outram</Key>
       <Title>Sir</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,7 +2103,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___</KeyDitto>
     <SubItem>
-      <Text>J. M. H.</Text>
+      <Text>J. M. H</Text>
       <PageNumber>1314</PageNumber>
     </SubItem>
     <KeyDitto>___</KeyDitto>
@@ -2116,7 +2123,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W. A. S.</Text>
+      <Text>W. A. S</Text>
       <PageNumber>1226</PageNumber>
     </SubItem>
   </ItemGroup>

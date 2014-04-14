@@ -389,8 +389,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. M. St. C</Forenames>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +646,7 @@
       <PageNumber>6007</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. R. H. .;.</Text>
+      <Text>J. R. H. .;</Text>
       <PageNumber>5871</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1062,7 +1061,9 @@
       <Key>Williams-Wynn</Key>
       <Title>Sir</Title>
       <Forenames>O. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5203</PageNumber>
     </MainItem>
   </ItemGroup>

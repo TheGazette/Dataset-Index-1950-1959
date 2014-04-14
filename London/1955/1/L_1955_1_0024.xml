@@ -434,8 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>J. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. H. St. G</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,16 +941,20 @@
       <Key>Madden</Key>
       <Title>Sir</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1875</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Title>Sir St.</Title>
-      <Forenames>J. R. J.</Forenames>
-      <Text>, Bt</Text>
+      <Title>Sir St. J.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2353,7 +2356,9 @@
       <Key>Coote</Key>
       <Title>Sir</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1097</PageNumber>
     </MainItem>
   </ItemGroup>

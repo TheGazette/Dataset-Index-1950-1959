@@ -1164,8 +1164,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>1061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,8 +1202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charmer</Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. H. de R</Forenames>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,8 +1642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>A. L. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2164,7 +2162,9 @@
       <Key>Coates</Key>
       <Title>Sir</Title>
       <Forenames>F. G. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>645</PageNumber>
     </MainItem>
   </ItemGroup>

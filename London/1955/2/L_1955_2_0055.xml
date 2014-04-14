@@ -1490,7 +1490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>^Leith, Sir I., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2147</PageNumber>
     </MainItem>
   </ItemGroup>

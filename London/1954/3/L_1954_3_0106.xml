@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gmliffe</Key>
-      <Text>. M. J</Text>
+      <Forenames>M. J.</Forenames>
       <PageNumber>5413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutforth</Key>
-      <Text>.A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalby</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darke</Key>
-      <Text>. H. M</Text>
+      <Forenames>H. M</Forenames>
       <PageNumber>5186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,22 +229,21 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daunou</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5184</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>C. O'B</Forenames>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +341,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +387,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +414,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>5234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +423,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jennet</Forenames>
+      <Title>Jennet .</Title>
       <PageNumber>4213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +517,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Walter</Forenames>
+      <Title>Walter .</Title>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +526,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>3939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,12 +751,47 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Browne</Key>
+      <Forenames>R. J. H. H. M.</Forenames>
+      <Text>, Baron</Text>
+      <PageNumber>4673</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>4733</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>4991</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>4373</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Majo</Key>
+      <Forenames>S</Forenames>
+      <PageNumber>4998</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Nermann</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -766,6 +800,20 @@
       <Forenames>H. M. T.</Forenames>
       <Text>(T.)</Text>
       <PageNumber>4147</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Voy</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>4931</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Week</Key>
+      <Forenames>D</Forenames>
+      <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -812,7 +860,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Georgiana</Forenames>
+      <Title>Georgiana .</Title>
       <PageNumber>4599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,21 +897,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Debey</Key>
-      <Text>. G. G</Text>
+      <Forenames>G. G.</Forenames>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dec</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deeley</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Densham</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devick</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>4082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +1015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewar</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,35 +1042,35 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dewell</Key>
-      <Text>. T. R</Text>
+      <Forenames>T. R.</Forenames>
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dewry</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dexter</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deyes</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1108,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,14 +1117,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dicks</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dives</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobney</Key>
-      <Text>. J. E. L</Text>
+      <Forenames>J. E. L.</Forenames>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1338,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>4994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dooley</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,14 +1415,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Doudney</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Doughty</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,14 +1461,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dovaston</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dowler</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downing</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1505,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,14 +1519,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Doyle</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drage</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drawbridge</Key>
-      <Text>. M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>4082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,28 +1572,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>. A. M. A</Text>
+      <Forenames>A. M. A.</Forenames>
       <PageNumber>4146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drewry</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Driver</Key>
-      <Text>. M. J</Text>
+      <Forenames>M. J.</Forenames>
       <PageNumber>5058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>,.E. (L</Text>
+      <Text>.E. (L</Text>
       <PageNumber>5052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,6 +1631,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>R. M.</Forenames>
+      <PageNumber>5188</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duboins</Key>
       <Forenames>W. H.</Forenames>
       <PageNumber>4935</PageNumber>
@@ -1598,7 +1653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Text>. G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunbabin</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,7 +1805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durrant</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dury</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,14 +1856,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eadie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4730</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eagles</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,21 +1901,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebourn</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>. F. A</Text>
+      <Forenames>F. A</Forenames>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Text>. A. T</Text>
+      <Forenames>A. T</Forenames>
       <PageNumber>4601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,21 +1931,21 @@
       <Key>
         <KeyDitto>___ ___ ,</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5231</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edge</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edmunds</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1916,7 +1971,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1961,7 +2016,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2013,7 +2068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egan</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2058,7 +2113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ekstein</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2116,7 +2171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elkins</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2130,7 +2185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellerbeck</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2217,7 +2272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2244,7 +2299,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2253,7 +2308,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2321,21 +2376,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Elworthy</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Emerson</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Emery</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2358,7 +2413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>England</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2379,7 +2434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Epstein</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>4932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2393,7 +2448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erwin</Key>
-      <Text>, H P</Text>
+      <Forenames>H</Forenames>
+      <Text>P</Text>
       <PageNumber>5416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2431,7 +2487,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2468,7 +2524,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2505,7 +2561,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2519,14 +2575,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Evenden</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Everett</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2554,7 +2610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eyres</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2596,7 +2652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fallows</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2654,7 +2710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fatten</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2668,7 +2724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrow</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2691,7 +2747,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2700,7 +2756,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4992</PageNumber>
     </MainItem>
   </ItemGroup>

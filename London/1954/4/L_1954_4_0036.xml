@@ -1122,8 +1122,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. de S</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,8 +1593,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Murphy-O</Key>
-      <Text>'Connor, J. F</Text>
+      <Key>Murphy-O'Connor</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>

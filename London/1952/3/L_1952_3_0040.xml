@@ -216,10 +216,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy Thompson</Forenames>
+      <Key>de Chalus-Heath</Key>
+      <Forenames>G. L. G.</Forenames>
+      <PageNumber>3805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clive-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>4241</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Forenames>Thompson</Forenames>
       <Text>, S. B</Text>
       <PageNumber>4123</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lannoy</Key>
+      <Forenames>S. W. D.</Forenames>
+      <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -316,7 +337,9 @@
       <Key>Dewey</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +840,9 @@
       <Key>Earle</Key>
       <Title>Sir</Title>
       <Forenames>H. A. M</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Title>St.</Title>
-      <Forenames>J. T.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>T.</Forenames>
       <PageNumber>4183</PageNumber>
     </MainItem>
   </ItemGroup>

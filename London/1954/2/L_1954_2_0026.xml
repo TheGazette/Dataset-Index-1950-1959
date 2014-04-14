@@ -313,8 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>R.</Forenames>
-      <Text>de P</Text>
+      <Forenames>R. de P</Forenames>
       <PageNumber>3134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,6 +752,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>2629</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delafield</Key>
       <Forenames>G. E.</Forenames>
       <PageNumber>3830</PageNumber>
@@ -1036,8 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>2211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,8 +1616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>

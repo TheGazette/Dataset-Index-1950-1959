@@ -746,8 +746,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R. St. L</Forenames>
       <PageNumber>2255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,8 +1652,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, B. A</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>3393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,8 +1666,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan; M. P</Text>
+      <Key>O'Sullivan</Key>
+      <Text>; M. P</Text>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>

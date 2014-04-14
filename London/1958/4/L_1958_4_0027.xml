@@ -261,7 +261,9 @@
       <Key>Edmonstone</Key>
       <Title>Sir</Title>
       <Forenames>A. B. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elizabeth</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>Queen Mother</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The Queen Mother</Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>

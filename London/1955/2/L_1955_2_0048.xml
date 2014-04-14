@@ -411,16 +411,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>2015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>; M. J</Text>
       <PageNumber>2611</PageNumber>
     </MainItem>
@@ -596,8 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigors</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>2143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1931,8 +1930,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>2784</PageNumber>
     </MainItem>
   </ItemGroup>

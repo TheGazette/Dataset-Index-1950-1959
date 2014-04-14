@@ -243,15 +243,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, E.-M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>E.</Forenames>
+      <Text>-M</Text>
       <PageNumber>5996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, P. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>P. M.</Forenames>
       <PageNumber>6542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,22 +265,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, M. S. iM</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>M. S.</Forenames>
+      <Text>iM</Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea. B</Text>
+      <Key>O'Shea</Key>
+      <Forenames>B</Forenames>
       <PageNumber>5827</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, iM. E. D</Text>
+      <Key>O'Sullivan</Key>
+      <Text>iM. E. D</Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>

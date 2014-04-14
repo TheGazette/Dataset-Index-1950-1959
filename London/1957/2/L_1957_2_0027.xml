@@ -533,7 +533,9 @@
       <Key>BouLton</Key>
       <Title>Sir</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1105,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. P. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. P. O'D</Forenames>
       <PageNumber>2514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brice</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>2647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1607,9 @@
       <Key>Brooksbank</Key>
       <Title>Sir</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2112</PageNumber>
     </MainItem>
   </ItemGroup>

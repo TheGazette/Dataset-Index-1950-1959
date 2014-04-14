@@ -644,8 +644,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. M</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. M</Text>
       <PageNumber>6256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1504,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. P.</Forenames>
-      <Text>CH., Gorrs</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>6396</PageNumber>
       <PageNumber>6396</PageNumber>
     </MainItem>
@@ -2719,7 +2721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reade</Key>
-      <Forenames>D. H. De T.</Forenames>
+      <Forenames>D. H. De T</Forenames>
       <PageNumber>6467</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1317,15 +1317,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, H. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>H. G.</Forenames>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. D.</Forenames>
       <PageNumber>7087</PageNumber>
       <PageNumber>7087</PageNumber>
     </MainItem>
@@ -2474,7 +2474,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>S. W. M</Text>
+      <Text>S. W. M.</Text>
       <PageNumber>8124</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -858,9 +858,73 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Verteuil</Forenames>
-      <Text>, L. L</Text>
+      <Key>de Candole</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>1932</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Baldwin</Key>
+      <Forenames>W. L.</Forenames>
+      <PageNumber>3458</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freville</Key>
+      <Forenames>M. G. L.</Forenames>
+      <PageNumber>2101</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grau</Key>
+      <Forenames>J. F.</Forenames>
+      <PageNumber>3098</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Title>Hon.</Title>
+      <Forenames>J.</Forenames>
+      <PageNumber>2695</PageNumber>
+      <PageNumber>2895</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>B. L.</Forenames>
+      <PageNumber>3458</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>3261</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>3337</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Verteuil</Key>
+      <Forenames>L. L.</Forenames>
+      <PageNumber>3208</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Whalley</Key>
+      <Forenames>C. V.</Forenames>
       <PageNumber>3208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,6 +1849,13 @@
       <Key>Dryburgh</Key>
       <Forenames>W. A.</Forenames>
       <PageNumber>2192</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Toit</Key>
+      <Forenames>S. E.</Forenames>
+      <PageNumber>2256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

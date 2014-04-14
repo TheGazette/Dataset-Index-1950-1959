@@ -652,7 +652,9 @@
       <Key>Forbes</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>

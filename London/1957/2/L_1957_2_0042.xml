@@ -117,7 +117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sealey</Key>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>2199</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>J. R. De W.</Forenames>
+      <Forenames>J. R. De W</Forenames>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,8 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mooney</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,15 +1351,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,8 +1407,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, L. A</Text>
+      <Key>O'Neil</Key>
+      <Forenames>L. A.</Forenames>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1428,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H. C</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H. C.</Forenames>
       <PageNumber>1811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,8 +1449,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>567</PageNumber>
       <PageNumber>567</PageNumber>
     </MainItem>

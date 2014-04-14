@@ -126,6 +126,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>C. V. E.</Forenames>
+      <PageNumber>976</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deasey</Key>
       <Forenames>A. M.</Forenames>
       <PageNumber>57</PageNumber>
@@ -1791,8 +1798,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. C. St. G</Forenames>
       <PageNumber>386</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2121,7 +2121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckett</Key>
-      <Forenames>R. De B.</Forenames>
+      <Forenames>R. De B</Forenames>
       <PageNumber>4989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2517,8 +2517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacClancy</Key>
-      <Forenames>J. R. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. R. O'C</Forenames>
       <PageNumber>4400</PageNumber>
     </MainItem>
   </ItemGroup>

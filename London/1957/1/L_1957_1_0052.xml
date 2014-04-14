@@ -2558,8 +2558,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2572,8 +2572,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gara, W</Text>
+      <Key>O'Gara</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>3515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2586,15 +2586,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea. B</Text>
+      <Key>O'Shea</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>355</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, K</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>K.</Forenames>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>

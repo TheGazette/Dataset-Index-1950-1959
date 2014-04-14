@@ -1772,10 +1772,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Bourbel.</Title>
+      <Key>De Bourbel</Key>
       <Forenames>C. V. E.</Forenames>
       <PageNumber>5827</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gama</Key>
+      <Forenames>P. C.</Forenames>
+      <PageNumber>7044</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wardt</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>7349</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

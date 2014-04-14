@@ -162,9 +162,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, P. W. G</Text>
+      <Key>Du Buisson</Key>
+      <Forenames>P. W. G.</Forenames>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamlin</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,8 +1726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>G. D.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. D. de C</Forenames>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -43,41 +43,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, K. R. J</Text>
+      <Key>De Belder</Key>
+      <Forenames>K. R. J.</Forenames>
       <PageNumber>1520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>de Berry</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>1370</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Graeve</Forenames>
-      <Text>, J. H</Text>
+      <Key>de Chenu</Key>
+      <Forenames>M. A.</Forenames>
+      <Text>, Corr</Text>
+      <PageNumber>352</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Graeve</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F. .„</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
+      <Text>.„</Text>
       <PageNumber>354</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Voil</Forenames>
-      <Text>, P. W</Text>
+      <Key>De Voil</Key>
+      <Forenames>P. W.</Forenames>
       <PageNumber>1233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,12 +309,12 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>N. E.</Text>
+      <Text>N. E</Text>
       <PageNumber>825</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>M. N. W.</Text>
+      <Text>M. N. W</Text>
       <PageNumber>1230</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1076,7 +1087,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>P. A.</Text>
+      <Text>P. A</Text>
       <PageNumber>826</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1602,9 +1613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>349</PageNumber>
       <PageNumber>349</PageNumber>
     </MainItem>

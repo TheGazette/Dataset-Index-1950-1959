@@ -1589,25 +1589,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Miller</Forenames>
-      <Text>, A. A.-</Text>
+      <Key>St. Clair-Miller</Key>
+      <Forenames>A. A.</Forenames>
+      <Text>-</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clare Hicks</Forenames>
+      <Key>St. Clare</Key>
+      <Forenames>Hicks</Forenames>
       <Text>, J</Text>
       <PageNumber>555</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, M. A. J</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>M. A. J.</Forenames>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>

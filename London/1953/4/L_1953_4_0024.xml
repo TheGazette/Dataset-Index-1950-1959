@@ -484,7 +484,9 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>6060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,8 +809,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>D. H. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. H. St. C</Forenames>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>

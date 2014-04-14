@@ -138,8 +138,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. M</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>3318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,8 +152,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M</Forenames>
       <PageNumber>4225</PageNumber>
       <PageNumber>4225</PageNumber>
     </MainItem>

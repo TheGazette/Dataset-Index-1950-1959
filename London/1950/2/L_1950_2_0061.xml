@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stableford</Key>
-      <Text>, 1. B. M Corr</Text>
+      <Text>1. B. M Corr</Text>
       <PageNumber>2025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, L H</Text>
+      <Forenames>L</Forenames>
+      <Text>H</Text>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>. G. R. I. M</Text>
+      <Forenames>G. R. I. M</Forenames>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>, D Stroud, C. E '</Text>
+      <Forenames>D</Forenames>
+      <Text>Stroud, C. E '</Text>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +541,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +695,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tedder</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>1779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +861,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Templeton</Key>
-      <Text>, D A</Text>
+      <Forenames>D</Forenames>
+      <Text>A</Text>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +876,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetroe</Key>
-      <Text>,. J. H</Text>
+      <Text>. J. H</Text>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1067,7 @@
       <Key>
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waite</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,7 +1907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2241,7 +2244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>. F. J</Text>
+      <Forenames>F. J.</Forenames>
       <PageNumber>3046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2414,7 +2417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2531,7 +2534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>2026</PageNumber>
     </MainItem>
   </ItemGroup>

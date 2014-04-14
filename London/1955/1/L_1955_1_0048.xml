@@ -667,8 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Forenames>L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>L. de M</Forenames>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2118,26 +2117,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>van Blommestein</Key>
+      <Forenames>V. C.</Forenames>
+      <PageNumber>1709</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>, M. J</Text>
       <PageNumber>630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Lande</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Lande</Forenames>
       <Text>, C. J</Text>
       <PageNumber>372</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Stockum</Forenames>
-      <Text>, T. W. J</Text>
+      <Key>van Gruisen</Key>
+      <Forenames>M. H.</Forenames>
+      <PageNumber>837</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Stockum</Key>
+      <Forenames>T. W. J.</Forenames>
       <PageNumber>1705</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>P. T.</Forenames>
+      <PageNumber>1153</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2186,7 +2205,7 @@
       <PageNumber>998</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. A. R</Text>
+      <Text>R. A. R.</Text>
       <PageNumber>222</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2214,7 +2233,7 @@
       <PageNumber>77</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G</Text>
+      <Text>G.</Text>
       <PageNumber>152</PageNumber>
     </SubItem>
   </ItemGroup>

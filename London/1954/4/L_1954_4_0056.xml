@@ -511,7 +511,9 @@
       <PageNumber>6063</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>6766</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -540,8 +540,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +586,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>6932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,6 +1293,13 @@
   <KeyDitto>___ ___ ...</KeyDitto>
   <ItemGroup>
     <MainItem>
+      <Key>van Laun</Key>
+      <Forenames>T.</Forenames>
+      <PageNumber>6518</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vance</Key>
       <Forenames>O. P.</Forenames>
       <PageNumber>5986</PageNumber>
@@ -1384,8 +1389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigor</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>G. St. V</Forenames>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1820,8 +1824,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de G. V. C</Text>
+      <Forenames>P. de G</Forenames>
+      <Text>. V. C</Text>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2230,8 +2234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weldon</Key>
-      <Forenames>H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. de W</Forenames>
       <PageNumber>6276</PageNumber>
     </MainItem>
   </ItemGroup>

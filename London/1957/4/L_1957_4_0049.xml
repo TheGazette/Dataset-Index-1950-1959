@@ -1124,7 +1124,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinxman</Key>
-      <Text>P.C. A.-. ..-</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -481,8 +481,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>4989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,15 +502,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>4546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. I</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. I.</Forenames>
       <PageNumber>5169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,8 +530,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, S. A</Text>
+      <Key>O'Shee</Key>
+      <Forenames>S. A.</Forenames>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>

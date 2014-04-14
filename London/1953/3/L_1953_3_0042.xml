@@ -39,8 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffe</Key>
-      <Forenames>Y. P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>Y. P. de L</Forenames>
       <PageNumber>4858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,43 +1217,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A</Forenames>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, M. B</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>M. B.</Forenames>
       <PageNumber>3985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, S. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>S. M.</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, E</Text>
+      <Key>O'Hea</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. M</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, I. A</Text>
+      <Key>O'Shee</Key>
+      <Forenames>I. A.</Forenames>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,8 +1796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Forenames>E.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. de V</Forenames>
       <PageNumber>3790</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1918,9 +1918,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, R. M</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>R. M.</Forenames>
       <PageNumber>4472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2022,9 +2021,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Bergen</Forenames>
-      <Text>, J. E</Text>
+      <Key>Von Bergen</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1870,8 +1870,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Naylor</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. S. B</Text>
+      <Forenames>D. St. S</Forenames>
+      <Text>. B</Text>
       <PageNumber>3675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2445,8 +2445,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. G</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. G.</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2474,8 +2474,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, B. .;</Text>
+      <Key>O'Connell</Key>
+      <Forenames>B.</Forenames>
+      <Text>.;</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2497,8 +2498,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, J. H</Text>
+      <Key>O'Dell</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>3196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2511,8 +2512,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2535,8 +2536,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. W</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. W.</Forenames>
       <PageNumber>3405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2651,8 +2652,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D. W. J., Sub. not</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D. W. J.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>3530</PageNumber>
     </MainItem>
   </ItemGroup>

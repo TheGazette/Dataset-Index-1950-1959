@@ -1221,8 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
-      <Forenames>N. J.</Forenames>
-      <Text>de K</Text>
+      <Forenames>N. J. de K</Forenames>
       <PageNumber>6367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2222,6 +2221,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beaufort-Suchlick</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>5768</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Derrick</Key>
       <Forenames>A. R.</Forenames>
       <PageNumber>5771</PageNumber>
@@ -2295,8 +2301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnan</Key>
-      <Forenames>F.</Forenames>
-      <Text>de S</Text>
+      <Forenames>F. de S</Forenames>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2354,6 +2359,13 @@
       <Key>Drew</Key>
       <Forenames>F. C.</Forenames>
       <PageNumber>6370</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Plessis</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

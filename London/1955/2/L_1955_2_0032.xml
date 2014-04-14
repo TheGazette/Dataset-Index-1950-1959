@@ -2037,8 +2037,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2547,34 +2546,95 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Angeli</Forenames>
-      <Text>, F</Text>
+      <Key>De Angeli</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>2871</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freville</Forenames>
-      <Text>, M. G. L</Text>
+      <Key>de Bethune</Key>
+      <Forenames>D. Q. M.</Forenames>
+      <PageNumber>2337</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>J</Forenames>
+      <PageNumber>2334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>T. J.</Forenames>
+      <PageNumber>2334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Freville</Key>
+      <Forenames>M. G. L.</Forenames>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Billiere</Forenames>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>3133</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Billiere</Forenames>
       <Text>, P. E. de la Cour</Text>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mowbray</Forenames>
-      <Text>, M. S</Text>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, E. J. E</Text>
+      <PageNumber>3441</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>C. de B</Forenames>
+      <PageNumber>2181</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mowbray</Key>
+      <Forenames>M. S.</Forenames>
       <PageNumber>2786</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. B.</Forenames>
+      <PageNumber>3137</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>2549</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Selincourt</Key>
+      <Forenames>D. R.</Forenames>
+      <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2588,9 +2648,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Verteuil</Forenames>
-      <Text>, C. R</Text>
+      <Key>de Sevin</Key>
+      <Forenames>D. F.</Forenames>
+      <PageNumber>2927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Verteuil</Key>
+      <Forenames>C. R.</Forenames>
       <PageNumber>2787</PageNumber>
     </MainItem>
   </ItemGroup>

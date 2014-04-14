@@ -733,7 +733,9 @@
       <Key>Hoskyns</Key>
       <Title>Sir</Title>
       <Forenames>J. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2443,8 +2445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidwell</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V. B</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>. B</Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>

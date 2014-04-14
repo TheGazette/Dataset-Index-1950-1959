@@ -450,8 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oberst</Key>
-      <Forenames>H. C. O</Forenames>
-      <Text>'Brien, M. E</Text>
+      <Forenames>H. C. O'Brien</Forenames>
+      <Text>, M. E</Text>
       <PageNumber>4471</PageNumber>
       <PageNumber>4699</PageNumber>
     </MainItem>
@@ -467,8 +467,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. D</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. D.</Forenames>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,8 +495,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>3743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +509,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. D</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. D.</Forenames>
       <PageNumber>4964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,15 +564,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, T. M</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>3742</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, W. W</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>W. W.</Forenames>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +600,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P. A</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,8 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,8 +1783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>C. O'D</Forenames>
       <PageNumber>3577</PageNumber>
       <PageNumber>4652</PageNumber>
     </MainItem>
@@ -2319,8 +2317,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. A</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. A</Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2639,7 +2637,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>S</Text>
+      <Text>S.</Text>
       <PageNumber>4840</PageNumber>
     </SubItem>
   </ItemGroup>

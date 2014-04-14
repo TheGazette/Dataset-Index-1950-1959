@@ -497,8 +497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Forenames>L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>L. de M</Forenames>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angevin</Key>
-      <Text>de Courtenay, R. A. F. R</Text>
+      <Forenames>de Courtenay</Forenames>
+      <Text>, R. A. F. R</Text>
       <PageNumber>1707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2289,7 +2289,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>R. c</Text>
+      <Text>R. c.</Text>
       <PageNumber>997</PageNumber>
       <PageNumber>1151</PageNumber>
     </SubItem>
@@ -2358,8 +2358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baddeley</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>

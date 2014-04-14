@@ -85,17 +85,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, P. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>P. H.</Forenames>
       <PageNumber>4690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pontet</Forenames>
-      <Text>, G. H. S</Text>
+      <Key>Du Pontet</Key>
+      <Forenames>G. H. S.</Forenames>
       <PageNumber>4558</PageNumber>
     </MainItem>
   </ItemGroup>

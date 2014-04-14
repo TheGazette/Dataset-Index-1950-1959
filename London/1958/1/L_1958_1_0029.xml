@@ -1136,7 +1136,9 @@
       <Key>Cusack-Smith</Key>
       <Title>Sir</Title>
       <Forenames>W. R. D. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1759,33 +1761,80 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Borchgrave</Key>
+      <Text>dAltena, M. A. P -</Text>
+      <PageNumber>1922</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bretton-Gordon</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>390</PageNumber>
+      <PageNumber>390</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>J. G.</Forenames>
+      <PageNumber>842</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costanzo</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>1435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>H. B.</Forenames>
+      <PageNumber>1281</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gave</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>210</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, R. St. C</Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, G. A. W</Text>
+      <Key>De Penning</Key>
+      <Forenames>G. A. W.</Forenames>
       <PageNumber>1925</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pret-Roose</Forenames>
-      <Text>, M. J. G</Text>
+      <Key>De Pret-Roose</Key>
+      <Forenames>M. J. G.</Forenames>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zouche</Forenames>
-      <Text>, R. B</Text>
+      <Key>de Vandre</Key>
+      <Forenames>R. E.</Forenames>
+      <PageNumber>210</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Zouche</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>

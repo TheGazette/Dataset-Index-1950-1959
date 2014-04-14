@@ -564,15 +564,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M</Forenames>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, J. P</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +585,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, P. W. A</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>P. W. A.</Forenames>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +599,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, L</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,9 +1494,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, Sir A., Bt</Text>
+      <Key>St. Clair-Ford</Key>
+      <Title>Sir</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2421,9 +2424,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, J. F. T</Text>
+      <Key>Van Oss</Key>
+      <Forenames>J. F. T.</Forenames>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2530,8 +2532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E. W.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. W. de W</Forenames>
       <PageNumber>1782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2637,7 +2638,9 @@
       <Key>Warmington</Key>
       <Title>Sir</Title>
       <Forenames>M. G. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>

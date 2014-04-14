@@ -56,7 +56,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +935,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. G. H</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. G. H.</Forenames>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,8 +993,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, B</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2358,8 +2360,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John Kavanagh</Forenames>
+      <Key>St. John</Key>
+      <Forenames>Kavanagh</Forenames>
       <Text>, B. C. H</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
@@ -2710,8 +2712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sibley</Key>
-      <Forenames>L. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. H. St. J</Forenames>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>

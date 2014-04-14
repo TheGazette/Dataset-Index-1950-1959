@@ -849,8 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>5572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,26 +869,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Belder</Forenames>
-      <Text>, D. G</Text>
+      <Key>De Belder</Key>
+      <Forenames>D. G.</Forenames>
       <PageNumber>6328</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, R. S</Text>
+      <Key>De Chair</Key>
+      <Forenames>R. S.</Forenames>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Cossan.</Title>
+      <Key>De Cossan</Key>
       <Forenames>A. C. E.</Forenames>
       <PageNumber>6494</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meaune</Key>
+      <Forenames>M. C. Thomas</Forenames>
+      <PageNumber>6787</PageNumber>
+      <PageNumber>7083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>L. D.</Forenames>
+      <PageNumber>5573</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vere</Key>
+      <Forenames>Cole</Forenames>
+      <Text>, T. H. J</Text>
+      <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1087,6 +1106,13 @@
       <Key>Drysdale</Key>
       <Forenames>D. B.</Forenames>
       <PageNumber>6935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Plessis</Key>
+      <Forenames>A. N.</Forenames>
+      <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

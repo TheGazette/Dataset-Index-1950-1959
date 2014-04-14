@@ -764,8 +764,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Murphy-O</Key>
-      <Text>'Connor, K. J. T</Text>
+      <Key>Murphy-O'Connor</Key>
+      <Forenames>K. J. T.</Forenames>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,8 +1302,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, ID. P. M</Text>
+      <Key>O'Brien</Key>
+      <Text>ID. P. M</Text>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,15 +1318,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. V. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. V. F.</Forenames>
       <PageNumber>212</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, M</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>501</PageNumber>
       <PageNumber>1372</PageNumber>
     </MainItem>
@@ -1391,8 +1391,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, T</Text>
+      <Key>O'Hara</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,8 +1448,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, R. A. Clanaboy,</Text>
+      <Key>O'Neill</Key>
+      <Forenames>R. A. Clanaboy</Forenames>
+      <Text>,</Text>
       <PageNumber>852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,15 +1485,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, D. L</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>D. L.</Forenames>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, W. W</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>W. W.</Forenames>
       <PageNumber>1371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2014,7 +2015,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P.</Forenames>
-      <Text>(IR.A.M.C.) ...L</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>

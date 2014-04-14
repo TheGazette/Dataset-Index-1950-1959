@@ -1891,17 +1891,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Berckel</Forenames>
-      <Text>, P. J</Text>
+      <Key>Van Berckel</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Orton</Forenames>
-      <Text>, C. E</Text>
+      <Key>van Moppes</Key>
+      <Forenames>N. L.</Forenames>
+      <PageNumber>7564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Orton</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>

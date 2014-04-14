@@ -1262,8 +1262,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1755,10 +1754,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, L</Text>
+      <Key>de Choisy</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>3444</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Garis</Key>
+      <Forenames>L.</Forenames>
       <PageNumber>3780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jongh</Key>
+      <Forenames>B. E.</Forenames>
+      <PageNumber>3780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kretser</Key>
+      <Forenames>A. J. H.</Forenames>
+      <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -170,8 +170,7 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lord</Title>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>5501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2570,8 +2569,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, F. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>F. A.</Forenames>
       <PageNumber>5002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2597,15 +2596,15 @@
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Coffey, G. T. S</Text>
+      <Key>O'Coffey</Key>
+      <Forenames>G. T. S.</Forenames>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>4871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2657,8 +2656,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gara, J</Text>
+      <Key>O'Gara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2671,8 +2670,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, G. R</Text>
+      <Key>O'Hare</Key>
+      <Forenames>G. R.</Forenames>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>

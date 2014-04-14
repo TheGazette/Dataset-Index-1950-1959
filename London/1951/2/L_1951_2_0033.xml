@@ -246,7 +246,9 @@
       <Key>Macready</Key>
       <Title>Sir</Title>
       <Forenames>G. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,8 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Makin</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. St. J</Forenames>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,8 +1148,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. O. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. O. St. G</Forenames>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1359,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. R</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. R</Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,7 +1867,9 @@
     <MainItem>
       <Key>Minogue</Key>
       <Forenames>P. J.</Forenames>
-      <Text>CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2055,7 +2057,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Text>' I. C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>2931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2534,8 +2538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>

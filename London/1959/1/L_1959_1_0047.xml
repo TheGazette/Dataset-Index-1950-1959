@@ -143,17 +143,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, D. R. W</Text>
+      <Key>de Bourcier</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>1983</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Garis</Key>
+      <Forenames>D. R. W.</Forenames>
       <PageNumber>807</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Longa</Forenames>
-      <Text>, F</Text>
+      <Key>De Longa</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>1488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,8 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emery</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>

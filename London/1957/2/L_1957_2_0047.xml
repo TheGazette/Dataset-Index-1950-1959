@@ -388,8 +388,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, P. G. St. G</Text>
+      <Key>O'Brian</Key>
+      <Forenames>P. G. St. G</Forenames>
       <PageNumber>3657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,8 +1631,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. E. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. E. O'B</Forenames>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>

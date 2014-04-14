@@ -42,7 +42,9 @@
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
       <Forenames>H. C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1100,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,8 +1416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strattoa</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. B. de F</Forenames>
       <PageNumber>1522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2248,7 +2251,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2664,7 +2669,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>iW. B. (R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>993</PageNumber>
     </MainItem>
   </ItemGroup>

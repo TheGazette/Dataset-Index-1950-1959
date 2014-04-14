@@ -967,7 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mompalao</Key>
-      <Text>de Piro, G. C. R. M. J. A</Text>
+      <Forenames>de Piro</Forenames>
+      <Text>, G. C. R. M. J. A</Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,8 +1076,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1090,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, M. B</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>M. B.</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2104,8 +2105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>H. M. de V</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1520,8 +1520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudge</Key>
-      <Forenames>A. J.</Forenames>
-      <Text>de N</Text>
+      <Forenames>A. J. de N</Forenames>
       <PageNumber>1701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,17 +1846,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John-Brooks</Forenames>
-      <Text>, J. G. de R</Text>
+      <Key>St. John-Brooks</Key>
+      <Forenames>J. G. de R</Forenames>
       <PageNumber>1702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2610,8 +2607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>431</PageNumber>
     </MainItem>
   </ItemGroup>

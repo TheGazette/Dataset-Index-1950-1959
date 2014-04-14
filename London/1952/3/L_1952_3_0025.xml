@@ -556,7 +556,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,51 +608,104 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cent</Forenames>
-      <Text>, D. C, Sub. nots</Text>
+      <Key>de Blank</Key>
+      <Forenames>I. P. M.</Forenames>
+      <PageNumber>4833</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Cent</Key>
+      <Forenames>D. C</Forenames>
+      <Text>, Sub. nots</Text>
       <PageNumber>3629</PageNumber>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Guingand</Forenames>
-      <Text>, N. J</Text>
+      <Key>de Clifford</Key>
+      <Title>Lord .</Title>
+      <PageNumber>3576</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clive-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>5021</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Faveri</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>4239</PageNumber>
+      <PageNumber>4239</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <Text>, Corr</Text>
+      <PageNumber>3685</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Guingand</Key>
+      <Forenames>N. J.</Forenames>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacey</Forenames>
-      <Text>, M</Text>
+      <Key>de Jimenez</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>4469</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lacey</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>4421</PageNumber>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H</Text>
+      <Key>De Pree</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>4650</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiers</Forenames>
-      <Text>, A. T</Text>
+      <Key>de Senneville</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>3632</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Shalit</Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>4833</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Villiers</Key>
+      <Forenames>A. T.</Forenames>
       <PageNumber>4180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, N. J. D. P</Text>
+      <Key>De Winton</Key>
+      <Forenames>N. J. D. P.</Forenames>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,8 +1979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earee</Key>
-      <Forenames>D. W. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>D. W. St. V</Forenames>
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>

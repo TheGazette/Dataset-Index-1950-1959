@@ -38,8 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummings</Key>
-      <Forenames>E. I. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>E. I. St. C</Forenames>
       <PageNumber>3532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1148,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, ' notice</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, ' notice</Text>
       <PageNumber>2384</PageNumber>
     </MainItem>
   </ItemGroup>

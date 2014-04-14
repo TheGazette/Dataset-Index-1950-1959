@@ -230,7 +230,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradbury</Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>

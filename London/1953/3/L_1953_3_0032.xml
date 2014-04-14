@@ -513,8 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>D. R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>D. R. de L</Forenames>
       <PageNumber>4357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +728,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>I. L.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,8 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winkfleld</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>

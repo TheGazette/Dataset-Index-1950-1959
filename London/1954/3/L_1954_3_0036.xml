@@ -335,7 +335,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>E. K. L.</Text>
+      <Text>E. K. L</Text>
       <PageNumber>5373</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1564,8 +1564,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. M. F</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. M. F.</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,15 +1589,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H. F.</Forenames>
       <PageNumber>4161</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, P. C. K</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>P. C. K.</Forenames>
       <PageNumber>5503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,8 +1617,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, T</Text>
+      <Key>O'Hara</Key>
+      <Forenames>T</Forenames>
       <PageNumber>5434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,8 +1677,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Lord</Text>
+      <Key>O'Neill</Key>
+      <Title>Lord .</Title>
       <PageNumber>4088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,8 +1771,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. J. D</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. J. D.</Forenames>
       <PageNumber>4089</PageNumber>
     </MainItem>
   </ItemGroup>

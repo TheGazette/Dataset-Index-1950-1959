@@ -510,7 +510,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. L.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, T</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, T</Text>
       <PageNumber>3166</PageNumber>
     </MainItem>
   </ItemGroup>

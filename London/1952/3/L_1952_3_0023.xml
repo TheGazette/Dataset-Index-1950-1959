@@ -485,7 +485,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A. S.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +516,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,8 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2279,8 +2282,8 @@
       <Key>
         <KeyDitto>___ ___ ___ -</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de S. .„</Text>
+      <Forenames>J. A. de S</Forenames>
+      <Text>. .„</Text>
       <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>

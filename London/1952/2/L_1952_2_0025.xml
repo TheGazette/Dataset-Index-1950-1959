@@ -1955,22 +1955,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, J. C</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>1956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1990,8 +1990,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. W. R</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. W. R.</Forenames>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2035,8 +2035,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, T. F</Text>
+      <Key>O'Regan</Key>
+      <Forenames>T. F.</Forenames>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>

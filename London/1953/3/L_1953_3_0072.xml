@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>Fruiterers</Forenames>
+      <Title>Fruiterers.</Title>
       <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +46,31 @@
       <PageNumber>3706</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Wiles, William ... 4208 Wiley, James &amp; Sons Holdings 4506 Wilkinson, V. &amp; G. W</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wiles</Key>
+      <Title>William .</Title>
+      <PageNumber>4208</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wiley</Key>
+      <Forenames>James</Forenames>
+      <Text>&amp; Sons Holdings</Text>
+      <PageNumber>4506</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilkinson</Key>
+      <Forenames>V.</Forenames>
+      <Text>&amp; G. W</Text>
+      <PageNumber>3888</PageNumber>
+      <PageNumber>4199</PageNumber>
+      <PageNumber>4201</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
@@ -62,10 +86,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Fredk</Forenames>
-      <Text>. (Crewe)</Text>
+      <Title>Fredk. (Crewe)</Title>
       <PageNumber>5006</PageNumber>
-      <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -86,8 +108,6 @@
       <Forenames>George</Forenames>
       <Text>&amp; Co</Text>
       <PageNumber>3752</PageNumber>
-      <PageNumber>3754</PageNumber>
-      <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -113,7 +133,6 @@
       <Key>Willoughby</Key>
       <Text>and Lamb</Text>
       <PageNumber>4022</PageNumber>
-      <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -142,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilsons</Key>
-      <Forenames>Holdings</Forenames>
+      <Title>Holdings .</Title>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,29 +179,37 @@
       <Forenames>Works</Forenames>
       <PageNumber>3810</PageNumber>
       <PageNumber>3812</PageNumber>
-      <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Winfield-Smith, S. C. &amp; Co</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Winfield-Smith</Key>
+      <Forenames>S. C.</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>3963</PageNumber>
+      <PageNumber>4164</PageNumber>
+      <PageNumber>4782</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wingates</Key>
-      <Forenames>Papers</Forenames>
+      <Title>Papers .</Title>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wingrove</Key>
-      <Forenames>Geo</Forenames>
-      <Text>. &amp; Son</Text>
+      <Title>Geo.</Title>
+      <Text>&amp; Son</Text>
       <PageNumber>4662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Winner</Key>
-      <Forenames>Estates</Forenames>
+      <Title>Estates .</Title>
       <PageNumber>4505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +227,6 @@
       <Forenames>H.</Forenames>
       <PageNumber>4955</PageNumber>
       <PageNumber>5190</PageNumber>
-      <PageNumber>5192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -218,9 +244,6 @@
       <Key>Woburn</Key>
       <Forenames>Piggeries</Forenames>
       <PageNumber>4150</PageNumber>
-      <PageNumber>4501</PageNumber>
-      <PageNumber>4501</PageNumber>
-      <PageNumber>4503</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -237,7 +260,6 @@
       <Forenames>A. V.</Forenames>
       <PageNumber>3948</PageNumber>
       <PageNumber>4547</PageNumber>
-      <PageNumber>4548</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -267,9 +289,6 @@
       <Key>Woodaco</Key>
       <Forenames>Dairies</Forenames>
       <PageNumber>4320</PageNumber>
-      <PageNumber>4716</PageNumber>
-      <PageNumber>4717</PageNumber>
-      <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -314,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wooley</Key>
-      <Forenames>Industries</Forenames>
+      <Title>Industries .</Title>
       <PageNumber>4203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,9 +349,6 @@
       <Key>Wordsworth</Key>
       <Forenames>G. H.</Forenames>
       <PageNumber>4825</PageNumber>
-      <PageNumber>4826</PageNumber>
-      <PageNumber>4829</PageNumber>
-      <PageNumber>4831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -348,7 +364,6 @@
       <Key>Wrexham</Key>
       <Text>and District Billposting Company</Text>
       <PageNumber>3942</PageNumber>
-      <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -380,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyken</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,16 +410,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Y</Key>
-      <Text>. &amp; C. Produce</Text>
+      <Text>&amp; C. Produce</Text>
       <PageNumber>3829</PageNumber>
       <PageNumber>4037</PageNumber>
-      <PageNumber>4625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Y</Key>
-      <Text>.Z. Imports</Text>
+      <Forenames>Z. Imports</Forenames>
       <PageNumber>4146</PageNumber>
       <PageNumber>4149</PageNumber>
     </MainItem>
@@ -422,20 +436,19 @@
       <Key>Yapton</Key>
       <Forenames>Aero Club</Forenames>
       <PageNumber>3888</PageNumber>
-      <PageNumber>4020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yateley</Key>
-      <Forenames>Prints</Forenames>
+      <Title>Prints .</Title>
       <PageNumber>4831</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>Alan</Forenames>
+      <Title>Alan .</Title>
       <PageNumber>5075</PageNumber>
       <PageNumber>5076</PageNumber>
     </MainItem>
@@ -456,8 +469,6 @@
       <Forenames>County Hygienic Laundries</Forenames>
       <PageNumber>3885</PageNumber>
       <PageNumber>3887</PageNumber>
-      <PageNumber>3889</PageNumber>
-      <PageNumber>4505</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -469,6 +480,14 @@
       <PageNumber>5126</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Zwanenberg</Key>
+    </MainItem>
+  </ItemGroup>
+  <Title>
+    <PageNumber>118068</PageNumber>
+  </Title>
   <CategoryTitle>PARTNERSHIPS</CategoryTitle>
   <ItemGroup>
     <MainItem>
@@ -516,12 +535,41 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Forenames>Edward</Forenames>
-      <Text>. and Frederick MacManus</Text>
+      <Title>Edward.</Title>
+      <Text>and Frederick MacManus</Text>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Ashby Rogers &amp; Co. 4614 Austen and Ward ... 4959 Autospeed Company 3892 Aylott, P. &amp; L. ... 4439</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashby</Key>
+      <Forenames>Rogers</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>4614</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Austen</Key>
+      <Text>and Ward</Text>
+      <PageNumber>4959</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Autospeed</Key>
+      <Forenames>Company</Forenames>
+      <PageNumber>3892</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aylott</Key>
+      <Forenames>P.</Forenames>
+      <Text>&amp; L</Text>
+      <PageNumber>4439</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
@@ -532,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrass</Key>
-      <Forenames>Cycles</Forenames>
+      <Title>Cycles .</Title>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackenlea</Key>
-      <Forenames>Pottery</Forenames>
+      <Title>Pottery .</Title>
       <PageNumber>3892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Forenames>Heating Co</Forenames>
+      <Forenames>Heating</Forenames>
+      <Text>Co</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,14 +766,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Commercial</Key>
-      <Forenames>Toy Co</Forenames>
+      <Forenames>Toy</Forenames>
+      <Text>Co</Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cresswell</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +810,9 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>.M.P. Bakeries</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,8 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Wm.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>5079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglass</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>Gilbert</Forenames>
+      <Title>Gilbert .</Title>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +942,37 @@
       <PageNumber>5079</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Gee &amp; Harburn ... 4083 Gilman, P. &amp; Co. ... 5079 Glebe Construction and Sheet Metal Works 4082 Goldacre, J. A. H. and D. S</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gee</Key>
+      <Text>&amp; Harburn</Text>
+      <PageNumber>4083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gilman</Key>
+      <Forenames>P.</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>5079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Glebe</Key>
+      <Forenames>Construction</Forenames>
+      <Text>and Sheet Metal Works</Text>
+      <PageNumber>4082</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Goldacre</Key>
+      <Forenames>J. A. H.</Forenames>
+      <Text>and D. S. Chowdhary</Text>
+      <PageNumber>3952</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
@@ -901,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grange</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant .</Title>
       <PageNumber>3893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,11 +1003,25 @@
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Grosvenor Tailors ... 4884 Grove Electro Plating Co</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grosvenor</Key>
+      <Title>Tailors .</Title>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grove</Key>
+      <Forenames>Electro Plating</Forenames>
+      <Text>Co</Text>
+      <PageNumber>4610</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gwysaney</Key>
-      <Forenames>Sawmills</Forenames>
+      <Title>Sawmills .</Title>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,14 +1032,108 @@
       <Text>&amp; Son</Text>
       <PageNumber>4385</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___ ___</KeyDitto>
   </ItemGroup>
-  <SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Harris</Forenames>
+      <Text>, E</Text>
+      <PageNumber>4027</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>F. &amp; G..:</Text>
       <PageNumber>3708</PageNumber>
     </SubItem>
-  </SubCategoryTitle>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Harris</Key>
+      <Text>and Gard</Text>
+      <PageNumber>4772</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Haslop</Key>
+      <Text>&amp; Co</Text>
+      <PageNumber>4663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hassell</Key>
+      <Title>Brothers .</Title>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hayward</Key>
+      <Forenames>F.</Forenames>
+      <Text>and Son</Text>
+      <PageNumber>4615</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Helen</Key>
+      <Title>Tomlinson .</Title>
+      <PageNumber>5129</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Heron</Key>
+      <Forenames>Rogers</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>4722</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hibell</Key>
+      <Text>and Matton</Text>
+      <PageNumber>3760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Highcliffe</Key>
+      <Title>Garage .</Title>
+      <PageNumber>4211</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holder</Key>
+      <Forenames>A. R.</Forenames>
+      <PageNumber>3707</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howard</Key>
+      <Forenames>G. T.</Forenames>
+      <PageNumber>4772</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Humber</Key>
+      <Forenames>Hire Service</Forenames>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Humphreys</Key>
+      <Forenames>Hersee</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>5129</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jacobs</Key>
@@ -982,7 +1172,37 @@
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Kew Copper and Sheet Metal Company ... 5079 King, Alfred . &amp; Son (Funeral Directors) 4884 Kirkheaton Dairy ... 4884 Le Maitre, F. H. and D. D</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kew</Key>
+      <Forenames>Copper</Forenames>
+      <Text>and Sheet Metal Company</Text>
+      <PageNumber>5079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>King</Key>
+      <Title>Alfred .</Title>
+      <Text>&amp; Son (Funeral Directors)</Text>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirkheaton</Key>
+      <Title>Dairy .</Title>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Le</Key>
+      <Forenames>Maitre</Forenames>
+      <Text>, F. H. and D. D. Killick</Text>
+      <PageNumber>4885</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
@@ -1008,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loker</Key>
-      <Text>,. Lowther &amp; Co</Text>
+      <Text>. Lowther &amp; Co</Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marigold</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,14 +1310,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Midland</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant.</Title>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Montana</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant.</Title>
       <PageNumber>3952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakdale</Key>
-      <Forenames>Nurseries</Forenames>
+      <Title>Nurseries .</Title>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,22 +1384,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Pandy</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parton</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. John and Company</Text>
+      <Forenames>W. St. John</Forenames>
+      <Text>and Company</Text>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pecamo</Key>
-      <Forenames>Engineering</Forenames>
+      <Title>Engineering.</Title>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Regency</Key>
-      <Forenames>Stores</Forenames>
+      <Title>Stores .</Title>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seddon</Key>
-      <Forenames>Michael</Forenames>
+      <Title>Michael .</Title>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1548,28 @@
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Shield &amp; Son ... 4211 Silver Grill 4507 Simpson, Bertram A. &amp; Co</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shield</Key>
+      <Text>&amp; Son</Text>
+      <PageNumber>4211</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Silver</Key>
+      <Forenames>Grill</Forenames>
+      <PageNumber>4507</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Simpson</Key>
+      <Forenames>Bertram A.</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>5079</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sissons</Key>
@@ -1361,7 +1602,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sporting</Key>
-      <Forenames>Forecasts</Forenames>
+      <Title>Forecasts .</Title>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,14 +1625,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen .</Title>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Studio</Key>
-      <Text>. Graphis &amp; Company</Text>
+      <Forenames>Graphis</Forenames>
+      <Text>&amp; Company</Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,14 +1656,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Forenames>Tool Co</Forenames>
+      <Forenames>Tool</Forenames>
+      <Text>Co</Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Upfield</Key>
-      <Forenames>School</Forenames>
+      <Title>School .</Title>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1715,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windmill</Key>
-      <Forenames>Studios</Forenames>
+      <Title>Studios .</Title>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,14 +1744,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wrights</Key>
-      <Forenames>Taxis</Forenames>
+      <Title>Taxis .</Title>
       <PageNumber>4082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,29 +1802,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Abrams</Key>
-      <Text>. A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Abrehart</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Forenames>G.</Forenames>
-      <Text>du V</Text>
+      <Forenames>G. du V</Forenames>
       <PageNumber>5148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,7 +1862,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1878,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>

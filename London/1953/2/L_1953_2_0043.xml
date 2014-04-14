@@ -459,9 +459,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blommestein</Forenames>
-      <Text>, V. C</Text>
+      <Key>Van Blommestein</Key>
+      <Forenames>V. C.</Forenames>
       <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,9 +473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rossum</Forenames>
-      <Text>, G. D. V</Text>
+      <Key>Van Rossum</Key>
+      <Forenames>G. D. V.</Forenames>
       <PageNumber>2191</PageNumber>
     </MainItem>
   </ItemGroup>

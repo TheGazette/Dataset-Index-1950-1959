@@ -76,7 +76,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moncreiffe</Key>
-      <Text>of Moncreiffe, Sir D. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,8 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>A.</Forenames>
-      <Text>de Burgh</Text>
+      <Forenames>A. de Burgh</Forenames>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +672,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,8 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosely</Key>
-      <Forenames>J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. de S</Forenames>
       <PageNumber>6932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2176,8 +2178,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. C.</Forenames>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2192,8 +2194,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, D</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2208,8 +2210,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. B</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H. B.</Forenames>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>

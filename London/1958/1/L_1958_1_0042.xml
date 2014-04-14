@@ -663,7 +663,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson-IMcCausland</Key>
-      <Text>. ,M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1977,8 +1979,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Title>Berckel.</Title>
+      <Key>Van Berckel</Key>
       <Forenames>P. J.</Forenames>
       <PageNumber>677</PageNumber>
     </MainItem>

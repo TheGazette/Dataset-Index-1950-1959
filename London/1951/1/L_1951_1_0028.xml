@@ -469,8 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byford</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. St. L</Forenames>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,8 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>P. G.</Forenames>
-      <Text>de P</Text>
+      <Forenames>P. G. de P</Forenames>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2394,7 +2391,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>

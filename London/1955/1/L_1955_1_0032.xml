@@ -1511,57 +1511,142 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Board</Forenames>
-      <Text>, R</Text>
+      <Key>de Bellaigue</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>1540</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bethune</Key>
+      <Forenames>G. F. M. Corr</Forenames>
+      <PageNumber>1320</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blaby</Key>
+      <Forenames>J. T.</Forenames>
+      <PageNumber>1608</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Board</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Faveri</Forenames>
-      <Text>, J. A</Text>
+      <Key>de Brett</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>1465</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clifford</Key>
+      <Title>Lord .</Title>
+      <PageNumber>1321</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Faveri</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>1089</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Hoyde</Forenames>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>71</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>N. J.</Forenames>
+      <PageNumber>1088</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hamel</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>1251</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Keyzer</Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>1322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Hoyde</Forenames>
       <Text>, D. R. H</Text>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roeper</Forenames>
-      <Text>, G. F</Text>
+      <Key>de Labilliere</Key>
+      <Forenames>P. E. D.</Forenames>
+      <PageNumber>1257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>M. E. J.</Forenames>
+      <PageNumber>693</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Roeper</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winne</Forenames>
-      <Text>, L. F</Text>
+      <Key>de Sausmarez</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>72</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Whalley</Key>
+      <Forenames>C. V.</Forenames>
+      <PageNumber>72</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Winne</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, J. K</Text>
+      <Key>De Wolf</Key>
+      <Forenames>J. K.</Forenames>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zulueta</Forenames>
-      <Text>, P. P. J</Text>
+      <Key>De Zulueta</Key>
+      <Forenames>P. P. J.</Forenames>
       <PageNumber>1604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dew</Key>
-      <Forenames>D. G. Du B.</Forenames>
+      <Forenames>D. G. Du B</Forenames>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>

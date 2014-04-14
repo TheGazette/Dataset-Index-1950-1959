@@ -381,9 +381,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Candia</Forenames>
-      <Text>, M</Text>
+      <Key>De Candia</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +867,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, W. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>W. P.</Forenames>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,9 +1192,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>

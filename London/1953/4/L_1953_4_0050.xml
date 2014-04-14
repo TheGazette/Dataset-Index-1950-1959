@@ -9,22 +9,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, S. E</Text>
+      <Key>O'Dea</Key>
+      <Forenames>S. E.</Forenames>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, E. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>

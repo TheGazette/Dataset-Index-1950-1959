@@ -1001,7 +1001,9 @@
       <Key>Yarrow</Key>
       <Title>Sir</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,8 +1306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1814,8 +1815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNarnara</Key>
-      <Forenames>R. G. P. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. G. P. St. V</Forenames>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1871,8 +1871,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. M. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. M. L.</Forenames>
       <PageNumber>840</PageNumber>
     </MainItem>
   </ItemGroup>

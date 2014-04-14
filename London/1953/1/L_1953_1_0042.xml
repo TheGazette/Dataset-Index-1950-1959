@@ -1656,6 +1656,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Give-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>1514</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costobadie</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>345</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Keyser</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>622</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>M. E. J.</Forenames>
+      <PageNumber>215</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. J. P.</Forenames>
+      <PageNumber>213</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>

@@ -349,12 +349,12 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>T. W.</Text>
+      <Text>T. W</Text>
       <PageNumber>283</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>L. H.</Text>
+      <Text>L. H</Text>
       <PageNumber>1717</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -1501,8 +1501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Absolon</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2510,7 +2509,9 @@
       <Key>Bates</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>422</PageNumber>
     </MainItem>
   </ItemGroup>

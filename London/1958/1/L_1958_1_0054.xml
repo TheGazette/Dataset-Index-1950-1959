@@ -42,8 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Forenames>I. G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>I. G. St. C</Forenames>
       <PageNumber>1287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2136,9 +2135,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>1118</PageNumber>
     </MainItem>
   </ItemGroup>

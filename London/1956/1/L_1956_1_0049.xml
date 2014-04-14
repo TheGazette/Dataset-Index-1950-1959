@@ -1933,7 +1933,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateson</Key>
-      <Text>MM</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2328,8 +2330,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy Cuffe</Forenames>
+      <Key>De Lacy</Key>
+      <Forenames>Cuffe</Forenames>
       <Text>, Y. P</Text>
       <PageNumber>1364</PageNumber>
     </MainItem>

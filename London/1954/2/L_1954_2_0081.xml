@@ -1327,17 +1327,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beest</Forenames>
-      <Text>, F. G. L</Text>
+      <Key>Van Beest</Key>
+      <Forenames>F. G. L.</Forenames>
       <PageNumber>2911</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Loock</Forenames>
-      <Text>, G. E</Text>
+      <Key>Van Loock</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,9 +1547,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Berg</Forenames>
-      <Text>, N</Text>
+      <Key>Von Berg</Key>
+      <Forenames>N.</Forenames>
       <PageNumber>2490</PageNumber>
       <PageNumber>2492</PageNumber>
     </MainItem>

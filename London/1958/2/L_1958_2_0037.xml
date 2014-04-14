@@ -275,7 +275,9 @@
       <Key>Hutchison</Key>
       <Title>Sir</Title>
       <Forenames>J. R. H</Forenames>
-      <Text>„ Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,8 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>T.</Forenames>
-      <Text>de F</Text>
+      <Forenames>T. de F</Forenames>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>

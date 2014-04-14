@@ -962,8 +962,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,6 +1234,13 @@
       <Key>Tweedie</Key>
       <Forenames>M</Forenames>
       <PageNumber>333</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Overbeke</Key>
+      <Forenames>M. C</Forenames>
+      <PageNumber>1538</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

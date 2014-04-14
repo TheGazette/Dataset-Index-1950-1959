@@ -110,8 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roissier</Key>
-      <Forenames>D. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. P. St. C</Forenames>
       <PageNumber>7944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1103,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>

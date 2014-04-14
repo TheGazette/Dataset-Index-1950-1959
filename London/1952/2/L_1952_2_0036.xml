@@ -682,7 +682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>1941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,8 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramus</Key>
-      <Forenames>P.</Forenames>
-      <Text>de N</Text>
+      <Forenames>P. de N</Forenames>
       <PageNumber>2225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,8 +1226,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>E. St. B</Forenames>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>

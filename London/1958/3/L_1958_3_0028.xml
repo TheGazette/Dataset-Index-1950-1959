@@ -254,8 +254,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. R. R. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. R. R. St. A</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,6 +692,28 @@
       </Key>
       <Forenames>W. D.</Forenames>
       <PageNumber>4923</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Baer</Key>
+      <Forenames>O. R.</Forenames>
+      <PageNumber>5580</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>5270</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey-Warter</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>de G</Text>
+      <PageNumber>5822</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
@@ -1594,8 +1615,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. Duke-Cohan</Forenames>
-      <Text>, C. D</Text>
+      <Forenames>E.</Forenames>
+      <Text>Duke-Cohan, C. D</Text>
       <PageNumber>4136</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -906,10 +906,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mesquita</Forenames>
-      <Text>, T. L. B</Text>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>N. K.</Forenames>
+      <PageNumber>3951</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Leon</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>5245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Mesquita</Key>
+      <Forenames>T. L. B.</Forenames>
       <PageNumber>5430</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Peyer</Key>
+      <Forenames>D. C.</Forenames>
+      <PageNumber>4679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>A. J</Forenames>
+      <PageNumber>4087</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Paer</Forenames>
+      <Text>, P. R</Text>
+      <PageNumber>4556</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wallens</Key>
+      <Text>, P. J</Text>
+      <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1848,9 +1890,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, E. P. G. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>E. P. G. H.</Forenames>
       <PageNumber>4088</PageNumber>
     </MainItem>
   </ItemGroup>

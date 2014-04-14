@@ -1087,22 +1087,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnel, M</Text>
+      <Key>O'Donnel</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -2542,15 +2542,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, N. G</Text>
+      <Key>O'Brien</Key>
+      <Forenames>N. G.</Forenames>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>3908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2609,15 +2609,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, M</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>4228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, S</Text>
+      <Key>O'Hara</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>2776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2662,8 +2662,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2726,15 +2726,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, J. P. S</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>J. P. S.</Forenames>
       <PageNumber>2255</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, E. B</Text>
+      <Key>O'Meara</Key>
+      <Forenames>E. B.</Forenames>
       <PageNumber>2775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2749,8 +2749,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. (133568)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>(133568)</Text>
       <PageNumber>2614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2780,8 +2781,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. A</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>

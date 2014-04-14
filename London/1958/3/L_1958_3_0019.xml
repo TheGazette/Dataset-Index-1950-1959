@@ -628,7 +628,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. F.</Forenames>
-      <Text>, D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,8 +1020,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1357,9 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, '. Bt.'</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,8 +1397,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de O</Text>
+      <Forenames>N. P. de O</Forenames>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2018,6 +2020,28 @@
       </Key>
       <Forenames>R. H</Forenames>
       <PageNumber>4516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Frias</Key>
+      <Forenames>F. J. L.</Forenames>
+      <PageNumber>5337</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>M. F.</Forenames>
+      <PageNumber>5337</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, R. A</Text>
+      <PageNumber>4932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -196,7 +196,9 @@
     <MainItem>
       <Key>Hewitt</Key>
       <Forenames>J. P.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,8 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoogewerf</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2205,8 +2206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>T.</Forenames>
-      <Text>de F</Text>
+      <Forenames>T. de F</Forenames>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>

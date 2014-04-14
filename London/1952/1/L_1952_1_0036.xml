@@ -522,8 +522,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, P. T</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>1251</PageNumber>
       <PageNumber>1386</PageNumber>
     </MainItem>
@@ -599,15 +599,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, B. L</Text>
+      <Key>O'Neil</Key>
+      <Forenames>B. L</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, K. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>K. J.</Forenames>
       <PageNumber>242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,15 +665,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, B. R</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>B. R.</Forenames>
       <PageNumber>1595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. T</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. T.</Forenames>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1846,7 +1846,9 @@
       <Key>Mevrick</Key>
       <Title>Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6338</PageNumber>
     </MainItem>
   </ItemGroup>

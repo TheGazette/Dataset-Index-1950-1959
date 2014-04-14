@@ -2322,36 +2322,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, F. G</Text>
+      <Key>O'Brian</Key>
+      <Forenames>F. G.</Forenames>
       <PageNumber>2441</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. H., Corr</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. H.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, A., Sub; not</Text>
+      <Key>O'Connell</Key>
+      <Forenames>A.</Forenames>
+      <Text>, Sub; not</Text>
       <PageNumber>3455</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, I. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>I. M.</Forenames>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, C. J</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>C. J.</Forenames>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2371,8 +2373,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D. I</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>1947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2387,8 +2389,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, J. G</Text>
+      <Key>O'Kane</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2454,8 +2456,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. W</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. W.</Forenames>
       <PageNumber>1948</PageNumber>
     </MainItem>
   </ItemGroup>

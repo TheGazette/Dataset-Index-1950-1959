@@ -783,7 +783,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,8 +1458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Minogue</Key>
-      <Forenames>P. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>P. J. O'B</Forenames>
       <PageNumber>243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,7 +1613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moncreiffe</Key>
-      <Text>of Moncreiffe, Sir D. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1863,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. R.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1670</PageNumber>
     </MainItem>
   </ItemGroup>

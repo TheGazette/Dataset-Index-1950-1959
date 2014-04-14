@@ -2053,15 +2053,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, K. P</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>K. P.</Forenames>
       <PageNumber>1821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D</Forenames>
       <PageNumber>2460</PageNumber>
     </MainItem>
   </ItemGroup>

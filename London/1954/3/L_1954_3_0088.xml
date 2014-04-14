@@ -565,7 +565,7 @@
       <PageNumber>5034</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>St Michael, Paternoster Royal .:. .:.</Text>
+      <Text>St Michael, Paternoster Royal .:. .:</Text>
       <PageNumber>5034</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -881,6 +881,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>R.D.</Honour>
         <PageNumber>5160</PageNumber>
       </Text>
       <PageNumber>4032</PageNumber>

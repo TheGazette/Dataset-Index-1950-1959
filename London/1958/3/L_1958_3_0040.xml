@@ -1853,7 +1853,9 @@
       <Key>Stephenson</Key>
       <Title>Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2187,8 +2189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stitt</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>

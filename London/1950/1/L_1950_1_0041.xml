@@ -42,7 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zambra</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DiMwyn-Venables-Lleiwelyn</Key>
-      <Text>, CM. j -</Text>
+      <Text>CM. j -</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, J:</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>, 'N. '</Text>
+      <Text>'N. '</Text>
       <PageNumber>651</PageNumber>
       <PageNumber>651</PageNumber>
     </MainItem>
@@ -672,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>,, W. J</Text>
+      <Text>, W. J</Text>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bairies</Key>
-      <Text>, B: W</Text>
+      <Forenames>B</Forenames>
+      <Text>: W</Text>
       <PageNumber>1415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>. A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,14 +1199,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>. H. R. S</Text>
+      <Forenames>H. R. S.</Forenames>
       <PageNumber>471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bebb</Key>
-      <Text>. C. B</Text>
+      <Forenames>C. B.</Forenames>
       <PageNumber>967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>280</PageNumber>
     </MainItem>
   </ItemGroup>

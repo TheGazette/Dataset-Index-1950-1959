@@ -964,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiptaft</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de T</Text>
+      <Forenames>J. R. de T</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,8 +1096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>2700</PageNumber>
     </MainItem>
   </ItemGroup>

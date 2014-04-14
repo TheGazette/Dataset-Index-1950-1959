@@ -684,8 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryans</Key>
-      <Forenames>P.</Forenames>
-      <Text>de W</Text>
+      <Forenames>P. de W</Forenames>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1406,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. D.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4356</PageNumber>
     </MainItem>
   </ItemGroup>

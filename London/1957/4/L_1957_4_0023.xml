@@ -886,8 +886,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Braham</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>du P.'</Text>
+      <Forenames>J. C. du P</Forenames>
+      <Text>.'</Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brounlie</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. A. de B</Forenames>
       <PageNumber>6180</PageNumber>
     </MainItem>
   </ItemGroup>

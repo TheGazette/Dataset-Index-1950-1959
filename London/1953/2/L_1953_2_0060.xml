@@ -133,26 +133,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Plain</Forenames>
+      <Key>De La</Key>
+      <Forenames>Plain</Forenames>
       <Text>, I. J</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pass</Forenames>
-      <Text>, F. G</Text>
+      <Key>De Pass</Key>
+      <Forenames>F. G.</Forenames>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Thier</Forenames>
-      <Text>, L. R</Text>
+      <Key>De Thier</Key>
+      <Forenames>L. R.</Forenames>
       <PageNumber>3608</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiele</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -581,8 +586,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,8 +1051,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Plessis.</Title>
+      <Key>Du Plessis</Key>
       <Forenames>R. P.</Forenames>
       <PageNumber>2640</PageNumber>
     </MainItem>

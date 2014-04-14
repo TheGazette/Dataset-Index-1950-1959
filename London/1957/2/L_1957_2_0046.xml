@@ -2123,22 +2123,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E</Forenames>
       <PageNumber>2580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, B. L</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>B. L.</Forenames>
       <PageNumber>3165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, A</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2158,8 +2158,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, I. A</Text>
+      <Key>O'Shee</Key>
+      <Forenames>I. A.</Forenames>
       <PageNumber>3164</PageNumber>
     </MainItem>
   </ItemGroup>

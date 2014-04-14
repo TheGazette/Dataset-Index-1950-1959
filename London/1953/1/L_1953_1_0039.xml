@@ -721,17 +721,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, H H</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>H</Forenames>
+      <Text>H</Text>
       <PageNumber>211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Weegen</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Weegen</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,8 +977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>H. O'D</Forenames>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1854,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>C. K.</Text>
+      <Text>C. K</Text>
       <PageNumber>1430</PageNumber>
     </SubItem>
   </ItemGroup>

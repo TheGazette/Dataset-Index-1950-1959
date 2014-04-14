@@ -1590,9 +1590,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>1154</PageNumber>
       <PageNumber>1155</PageNumber>
     </MainItem>
@@ -1607,9 +1606,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, A. H. G</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>A. H. G.</Forenames>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>

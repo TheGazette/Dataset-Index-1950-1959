@@ -373,16 +373,39 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blank</Forenames>
-      <Text>, I. P. M</Text>
+      <Key>De Blank</Key>
+      <Forenames>I. P. M.</Forenames>
       <PageNumber>5633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dean</Key>
-      <Forenames>C. J.</Forenames>
+      <Key>de Cort</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>,</Text>
+      <PageNumber>6431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Larrinaga</Key>
+      <Forenames>R. A</Forenames>
+      <Text>,</Text>
+      <PageNumber>5985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>5632</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vine</Key>
+      <Forenames>A. D. Dean</Forenames>
+      <Text>, C. J</Text>
       <PageNumber>5427</PageNumber>
       <PageNumber>6729</PageNumber>
     </MainItem>
@@ -928,6 +951,13 @@
       <Key>Drysdale</Key>
       <Forenames>A. W.</Forenames>
       <PageNumber>6800</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Pontet</Key>
+      <Forenames>R. S.</Forenames>
+      <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1876,8 +1906,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>du B</Text>
+      <Forenames>K. du B</Forenames>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>

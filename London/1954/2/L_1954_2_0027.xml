@@ -999,8 +999,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien. P. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. W.</Forenames>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,9 +1904,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Vaughan</Forenames>
-      <Text>, T. E. J</Text>
+      <Key>St. Vaughan</Key>
+      <Forenames>T. E. J.</Forenames>
       <PageNumber>2211</PageNumber>
     </MainItem>
   </ItemGroup>

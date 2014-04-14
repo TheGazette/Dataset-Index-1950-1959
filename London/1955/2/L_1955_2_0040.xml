@@ -292,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckett</Key>
-      <Forenames>R. De B.</Forenames>
+      <Forenames>R. De B</Forenames>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2276,7 +2276,9 @@
       <Key>Malet</Key>
       <Title>Sir</Title>
       <Forenames>E</Forenames>
-      <Text>, W. St. Lo, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>

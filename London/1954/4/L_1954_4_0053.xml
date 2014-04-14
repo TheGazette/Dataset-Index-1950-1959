@@ -1529,8 +1529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawe</Key>
-      <Forenames>J. E. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. E. St. L</Forenames>
       <PageNumber>6198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,26 +1643,45 @@
   <KeyDitto>___ ___ ...</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Book Porter</Forenames>
+      <Key>de Bastarreohea</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>6972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Book</Key>
+      <Forenames>Porter</Forenames>
       <Text>, M. E</Text>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>7216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, P. E</Text>
+      <Key>De Havilland</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>6970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Teissier-Prevost</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>6764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -592,7 +592,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Text>L.G</Text>
+      <Text>
+        <Honour>L.G</Honour>
+      </Text>
       <PageNumber>488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolph</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2462,7 +2463,7 @@
       <PageNumber>1484</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. j. W. S.</Text>
+      <Text>. j. W. S</Text>
       <PageNumber>1484</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -1000,8 +1000,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N.</Forenames>
-      <Text>de Vere</Text>
+      <Forenames>N. de Vere</Forenames>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,8 +1158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WJbberley</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>H. O'C</Forenames>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1517,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,8 +1666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Forenames>M. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. A. de V</Forenames>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -845,8 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. M. St. G</Forenames>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1291,9 @@
       <Key>Lawrence</Key>
       <Title>Sir</Title>
       <Forenames>D. R. W.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,7 +1763,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4543</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -52,15 +52,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mant, D. M</Text>
+      <Key>O'Mant</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. T</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. T</Forenames>
       <PageNumber>7509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,8 +115,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, K. C</Text>
+      <Key>O'Regan</Key>
+      <Forenames>K. C.</Forenames>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,8 +200,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, N. -</Text>
+      <Key>O'Shea</Key>
+      <Forenames>N.</Forenames>
+      <Text>-</Text>
       <PageNumber>7596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,8 +215,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. B. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. B. P.</Forenames>
       <PageNumber>6876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
       <PageNumber>7596</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>73</Text>
+      <Text>73.</Text>
       <PageNumber>51</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1905,8 +1906,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>7508</PageNumber>
     </MainItem>
   </ItemGroup>

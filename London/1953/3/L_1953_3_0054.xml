@@ -159,8 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolph</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,17 +371,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, M. A. J</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>M. A. J.</Forenames>
       <PageNumber>5049</PageNumber>
     </MainItem>
   </ItemGroup>

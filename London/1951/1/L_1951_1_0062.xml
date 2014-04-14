@@ -2308,15 +2308,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, T. S</Text>
+      <Key>O'Regan</Key>
+      <Forenames>T. S.</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, CM</Text>
+      <Key>O'Reilly</Key>
+      <Text>CM</Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>

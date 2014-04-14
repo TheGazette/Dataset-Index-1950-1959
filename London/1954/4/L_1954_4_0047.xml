@@ -531,29 +531,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donmell, G</Text>
+      <Key>O'Donmell</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>6043</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, M. M</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>7385</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, A. T</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>A. T.</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,15 +573,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, A. M</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>A. M.</Forenames>
       <PageNumber>5632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,8 +596,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. M</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>

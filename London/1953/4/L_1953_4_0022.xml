@@ -627,7 +627,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2278,8 +2280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bredin</Key>
-      <Forenames>T. P. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. P. O'D</Forenames>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -562,9 +562,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, F. C</Text>
+      <Key>St. Leger</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1143,25 +1143,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, P. J</Text>
+      <Key>De Havilland</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>4297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lavison</Forenames>
-      <Text>, A. M. N</Text>
+      <Key>De Lavison</Key>
+      <Forenames>A. M. N.</Forenames>
       <PageNumber>4296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mornay</Forenames>
-      <Text>, A. P. B</Text>
+      <Key>De Mornay</Key>
+      <Forenames>A. P. B.</Forenames>
       <PageNumber>5411</PageNumber>
     </MainItem>
   </ItemGroup>

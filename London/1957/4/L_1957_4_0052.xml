@@ -2595,29 +2595,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. H</Forenames>
       <PageNumber>6264</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. P</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conner, S</Text>
+      <Key>O'Conner</Key>
+      <Forenames>S</Forenames>
       <PageNumber>6405</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, K. J:</Text>
+      <Key>O'Connor</Key>
+      <Forenames>K. J</Forenames>
+      <Text>:</Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2630,8 +2631,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. L</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. L.</Forenames>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2653,29 +2654,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. W</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. W.</Forenames>
       <PageNumber>7192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, B. G</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>B. G.</Forenames>
       <PageNumber>7512</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, B. R</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>B. R.</Forenames>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, P. A</Text>
+      <Key>O'Kane</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>7196</PageNumber>
     </MainItem>
   </ItemGroup>

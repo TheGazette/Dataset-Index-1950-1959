@@ -981,7 +981,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,8 +1272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1288,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1865,8 +1868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. I. O'B</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>

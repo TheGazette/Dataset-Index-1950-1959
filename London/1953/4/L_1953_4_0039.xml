@@ -281,8 +281,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>C. E. J</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>E. J</Forenames>
       <PageNumber>5362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>GM</Text>
+      <Text>
+        <Honour>GM</Honour>
+      </Text>
       <PageNumber>5362</PageNumber>
       <PageNumber>6993</PageNumber>
     </MainItem>

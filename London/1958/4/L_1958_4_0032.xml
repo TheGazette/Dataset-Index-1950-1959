@@ -55,8 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurence</Key>
-      <Forenames>K. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>K. St. G</Forenames>
       <PageNumber>6480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,8 +1025,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>6783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1824,7 @@
       <PageNumber>7051</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M. A. C.</Text>
+      <Text>M. A. C</Text>
       <PageNumber>6864</PageNumber>
     </SubItem>
   </ItemGroup>

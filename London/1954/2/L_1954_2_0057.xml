@@ -566,8 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowra</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1128,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,8 +1446,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>F. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>F. J. St. G</Forenames>
       <PageNumber>2766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2191,7 +2188,9 @@
       <Key>Brickwood</Key>
       <Title>Sir</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2614,8 +2613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brightman</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>C. St. L</Forenames>
       <PageNumber>3065</PageNumber>
     </MainItem>
   </ItemGroup>

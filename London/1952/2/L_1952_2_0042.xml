@@ -299,7 +299,7 @@
       <PageNumber>3171</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. G .-</Text>
+      <Text>R. G .-.</Text>
       <PageNumber>2645</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -419,7 +419,7 @@
       <PageNumber>2876</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G. P</Text>
+      <Text>G. P.</Text>
       <PageNumber>2010</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -551,7 +551,7 @@
       <PageNumber>2236</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>W</Text>
+      <Text>W.</Text>
       <PageNumber>3377</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -767,6 +767,27 @@
       </Key>
       <Forenames>R. F.</Forenames>
       <PageNumber>2237</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>V. J.</Forenames>
+      <PageNumber>3228</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Selincourt</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>2648</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>C. S.</Forenames>
+      <PageNumber>2568</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

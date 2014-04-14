@@ -45,8 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>E.</Forenames>
-      <Text>de T. W</Text>
+      <Forenames>E. de T</Forenames>
+      <Text>. W</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1022,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Text>of Macgregor, Sir G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1310,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>J. W. E</Text>
+      <Text>J. W. E.</Text>
       <PageNumber>7849</PageNumber>
     </SubItem>
   </ItemGroup>

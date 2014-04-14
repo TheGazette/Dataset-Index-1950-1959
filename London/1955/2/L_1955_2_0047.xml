@@ -590,7 +590,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>C.H</Text>
+      <Text>
+        <Honour>C.H</Honour>
+      </Text>
       <PageNumber>2015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1979,8 +1981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Forenames>L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>L. de M</Forenames>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2127,8 +2128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tisdall</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>

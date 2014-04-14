@@ -293,8 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court-Smith</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,6 +1549,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gren</Key>
+      <Forenames>N.</Forenames>
+      <PageNumber>7511</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lina</Key>
+      <Forenames>L.</Forenames>
+      <Text>WV , 5830,-</Text>
+      <PageNumber>6545</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Sarigny</Forenames>
       <Text>, D. R. C. R. . '</Text>
@@ -1647,7 +1661,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Deberiham</Key>
-      <Text>C.H. .-.I</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>

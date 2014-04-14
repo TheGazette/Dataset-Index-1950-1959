@@ -1236,8 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neill</Key>
-      <Forenames>A. G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. G. St. C</Forenames>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,8 +1597,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>4775</PageNumber>
     </MainItem>
     <SubItem>
@@ -1609,8 +1608,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A</Forenames>
       <PageNumber>4924</PageNumber>
     </MainItem>
     <SubItem>
@@ -1642,15 +1641,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagen, B. P</Text>
+      <Key>O'Hagen</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>4372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,8 +1734,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. ... .„</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>... .„</Text>
       <PageNumber>4374</PageNumber>
     </MainItem>
     <SubItem>
@@ -1775,8 +1775,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, M. J.... '</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>M. J.</Forenames>
+      <Text>... '</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>

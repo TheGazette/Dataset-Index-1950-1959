@@ -934,8 +934,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobley</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C.'</Text>
+      <Forenames>A. B. de C</Forenames>
+      <Text>.'</Text>
       <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>

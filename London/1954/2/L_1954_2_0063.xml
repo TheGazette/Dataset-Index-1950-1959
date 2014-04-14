@@ -2163,8 +2163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Court-Smith</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2497,7 +2496,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G.M. :</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>3408</PageNumber>
     </MainItem>
   </ItemGroup>

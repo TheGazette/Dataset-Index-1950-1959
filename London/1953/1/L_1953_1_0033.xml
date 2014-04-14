@@ -121,8 +121,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,8 +1601,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de Lane</Text>
+      <Forenames>J. P. de Lane</Forenames>
       <PageNumber>1023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2401,8 +2399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longford</Key>
-      <Forenames>E.</Forenames>
-      <Text>de T.W</Text>
+      <Forenames>E. de T</Forenames>
+      <Text>.W</Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2535,7 +2533,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>T. M.</Forenames>
-      <Text>CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>1430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2646,8 +2646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckham</Key>
-      <Forenames>T.</Forenames>
-      <Text>de C</Text>
+      <Forenames>T. de C</Forenames>
       <PageNumber>1508</PageNumber>
     </MainItem>
   </ItemGroup>

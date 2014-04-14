@@ -151,7 +151,9 @@
       <Key>Cholmeley</Key>
       <Title>Sir</Title>
       <Forenames>H. J. F. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2072,7 +2074,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>P. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2247,8 +2251,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2309,10 +2312,33 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Perrelle</Forenames>
+      <Key>de Bartolome</Key>
+      <Forenames>S.M.</Forenames>
+      <Text>, Cane</Text>
+      <PageNumber>1413</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Perrelle</Forenames>
       <Text>, L. P</Text>
       <PageNumber>1291</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. T.</Forenames>
+      <PageNumber>355</PageNumber>
+      <PageNumber>1221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Soldenhoff</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2360,8 +2386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>J. H. K.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. K. de W</Forenames>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -259,8 +259,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,10 +750,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, M. G</Text>
+      <Key>de Chenu</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>3863</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Garis</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>4363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Forenames>A. M. N.</Forenames>
+      <PageNumber>4367</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1696,9 +1708,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, D. F</Text>
+      <Key>Du Feu</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>4699</PageNumber>
     </MainItem>
   </ItemGroup>

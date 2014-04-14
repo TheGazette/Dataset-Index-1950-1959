@@ -27,8 +27,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>3745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,15 +78,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. A</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, B</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>B</Forenames>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,8 +141,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>4545</PageNumber>
       <PageNumber>4926</PageNumber>
     </MainItem>
@@ -195,8 +195,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, F</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>4596</PageNumber>
     </MainItem>
   </ItemGroup>

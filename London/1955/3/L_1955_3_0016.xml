@@ -772,8 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colpoys</Key>
-      <Forenames>J. G.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. G. de B</Forenames>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,10 +1278,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy-Ireland</Forenames>
-      <Text>, B. W</Text>
+      <Key>de Burgh</Key>
+      <Forenames>Thomas</Forenames>
+      <Text>, R. F. A</Text>
+      <PageNumber>5053</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
       <PageNumber>4173</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gale</Key>
+      <Forenames>P. O.</Forenames>
+      <PageNumber>3806</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Iongh</Key>
+      <Forenames>P. D.</Forenames>
+      <PageNumber>5493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>R. E. F.</Forenames>
+      <PageNumber>4308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

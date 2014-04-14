@@ -718,8 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trasenster</Key>
-      <Forenames>D. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>D. R. de C</Forenames>
       <PageNumber>2001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,18 +1584,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>2838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, M. H</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>M. H.</Forenames>
       <PageNumber>3295</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Moppes</Key>
+      <Forenames>N. L.</Forenames>
+      <PageNumber>3493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>H. H.</Forenames>
+      <PageNumber>3723</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1937,7 +1949,9 @@
       <Key>Waechter</Key>
       <Title>Sir</Title>
       <Forenames>H. L.</Forenames>
-      <Text>DA., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>

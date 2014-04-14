@@ -2004,8 +2004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudolph</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2228,9 +2227,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, B. J</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>448</PageNumber>
       <PageNumber>1537</PageNumber>
     </MainItem>
@@ -2245,9 +2243,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, A. H. G</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>A. H. G.</Forenames>
       <PageNumber>1676</PageNumber>
     </MainItem>
   </ItemGroup>

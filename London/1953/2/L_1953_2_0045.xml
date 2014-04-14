@@ -94,7 +94,9 @@
       <Key>Bates</Key>
       <Title>Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. A. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2901</PageNumber>
     </MainItem>
   </ItemGroup>

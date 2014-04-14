@@ -392,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warne</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +756,8 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>T, &lt;5 &lt;rp. m</Text>
+      <Forenames>T</Forenames>
+      <Text>, &lt;5 &lt;rp. m</Text>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>

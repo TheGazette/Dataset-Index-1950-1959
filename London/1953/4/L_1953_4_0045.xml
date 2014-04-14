@@ -1295,8 +1295,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,8 +1356,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Murphy-O</Key>
-      <Text>'Connor, K. J. T</Text>
+      <Key>Murphy-O'Connor</Key>
+      <Forenames>K. J. T.</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1915,15 +1914,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H. F.</Forenames>
       <PageNumber>5429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1963,15 +1962,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. M</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>6993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, M</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>M</Forenames>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1984,8 +1983,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1998,8 +1997,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, F. A. :</Text>
+      <Key>O'Leary</Key>
+      <Forenames>F. A.</Forenames>
+      <Text>:</Text>
       <PageNumber>5429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2037,8 +2037,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mara, J. T. M</Text>
+      <Key>O'Mara</Key>
+      <Forenames>J. T. M.</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>

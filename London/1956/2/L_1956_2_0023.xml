@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyld</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>F. St. Q</Forenames>
       <PageNumber>3123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2002,9 +2001,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, O. B -</Text>
+      <Key>St. John</Key>
+      <Forenames>O. B</Forenames>
+      <Text>-</Text>
       <PageNumber>3134</PageNumber>
     </MainItem>
   </ItemGroup>

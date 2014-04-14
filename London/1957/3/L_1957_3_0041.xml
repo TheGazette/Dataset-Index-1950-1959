@@ -437,7 +437,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>C.H. B.-</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>5359</PageNumber>
     </MainItem>
     <SubItem>
@@ -1179,15 +1181,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>5099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, S. E</Text>
+      <Key>O'Dea</Key>
+      <Forenames>S. E</Forenames>
       <PageNumber>5279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,8 +1202,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A. C. ;</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>;</Text>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2016,7 +2019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allingham</Key>
-      <Forenames>J. D. De G.</Forenames>
+      <Forenames>J. D. De G</Forenames>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>

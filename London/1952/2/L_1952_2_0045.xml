@@ -355,7 +355,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1159,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>J. G</Text>
+      <Text>J. G.</Text>
       <PageNumber>1943</PageNumber>
       <PageNumber>1944</PageNumber>
     </SubItem>

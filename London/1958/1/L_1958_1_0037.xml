@@ -1129,7 +1129,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Money</Key>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,8 +1336,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. St. J</Forenames>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2036,8 +2037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munson</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2349,8 +2349,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. S. B</Text>
+      <Forenames>D. St. S</Forenames>
+      <Text>. B</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>

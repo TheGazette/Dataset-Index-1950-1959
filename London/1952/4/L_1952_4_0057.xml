@@ -1429,17 +1429,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, V. B</Text>
+      <Key>St. John</Key>
+      <Forenames>V. B.</Forenames>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, A. H. G</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>A. H. G.</Forenames>
       <PageNumber>6480</PageNumber>
     </MainItem>
   </ItemGroup>

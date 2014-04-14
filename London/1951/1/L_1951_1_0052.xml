@@ -37,8 +37,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,8 +74,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>914</PageNumber>
     </MainItem>
   </ItemGroup>

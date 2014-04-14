@@ -2,9 +2,8 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="021" pageID="https://www.thegazette.co.uk/id/London/index/year/1958/volume/4/page/021" pagePDF="https://www.thegazette.co.uk/London/index/year/1958/volume/4/page/021" pageRDF="https://www.thegazette.co.uk/London/index/year/1958/volume/4/page/021?view=linked-data" type="index" volume="4" year="1958">
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, S. A. G</Text>
+      <Key>St. John</Key>
+      <Forenames>S. A. G.</Forenames>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sproul-Bolton</Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. A. St. C</Forenames>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,9 +1332,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Title>Sir St.</Title>
-      <Forenames>J. R. J.</Forenames>
-      <Text>, Bt</Text>
+      <Title>Sir St. J.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7215</PageNumber>
     </MainItem>
   </ItemGroup>

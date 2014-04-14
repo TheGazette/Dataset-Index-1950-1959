@@ -978,8 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>H. D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. D. St. L</Forenames>
       <PageNumber>5257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,9 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Margaret</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Princess</Text>
+      <Title>H.R.H. The Princess .</Title>
       <PageNumber>5421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2688,8 +2685,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>N. St. L</Forenames>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2726,8 +2722,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>S. St. J</Forenames>
       <PageNumber>5152</PageNumber>
     </MainItem>
   </ItemGroup>

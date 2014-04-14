@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnall-Bull</Key>
-      <Text>E,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>6852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +536,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Jake-Fairfax</Key>
-      <Text>,</Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ballinger</Key>
-      <Text>C. L</Text>
+      <Forenames>C. L.</Forenames>
       <PageNumber>6134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banwell</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>7056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>6851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1045,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrington-Ward</Key>
-      <Text>Sir L. E</Text>
+      <Title>Sir</Title>
+      <Forenames>L. E.</Forenames>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1076,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basset</Key>
-      <Text>W. F</Text>
+      <Forenames>W. F .</Forenames>
       <PageNumber>5755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,7 +1492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beech</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>5891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>6509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1566,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>5897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,7 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benham</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>5752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1732,7 +1733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>7018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennetts</Key>
-      <Text>M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>5272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,7 +1873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>C. A</Text>
+      <Forenames>C. A.</Forenames>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,7 +1906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berrows</Key>
-      <Text>P. W</Text>
+      <Forenames>P. W.</Forenames>
       <PageNumber>6576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1919,7 +1920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bessell</Key>
-      <Text>H. G</Text>
+      <Forenames>H. G.</Forenames>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1991,7 +1992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belts</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>7020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2095,7 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billett</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2128,7 +2129,7 @@
       <PageNumber>6416</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>y A</Text>
+      <Text>y A.</Text>
       <PageNumber>6414</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -1892,8 +1892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoiroyd</Key>
-      <Forenames>M.</Forenames>
-      <Text>de C. F</Text>
+      <Forenames>M. de C</Forenames>
+      <Text>. F</Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2105,8 +2105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horgan</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>2259</PageNumber>
     </MainItem>
   </ItemGroup>

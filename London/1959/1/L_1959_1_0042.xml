@@ -225,33 +225,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Beeck</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Beeck</Forenames>
       <Text>, P. A</Text>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, J. A</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rossum</Forenames>
-      <Text>, R. P. D</Text>
+      <Key>Van Rossum</Key>
+      <Forenames>R. P. D.</Forenames>
       <PageNumber>18111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P. T</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,8 +796,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. C. de W</Forenames>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1414,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. A</Forenames>
-      <Text>, Bt. .:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>799</PageNumber>
     </MainItem>
   </ItemGroup>

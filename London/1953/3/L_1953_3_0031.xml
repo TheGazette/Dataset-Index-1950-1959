@@ -572,18 +572,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, J. A</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Jagger</Forenames>
-      <Text>, G</Text>
+      <Key>Van Jagger</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>4985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Straubenzee</Key>
+      <Text>; P. T</Text>
+      <PageNumber>4857</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -627,8 +632,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>P. St. G</Forenames>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,9 +823,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Etzdorf</Forenames>
-      <Text>, R. R. O. H</Text>
+      <Key>Von Etzdorf</Key>
+      <Forenames>R. R. O. H.</Forenames>
       <PageNumber>5102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2334,7 +2337,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>

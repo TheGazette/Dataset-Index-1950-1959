@@ -63,8 +63,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>V. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>7002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,9 +592,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Mattos</Forenames>
-      <Text>, B. G. P</Text>
+      <Key>De Mattos</Key>
+      <Forenames>B. G. P.</Forenames>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,9 +765,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boisson</Forenames>
-      <Text>, H. W</Text>
+      <Key>Du Boisson</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>7619</PageNumber>
     </MainItem>
   </ItemGroup>

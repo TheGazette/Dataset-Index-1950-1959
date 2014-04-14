@@ -1606,8 +1606,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. B. De V.</Forenames>
-      <Text>.:</Text>
+      <Forenames>L. B. De V</Forenames>
+      <Text>. .:</Text>
       <PageNumber>5001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,25 +1667,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, J. D</Text>
+      <Key>St. Clair</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>4679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, K</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>K.</Forenames>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, D. A</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>4737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2062,8 +2059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>4553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2172,7 +2168,9 @@
       <Key>Scott-Douglas</Key>
       <Title>Sir</Title>
       <Forenames>J. L. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4507</PageNumber>
     </MainItem>
   </ItemGroup>

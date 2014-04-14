@@ -9,8 +9,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. C</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>4155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,22 +89,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, E</Text>
+      <Key>O'Malley</Key>
+      <Forenames>E</Forenames>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, D. N. C</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>D. N. C.</Forenames>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>5368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,15 +163,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, E. F</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>5368</PageNumber>
       <PageNumber>3568</PageNumber>
     </MainItem>
@@ -226,8 +226,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. M. J., Sub. nots</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. M. J.</Forenames>
+      <Text>, Sub. nots</Text>
       <PageNumber>4376</PageNumber>
       <PageNumber>4376</PageNumber>
     </MainItem>
@@ -280,8 +281,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, D</Text>
+      <Key>O'Shea</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>5430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,8 +295,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Suilivan, D. J</Text>
+      <Key>O'Suilivan</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>5429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1949,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>T. C. B.</Text>
+      <Text>T. C. B</Text>
       <PageNumber>5003</PageNumber>
     </SubItem>
   </ItemGroup>

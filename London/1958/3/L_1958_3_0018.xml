@@ -1526,8 +1526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>5954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,8 +1709,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. L. de C</Forenames>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,8 +1786,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, R. D. A</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>R. D. A.</Forenames>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,8 +1815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallot</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>5954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2016,8 +2013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>

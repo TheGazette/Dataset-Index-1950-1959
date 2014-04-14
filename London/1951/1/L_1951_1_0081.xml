@@ -208,6 +208,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Cove</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>770</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Coverdale</Key>
       <Forenames>E. J. E.</Forenames>
       <PageNumber>1016</PageNumber>
@@ -432,15 +439,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Creake</Key>
-      <Title>St.</Title>
-      <Forenames>A.</Forenames>
+      <Title>St. A.</Title>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crebbin</Key>
-      <Text>, E;</Text>
+      <Forenames>E</Forenames>
+      <Text>;</Text>
       <PageNumber>464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookenden</Key>
-      <Text>, . H</Text>
+      <Text>. H</Text>
       <PageNumber>522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>,. G. W</Text>
+      <Text>. G. W</Text>
       <PageNumber>762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalgliesh</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalling</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1133,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1207,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1272,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1308,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jacob</Forenames>
+      <Title>Jacob .</Title>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1317,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>1708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1554,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1589,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R E</Text>
+      <Forenames>R</Forenames>
+      <Text>E</Text>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,17 +1686,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Artola</Forenames>
-      <Text>, F. I. G</Text>
+      <Key>De Artola</Key>
+      <Forenames>F. I. G.</Forenames>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Harenne</Forenames>
-      <Text>, L. J. M</Text>
+      <Key>de Bonet</Key>
+      <Text>dOleon, J. J. P</Text>
+      <PageNumber>587</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Giers</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>1340</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Harenne</Key>
+      <Forenames>L. J. M.</Forenames>
       <PageNumber>1271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,9 +1722,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Liver</Key>
+      <Forenames>L.</Forenames>
+      <PageNumber>632</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ludre-Fralois</Key>
+      <Forenames>C. L</Forenames>
+      <Text>; S B. Marquise</Text>
+      <PageNumber>965</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeMello</Key>
       <Forenames>C.</Forenames>
       <PageNumber>1602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>M. A. B.</Forenames>
+      <PageNumber>703</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Saulcy</Key>
+      <Forenames>A. L. F. C.</Forenames>
+      <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1981,7 +2030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diamant</Key>
-      <Text>,.A. St. J</Text>
+      <Text>.A. St. J</Text>
       <PageNumber>1139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2183,7 +2232,15 @@
       <PageNumber>1017</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. R. B.</Forenames>
+      <PageNumber>1613</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Docwra</Key>
@@ -2366,7 +2423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downes</Key>
-      <Text>, ' R. J</Text>
+      <Text>' R. J</Text>
       <PageNumber>1550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2498,7 +2555,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ethel</Forenames>
+      <Title>Ethel .</Title>
       <PageNumber>411</PageNumber>
     </MainItem>
   </ItemGroup>

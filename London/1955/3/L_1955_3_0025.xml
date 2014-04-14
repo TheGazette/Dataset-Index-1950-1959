@@ -512,8 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>dAltena</Key>
-      <Forenames>M. A. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. A. P. de B</Forenames>
       <PageNumber>4680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dashwood</Key>
-      <Forenames>M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. de C</Forenames>
       <PageNumber>3932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,8 +1305,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T.</Forenames>
-      <Text>de P</Text>
+      <Forenames>T. de P</Forenames>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1755,42 +1752,117 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, J</Text>
+      <Key>de Beer</Key>
+      <Forenames>M. W.</Forenames>
+      <PageNumber>4545</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>P. N.</Forenames>
+      <PageNumber>5428</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh</Key>
+      <Forenames>J</Forenames>
       <PageNumber>3797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>de Costobadie</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>3862</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Deney</Key>
+      <Forenames>G. I.</Forenames>
+      <PageNumber>5098</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>4686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ledesma</Forenames>
-      <Text>, E. F</Text>
+      <Key>De Ledesma</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>4686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lyle Turner</Forenames>
+      <Key>de Lrsle</Key>
+      <Text>and Dudley, Lord</Text>
+      <PageNumber>3797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lyle</Key>
+      <Forenames>Turner</Forenames>
       <Text>, C</Text>
       <PageNumber>4930</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, B. W</Text>
+      <Key>De Morgan</Key>
+      <Forenames>B. W.</Forenames>
       <PageNumber>4423</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Routon</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>4742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Jorre</Forenames>
+      <Text>, J. A</Text>
+      <PageNumber>4220</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. B.</Forenames>
+      <PageNumber>3865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>5041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vivenot</Key>
+      <Forenames>F. X.</Forenames>
+      <PageNumber>4425</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. J. P.</Forenames>
+      <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1800,6 +1872,13 @@
       </Key>
       <Forenames>F. L. P.</Forenames>
       <PageNumber>4155</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zulueta</Key>
+      <Forenames>P. P. J.</Forenames>
+      <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

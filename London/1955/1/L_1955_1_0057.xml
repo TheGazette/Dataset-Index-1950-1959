@@ -684,7 +684,9 @@
       <Key>Goulding</Key>
       <Title>Sir</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2581,8 +2583,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harries</Key>
-      <Forenames>G.</Forenames>
-      <Text>de W. W</Text>
+      <Forenames>G. de W</Forenames>
+      <Text>. W</Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2717,8 +2719,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>, C. D</Text>
       <PageNumber>1398</PageNumber>
     </MainItem>

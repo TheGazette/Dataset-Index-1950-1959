@@ -706,8 +706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>2119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +731,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. V.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. V. de B</Forenames>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,8 +2084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidbetter</Key>
-      <Forenames>L. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>L. O'B</Forenames>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

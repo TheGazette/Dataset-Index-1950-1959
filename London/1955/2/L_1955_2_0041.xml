@@ -109,8 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Forenames>E. C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>E. C. de B</Forenames>
       <PageNumber>3376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2046,8 +2045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Money</Key>
-      <Forenames>J. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. E. de B</Forenames>
       <PageNumber>3198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2200,7 +2198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moor</Key>
-      <Forenames>R. S. De G.</Forenames>
+      <Forenames>R. S. De G</Forenames>
       <PageNumber>2781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2237,8 +2235,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>D. St. L</Forenames>
       <PageNumber>1938</PageNumber>
     </MainItem>
   </ItemGroup>

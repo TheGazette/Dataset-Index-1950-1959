@@ -2455,7 +2455,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>

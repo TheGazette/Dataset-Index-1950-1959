@@ -1792,7 +1792,9 @@
     <MainItem>
       <Key>Corfield</Key>
       <Forenames>P.</Forenames>
-      <Text>DL</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>

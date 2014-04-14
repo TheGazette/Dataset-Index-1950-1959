@@ -195,7 +195,9 @@
       <Key>Leese</Key>
       <Title>Sir</Title>
       <Forenames>O. W. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2503,8 +2505,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. I. St. J</Forenames>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>

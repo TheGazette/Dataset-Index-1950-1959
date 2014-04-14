@@ -678,8 +678,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, W. Sub not</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>W. Sub</Forenames>
+      <Text>not</Text>
       <PageNumber>571</PageNumber>
     </MainItem>
   </ItemGroup>

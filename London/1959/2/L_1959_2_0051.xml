@@ -389,8 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croix</Key>
-      <Forenames>R.</Forenames>
-      <Text>de Ste</Text>
+      <Forenames>R. de Ste</Forenames>
       <PageNumber>2257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,33 +1222,44 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Tode</Forenames>
-      <Text>, J. J</Text>
+      <Key>De Tode</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>2614</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lestang</Forenames>
-      <Text>, R. M. C</Text>
+      <Key>De Lestang</Key>
+      <Forenames>R. M. C.</Forenames>
       <PageNumber>2423</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, R. G</Text>
+      <Key>de Lima</Key>
+      <Forenames>L. W.</Forenames>
+      <PageNumber>2614</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, R</Text>
+      <PageNumber>2257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>R. G.</Forenames>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>2424</PageNumber>
     </MainItem>
   </ItemGroup>

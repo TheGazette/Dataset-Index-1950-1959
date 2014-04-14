@@ -191,40 +191,35 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, K. N</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>K. N.</Forenames>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, B. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George-Taylor</Forenames>
-      <Text>, E. V. S</Text>
+      <Key>St. George-Taylor</Key>
+      <Forenames>E. V. S.</Forenames>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, G. E. S</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>G. E. S.</Forenames>
       <PageNumber>4749</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>Maur.</Title>
+      <Key>St. Maur</Key>
       <Forenames>F. P.</Forenames>
       <Text>.:</Text>
       <PageNumber>4890</PageNumber>
@@ -1300,8 +1295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunderson</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. A. de B</Forenames>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2674,8 +2668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seale</Key>
-      <Forenames>C. S. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>C. S. St. B</Forenames>
       <PageNumber>5140</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1708,6 +1708,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Lottum</Key>
+      <Forenames>G. W.</Forenames>
+      <PageNumber>5824</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vandeleur</Key>
       <Forenames>W. D. B.</Forenames>
       <Text>. V. Vandeleur-Boorer, J. F,</Text>
@@ -1782,8 +1789,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>V. St. G</Forenames>
       <PageNumber>5403</PageNumber>
     </MainItem>
   </ItemGroup>

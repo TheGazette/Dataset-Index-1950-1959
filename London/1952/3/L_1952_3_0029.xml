@@ -330,7 +330,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,10 +1095,9 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
-    <SubCategoryTitle>
-      <Text>Sub. not</Text>
-    </SubCategoryTitle>
+    <SubCategoryTitle>Sub. not</SubCategoryTitle>
     <SubItem>
+      <Text>Sub. not.</Text>
       <PageNumber>4960</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1635,8 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidwell</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V. B</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>. B</Text>
       <PageNumber>3739</PageNumber>
     </MainItem>
     <SubItem>
@@ -1712,7 +1713,9 @@
       <Key>Kinloch</Key>
       <Title>Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2408,8 +2411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. A. St. G</Forenames>
       <PageNumber>4695</PageNumber>
     </MainItem>
   </ItemGroup>

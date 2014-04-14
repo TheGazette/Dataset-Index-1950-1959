@@ -373,7 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1603,7 +1604,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. J. M.</Forenames>
-      <Text>, Bt., Sub not</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>963</PageNumber>
     </MainItem>
   </ItemGroup>

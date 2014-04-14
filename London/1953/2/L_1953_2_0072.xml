@@ -1236,7 +1236,9 @@
     <MainItem>
       <Key>Coast</Key>
       <Forenames>Protection Act</Forenames>
-      <Text>, Notices: Kingsbridge R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deorfa</Key>
-      <Text>de Arfon, cancelling of registry</Text>
+      <Forenames>de Arfon</Forenames>
+      <Text>, cancelling of registry</Text>
       <PageNumber>2600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1348,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Food</Key>
-      <Text>and Drugs Act. (See under Health. Ministry of.) Food, Ministry of, Byelaws, application for confirmations and notices: Bucklow, R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>

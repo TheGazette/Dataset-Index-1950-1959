@@ -584,8 +584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Micklethwait</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,15 +1002,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, S. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>S. J.</Forenames>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, D. J</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1039,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reagain, O'Reagain, S. S. P. P. C</Text>
+      <Key>O'Reagain</Key>
+      <Forenames>O'Reagain</Forenames>
+      <Text>, S. S. P. P. C</Text>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,9 +2049,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George</Forenames>
-      <Text>, A. G</Text>
+      <Key>St. George</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>1380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2216,8 +2216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpies</Key>
-      <Forenames>J. G. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. G. St. L</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2254,8 +2253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shenbrooke</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. St. V</Forenames>
       <PageNumber>787</PageNumber>
     </MainItem>
   </ItemGroup>

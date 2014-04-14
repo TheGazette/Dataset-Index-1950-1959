@@ -327,15 +327,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, A., Sub. not</Text>
+      <Key>O'Connell</Key>
+      <Forenames>A.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, M. M., Sub. not</Text>
+      <Key>O'Hara</Key>
+      <Forenames>M. M.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +357,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, E</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>1387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +378,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, E. M., Sub. not</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,7 +1472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarbat</Key>
-      <Forenames>Viscountess</Forenames>
+      <Title>Viscountess</Title>
       <Text>, D. E</Text>
       <PageNumber>386</PageNumber>
     </MainItem>
@@ -2211,8 +2214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>1749</PageNumber>
     </MainItem>
   </ItemGroup>

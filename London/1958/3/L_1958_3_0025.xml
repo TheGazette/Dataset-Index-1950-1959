@@ -1031,7 +1031,9 @@
     <MainItem>
       <Key>Brooke</Key>
       <Forenames>Brooke</Forenames>
-      <Text>, Sir Sir G. G. F. F. c, c, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,7 +1620,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brufal</Key>
-      <Text>de Melgareio, M. R</Text>
+      <Forenames>de Melgareio</Forenames>
+      <Text>, M. R</Text>
       <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>

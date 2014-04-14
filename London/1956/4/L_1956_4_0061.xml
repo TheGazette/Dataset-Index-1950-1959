@@ -566,8 +566,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>6868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +580,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, E</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>7164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1065,9 @@
     <MainItem>
       <Key>Agriculture</Key>
       <Forenames>Fisheries</Forenames>
-      <Text>and Food, Ministry of: Ploughley R.D., application for and confirmation of ByeJaw</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5920</PageNumber>
     </MainItem>
     <SubItem>

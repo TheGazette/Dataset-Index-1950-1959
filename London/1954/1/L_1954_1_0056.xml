@@ -1250,18 +1250,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Casmaker</Forenames>
-      <Text>, J. E</Text>
+      <Key>De Casmaker</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Graeve</Forenames>
-      <Text>, J. H</Text>
+      <Key>de Ferranti</Key>
+      <Forenames>B. Z.</Forenames>
+      <PageNumber>567</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Graeve</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>1308</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kretser</Key>
+      <Forenames>A. J. H. de Llanos</Forenames>
+      <Text>, J. M</Text>
+      <PageNumber>858</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

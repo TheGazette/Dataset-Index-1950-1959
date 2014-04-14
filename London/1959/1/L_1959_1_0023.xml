@@ -66,8 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saumarez</Key>
-      <Forenames>J.</Forenames>
-      <Text>de H</Text>
+      <Forenames>J. de H</Forenames>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2005,7 +2004,9 @@
       <Key>Anstruther</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>69</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2416,8 +2417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Askins</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. E. St. G</Forenames>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -442,8 +442,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>57</PageNumber>
       <PageNumber>57</PageNumber>
       <PageNumber>658</PageNumber>
@@ -993,7 +992,9 @@
       <Key>Jaffray</Key>
       <Title>Sir</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>

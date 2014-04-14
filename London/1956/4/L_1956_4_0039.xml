@@ -955,25 +955,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, J. D</Text>
+      <Key>St. Clair</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>6109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C. D</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>6181</PageNumber>
     </MainItem>
   </ItemGroup>

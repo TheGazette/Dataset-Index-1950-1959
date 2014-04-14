@@ -1070,17 +1070,15 @@
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ernden</Forenames>
-      <Text>, W. G</Text>
+      <Key>Van Ernden</Key>
+      <Forenames>W. G.</Forenames>
       <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Meurs</Forenames>
-      <Text>, D. P</Text>
+      <Key>Van Meurs</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>2706</PageNumber>
     </MainItem>
   </ItemGroup>

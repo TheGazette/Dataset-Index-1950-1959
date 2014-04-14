@@ -409,7 +409,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Forenames>A. C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1751,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,8 +1891,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>3535</PageNumber>
     </MainItem>
@@ -1930,8 +1934,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>P. St. G</Forenames>
       <PageNumber>3354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2174,7 +2177,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>

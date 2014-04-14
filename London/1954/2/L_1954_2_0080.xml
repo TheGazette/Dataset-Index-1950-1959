@@ -1847,8 +1847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strachey</Key>
-      <Forenames>E. J. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>E. J. St. L</Forenames>
       <PageNumber>2772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2162,7 +2161,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweet</Key>
-      <Text>L.T</Text>
+      <Text>
+        <Honour>L.T</Honour>
+      </Text>
       <PageNumber>2370</PageNumber>
     </MainItem>
   </ItemGroup>

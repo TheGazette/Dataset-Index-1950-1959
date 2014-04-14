@@ -1109,8 +1109,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
@@ -2501,8 +2501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. de V</Forenames>
       <PageNumber>4835</PageNumber>
     </MainItem>
   </ItemGroup>

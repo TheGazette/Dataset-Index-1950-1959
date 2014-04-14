@@ -541,8 +541,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll,B. R</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>B. R.</Forenames>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,8 +592,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, W. D:</Text>
+      <Key>O'Leary</Key>
+      <Forenames>W. D</Forenames>
+      <Text>:</Text>
       <PageNumber>2428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2568,8 +2569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilney</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>2624</PageNumber>
     </MainItem>
   </ItemGroup>

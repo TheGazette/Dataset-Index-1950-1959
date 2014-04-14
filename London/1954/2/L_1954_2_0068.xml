@@ -1320,7 +1320,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliott</Key>
-      <Text>DL. C. D</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>3418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,8 +1808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emery</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>

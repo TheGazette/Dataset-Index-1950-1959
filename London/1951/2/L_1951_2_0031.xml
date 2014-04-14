@@ -975,7 +975,9 @@
     <MainItem>
       <Key>Hazeldine</Key>
       <Forenames>A. J.</Forenames>
-      <Text>Bt. Head, Sir F. D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,8 +1400,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -676,7 +676,9 @@
     <MainItem>
       <Key>Makinson</Key>
       <Forenames>F. S. Malet</Forenames>
-      <Text>, Sir E. W. St. Lo., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3263</PageNumber>
     </MainItem>
   </ItemGroup>

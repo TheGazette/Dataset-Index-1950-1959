@@ -66,8 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranken</Key>
-      <Forenames>A.</Forenames>
-      <Text>de W</Text>
+      <Forenames>A. de W</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +620,7 @@
       <Key>
         <KeyDitto>___ —___ ___</KeyDitto>
       </Key>
-      <Forenames>S. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>S. P. St. C</Forenames>
       <PageNumber>4627</PageNumber>
     </MainItem>
   </ItemGroup>

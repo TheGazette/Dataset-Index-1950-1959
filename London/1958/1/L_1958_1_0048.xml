@@ -45,6 +45,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Casmaker</Key>
+      <Forenames>J. E.</Forenames>
+      <PageNumber>1775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeGaris</Key>
       <Forenames>M. G.</Forenames>
       <PageNumber>1284</PageNumber>
@@ -52,9 +66,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laszlo</Forenames>
-      <Text>, J. A</Text>
+      <Key>De Laszlo</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,8 +580,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,17 +906,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, R. P</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>1117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, J</Text>
+      <Key>Du Val</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>

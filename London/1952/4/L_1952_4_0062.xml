@@ -570,8 +570,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1420,9 @@
     <MainItem>
       <Key>Coast</Key>
       <Forenames>Protection</Forenames>
-      <Text>notice, Penybont R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>

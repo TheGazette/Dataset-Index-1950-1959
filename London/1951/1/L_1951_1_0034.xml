@@ -1088,7 +1088,9 @@
       <Key>Milbanke</Key>
       <Title>Sir</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,8 +1567,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>G. J. S.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>J. S.</Forenames>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>

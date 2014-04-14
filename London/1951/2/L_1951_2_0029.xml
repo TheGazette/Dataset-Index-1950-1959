@@ -748,8 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>3534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,6 +1242,42 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Caesteker</Key>
+      <Forenames>J. J.</Forenames>
+      <PageNumber>1742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grau</Key>
+      <Forenames>J. F</Forenames>
+      <PageNumber>1740</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, B. C</Text>
+      <PageNumber>3165</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ledesma</Key>
+      <Forenames>E. F.</Forenames>
+      <PageNumber>3353</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stempel</Key>
+      <Forenames>M. V. J. W.</Forenames>
+      <PageNumber>3406</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacock</Key>
       <Forenames>W. M. M.</Forenames>
       <PageNumber>3352</PageNumber>
@@ -1651,8 +1686,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. H. de C</Forenames>
       <PageNumber>3533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,6 +1821,13 @@
       </Key>
       <Forenames>R.</Forenames>
       <PageNumber>3354</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>T. H.</Forenames>
+      <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2593,8 +2634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Epps</Key>
-      <Forenames>L. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>L. C. de R</Forenames>
       <PageNumber>2241</PageNumber>
     </MainItem>
   </ItemGroup>

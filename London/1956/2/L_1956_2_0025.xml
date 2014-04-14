@@ -2530,8 +2530,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>3448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2544,8 +2544,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2567,8 +2567,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, T. G</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>T. G.</Forenames>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>

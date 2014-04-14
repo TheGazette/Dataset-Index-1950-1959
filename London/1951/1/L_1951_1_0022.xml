@@ -698,8 +698,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Plain</Forenames>
+      <Key>de Burgh</Key>
+      <Forenames>R. U. P.</Forenames>
+      <PageNumber>32</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Plain</Forenames>
       <Text>, B. A</Text>
       <PageNumber>600</PageNumber>
     </MainItem>
@@ -1167,8 +1174,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Nion, G. C. E</Text>
+      <Key>O'Nion</Key>
+      <Forenames>G. C. E.</Forenames>
       <PageNumber>600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,10 +1262,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>St.</Title>
+      <Key>St. St</Key>
       <Forenames>Clair-Ford</Forenames>
-      <Text>, Clair-Ford, Sir Sir A., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1511,9 @@
   <ItemGroup>
     <MainItem>
       <Key>First</Key>
-      <Text>and Principal A.D.C. to The King. Power, Sir A. J</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,6 +1557,13 @@
     <MainItem>
       <Key>Cresswell</Key>
       <Forenames>A. J. Baker</Forenames>
+      <PageNumber>926</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>S. B</Forenames>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>

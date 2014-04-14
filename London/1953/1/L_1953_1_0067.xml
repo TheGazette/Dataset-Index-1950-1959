@@ -1688,36 +1688,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>1520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M., Corr</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, W</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, W. P,</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>W. P</Forenames>
+      <Text>,</Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, T. S</Text>
+      <Key>O'Regan</Key>
+      <Forenames>T. S.</Forenames>
       <PageNumber>829</PageNumber>
     </MainItem>
   </ItemGroup>

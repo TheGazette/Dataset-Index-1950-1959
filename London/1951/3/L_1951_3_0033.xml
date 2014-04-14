@@ -110,17 +110,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Cyres</Forenames>
-      <Text>, S. H. Viscount</Text>
+      <Key>St. Cyres</Key>
+      <Forenames>S. H.</Forenames>
+      <Text>Viscount</Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, H. L</Text>
+      <Key>St. Leger</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>3741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +327,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. N. St. J</Forenames>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>

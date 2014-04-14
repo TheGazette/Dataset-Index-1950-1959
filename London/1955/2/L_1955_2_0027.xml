@@ -382,8 +382,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, D. H. H</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>D. H. H.</Forenames>
       <PageNumber>2202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,8 +1508,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de M. C</Text>
+      <Forenames>J. de M</Forenames>
+      <Text>. C</Text>
       <PageNumber>2203</PageNumber>
     </MainItem>
   </ItemGroup>

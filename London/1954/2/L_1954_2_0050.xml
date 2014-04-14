@@ -318,6 +318,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Charmoy</Key>
+      <Forenames>C. M.</Forenames>
+      <Text>dE</Text>
+      <PageNumber>3399</PageNumber>
+      <PageNumber>3814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deas</Key>
       <Forenames>I. C</Forenames>
       <PageNumber>2363</PageNumber>
@@ -1267,22 +1276,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, B. E</Text>
+      <Key>O'Dea</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>2837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoell, ,S. M</Text>
+      <Key>O'Donoell</Key>
+      <Text>,S. M</Text>
       <PageNumber>3460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill; M. .:</Text>
+      <Key>O'Neill</Key>
+      <Text>; M. .:</Text>
       <PageNumber>2485</PageNumber>
     </MainItem>
   </ItemGroup>

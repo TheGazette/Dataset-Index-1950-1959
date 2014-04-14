@@ -282,7 +282,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +612,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Saban</Key>
-      <Text>LT</Text>
+      <Text>
+        <Honour>LT</Honour>
+      </Text>
       <PageNumber>2857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,9 +636,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, B. J</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>2146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,8 +1098,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>P. W. St. L</Forenames>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>

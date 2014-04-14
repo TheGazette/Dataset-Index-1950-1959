@@ -2134,8 +2134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sevenoaks</Key>
-      <Title>St.</Title>
-      <Forenames>J. E. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E. F.</Forenames>
       <PageNumber>867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2237,8 +2237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shannon</Key>
-      <Forenames>D. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. R. St. J</Forenames>
       <PageNumber>1583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2653,8 +2652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherlock</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>A. St. L</Forenames>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>

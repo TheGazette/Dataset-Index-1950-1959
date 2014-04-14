@@ -1373,8 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>B. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>B. J. St. M</Forenames>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1965,8 +1964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbery</Key>
-      <Forenames>G. F. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. F. O'B</Forenames>
       <PageNumber>2570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2306,43 +2304,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ballance, E</Text>
+      <Key>O'Ballance</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. P. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. P. M.</Forenames>
       <PageNumber>3461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, W. J</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W.</Forenames>
       <PageNumber>3267</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, G</Text>
+      <Key>O'Dell</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>

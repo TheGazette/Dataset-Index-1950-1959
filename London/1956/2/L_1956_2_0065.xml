@@ -516,7 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique (S.A.R.L.) notice</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>(S.A.R.L.) notice</Text>
       <PageNumber>2799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +967,9 @@
       <PageNumber>2480</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Warwick R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2021</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -2049,8 +2049,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, B. A</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2077,8 +2077,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>

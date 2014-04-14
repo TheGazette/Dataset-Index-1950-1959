@@ -1779,10 +1779,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>3166</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Daalen</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>2323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1794,9 +1801,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P. T</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>

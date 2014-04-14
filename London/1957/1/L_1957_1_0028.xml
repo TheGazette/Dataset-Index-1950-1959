@@ -1729,8 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mounteney</Key>
-      <Forenames>P. H.</Forenames>
-      <Text>de R</Text>
+      <Forenames>P. H. de R</Forenames>
       <PageNumber>570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,29 +1938,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B</Forenames>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, J. P</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>J. P</Forenames>
       <PageNumber>980</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, J</Text>
+      <Key>O'Regan</Key>
+      <Forenames>J</Forenames>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, D. A. P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>D. A. P.</Forenames>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>

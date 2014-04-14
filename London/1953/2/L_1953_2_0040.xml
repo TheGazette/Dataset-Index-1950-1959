@@ -254,8 +254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Forenames>J. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. T. O'B</Forenames>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2554,7 +2553,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2192</PageNumber>
     </MainItem>
   </ItemGroup>

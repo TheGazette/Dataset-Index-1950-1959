@@ -2533,25 +2533,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, W. F. E</Text>
+      <Key>St. Clair</Key>
+      <Forenames>W. F. E.</Forenames>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George-Bond</Forenames>
-      <Text>, H</Text>
+      <Key>St. George-Bond</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>4104</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, V. B</Text>
+      <Key>St. John</Key>
+      <Forenames>V. B.</Forenames>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>

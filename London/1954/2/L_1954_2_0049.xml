@@ -131,9 +131,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, M. H. ,</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>M. H.</Forenames>
+      <Text>,</Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1211,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>

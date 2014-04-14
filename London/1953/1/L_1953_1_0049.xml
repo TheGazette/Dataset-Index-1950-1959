@@ -308,8 +308,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. L.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. L. de P</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +419,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. L. Wrixon-Becher</Forenames>
-      <Text>, Sir W. F., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,6 +1204,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wardt</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>477</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dempsey</Key>
       <Forenames>L.</Forenames>
       <PageNumber>820</PageNumber>
@@ -1456,8 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. O'B</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1642,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>P. I.</Text>
+      <Text>P. I</Text>
       <PageNumber>84</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -2090,8 +2097,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gara, W</Text>
+      <Key>O'Gara</Key>
+      <Forenames>W</Forenames>
       <PageNumber>968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2104,29 +2111,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, B</Text>
+      <Key>O'Malley</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, C</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>C</Forenames>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, B</Text>
+      <Key>O'Shea</Key>
+      <Forenames>B.</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, E. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>E. M.</Forenames>
       <PageNumber>281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2435,8 +2442,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair Vivian</Forenames>
+      <Key>St. Clair</Key>
+      <Forenames>Vivian</Forenames>
       <Text>, D. W. F</Text>
       <PageNumber>1297</PageNumber>
     </MainItem>

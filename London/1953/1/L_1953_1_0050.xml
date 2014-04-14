@@ -201,8 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Forenames>D. W. F. St</Forenames>
-      <Text>. Clair</Text>
+      <Forenames>D. W. F. St. Clair</Forenames>
       <PageNumber>1297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +683,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adderley</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>

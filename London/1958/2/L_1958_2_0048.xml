@@ -1226,8 +1226,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, I. A</Text>
+      <Key>O'Shee</Key>
+      <Forenames>I. A.</Forenames>
       <PageNumber>3365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,8 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paige</Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1777,7 +1776,9 @@
     <MainItem>
       <Key>Thomson</Key>
       <Forenames>M. J.</Forenames>
-      <Text>DL</Text>
+      <Text>
+        <Honour>DL</Honour>
+      </Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1892,8 +1893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>U. V.</Forenames>
-      <Text>de L</Text>
+      <Forenames>U. V. de L</Forenames>
       <PageNumber>4049</PageNumber>
     </MainItem>
   </ItemGroup>

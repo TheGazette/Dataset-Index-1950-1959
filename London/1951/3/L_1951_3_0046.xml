@@ -445,15 +445,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, G. M</Text>
+      <Key>O'Dell</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, B. L</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>B. L.</Forenames>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +466,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J. M</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>4595</PageNumber>
     </MainItem>
   </ItemGroup>

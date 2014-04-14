@@ -1255,8 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>E. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. V. St. J</Forenames>
       <PageNumber>3875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,8 +1492,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrell, A. B</Text>
+      <Key>O'Ferrell</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1567,8 +1566,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, J. G</Text>
+      <Key>O'Regan</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>4823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2397,9 +2396,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, G. P</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>G. P.</Forenames>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2561,8 +2559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherbrooke</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. St. V</Forenames>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>

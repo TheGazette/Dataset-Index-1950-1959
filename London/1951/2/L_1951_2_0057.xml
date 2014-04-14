@@ -757,8 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2577,17 +2576,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, J. R</Text>
+      <Key>St. John</Key>
+      <Forenames>J. R.</Forenames>
       <PageNumber>3543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Pierre</Forenames>
-      <Text>, M. A. J</Text>
+      <Key>St. Pierre</Key>
+      <Forenames>M. A. J.</Forenames>
       <PageNumber>2312</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -197,8 +197,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de F</Text>
+      <Forenames>P. de F</Forenames>
       <PageNumber>7160</PageNumber>
       <PageNumber>7162</PageNumber>
     </MainItem>
@@ -1096,17 +1095,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Maine</Forenames>
-      <Text>, D. H</Text>
+      <Key>de Belder</Key>
+      <Forenames>K. R. J.</Forenames>
+      <PageNumber>5980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcier</Key>
+      <Forenames>O.</Forenames>
+      <PageNumber>6571</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Maine</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>5570</PageNumber>
     </MainItem>
   </ItemGroup>

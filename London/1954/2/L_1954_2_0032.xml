@@ -466,8 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. O'C</Forenames>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +482,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +912,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>G.M</Text>
+      <Text>
+        <Honour>G.M</Honour>
+      </Text>
       <PageNumber>2279</PageNumber>
     </MainItem>
   </ItemGroup>

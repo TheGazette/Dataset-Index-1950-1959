@@ -650,7 +650,9 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>iL. (R.A.M.C.) .I</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,9 +1562,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Brugen</Forenames>
-      <Text>, M. J</Text>
+      <Key>Van Brugen</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -267,7 +267,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,25 +1303,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Beugen Bik</Forenames>
+      <Key>Van Beugen</Key>
+      <Forenames>Bik</Forenames>
       <Text>, J. A</Text>
       <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Kerckhoven</Forenames>
-      <Text>, E. A</Text>
+      <Key>Van Kerckhoven</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>5318</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Stockum</Forenames>
-      <Text>, T. W</Text>
+      <Key>Van Stockum</Key>
+      <Forenames>T. W.</Forenames>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1859,8 +1859,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>D.</Forenames>
-      <Text>de W</Text>
+      <Forenames>D. de W</Forenames>
       <PageNumber>6333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,7 +1906,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. S.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5201</PageNumber>
     </MainItem>
   </ItemGroup>

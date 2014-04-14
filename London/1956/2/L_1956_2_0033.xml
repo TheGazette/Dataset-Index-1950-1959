@@ -110,9 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, P. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>P. H.</Forenames>
       <PageNumber>2151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +986,9 @@
       <Key>Edmonstone</Key>
       <Title>Sir</Title>
       <Forenames>A. B. C</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2561,8 +2562,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. T. Faunce</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>T. Faunce</Forenames>
       <Text>, E. De L</Text>
       <PageNumber>2154</PageNumber>
     </MainItem>

@@ -2296,8 +2296,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Merindol.</Title>
+      <Key>de Belder</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>2120</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Merindol</Key>
       <Forenames>P. H.</Forenames>
       <PageNumber>3026</PageNumber>
     </MainItem>

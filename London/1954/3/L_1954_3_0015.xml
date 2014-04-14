@@ -216,7 +216,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>P.</Text>
+      <Text>P</Text>
       <PageNumber>4263</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -416,9 +416,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, A</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>A</Forenames>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1873,8 +1872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>

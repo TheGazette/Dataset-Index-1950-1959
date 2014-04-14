@@ -801,8 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Botha</Key>
-      <Forenames>E.</Forenames>
-      <Text>du R</Text>
+      <Forenames>E. du R</Forenames>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,8 +1601,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. P. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. P. O'D</Forenames>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2139,8 +2137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke-Johnson</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>

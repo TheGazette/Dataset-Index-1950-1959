@@ -2,22 +2,22 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="062" pageID="https://www.thegazette.co.uk/id/London/index/year/1950/volume/4/page/062" pagePDF="https://www.thegazette.co.uk/London/index/year/1950/volume/4/page/062" pageRDF="https://www.thegazette.co.uk/London/index/year/1950/volume/4/page/062?view=linked-data" type="index" volume="4" year="1950">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>5307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, W. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>W. P.</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,15 +37,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Regan, T. S</Text>
+      <Key>O'Regan</Key>
+      <Forenames>T. S.</Forenames>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. M</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C. M.</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
+      <Title>Corr.</Title>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J H</Text>
+      <Forenames>J</Forenames>
+      <Text>H</Text>
       <PageNumber>5309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +423,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stocks</Key>
-      <Text>E. N</Text>
+      <Forenames>E. N.</Forenames>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Cane</Forenames>
+      <Title>Cane.</Title>
       <PageNumber>5816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Towers</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,14 +790,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitton</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,14 +869,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>K. M</Text>
+      <Forenames>K. M.</Forenames>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +902,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>W. Trade Facilities, Ltd., exemption from Moneylenders Acts</Text>
+      <Forenames>W. Trade Facilities</Forenames>
+      <Text>, Ltd., exemption from Moneylenders Acts</Text>
       <PageNumber>4939</PageNumber>
     </MainItem>
   </ItemGroup>

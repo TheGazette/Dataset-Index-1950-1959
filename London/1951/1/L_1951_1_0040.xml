@@ -661,7 +661,9 @@
       <Key>Blaker</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,16 +12,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. F. O</Forenames>
-      <Text>'C, Sub. not</Text>
+      <Forenames>P. F. O'C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Raynor</Key>
-      <Forenames>A. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. P. St. C</Forenames>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,33 +1527,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Morford</Forenames>
-      <Text>, P. A</Text>
+      <Key>St. Clair-Morford</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Croix</Forenames>
-      <Text>, D. H</Text>
+      <Key>St. Croix</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C. I</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Lawrence</Forenames>
-      <Text>, J</Text>
+      <Key>St. Lawrence</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2159,8 +2154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sevenoaks</Key>
-      <Title>St.</Title>
-      <Forenames>J. E. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E. F.</Forenames>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>

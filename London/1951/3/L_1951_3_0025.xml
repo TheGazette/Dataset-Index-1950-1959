@@ -258,8 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobley</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>4923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,8 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colthurst</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>3796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dashwood</Key>
-      <Forenames>M. De C.</Forenames>
+      <Forenames>M. De C</Forenames>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2076,41 +2073,81 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Costobadie</Forenames>
-      <Text>, F. E</Text>
-      <PageNumber>4815</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>De</Key>
-      <Forenames>Laubenque</Forenames>
-      <Text>, J. J</Text>
+      <Key>de Bethune</Key>
+      <Forenames>D. Q. M.</Forenames>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roemer</Forenames>
-      <Text>, B. 'N</Text>
+      <Key>de Carvalho</Key>
+      <Forenames>A. C.</Forenames>
+      <PageNumber>4431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Costobadie</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>4815</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Faveri</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>4924</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jimenez</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>4817</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lane-Lea</Key>
+      <Forenames>J. P.</Forenames>
+      <PageNumber>4485</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Laubenque</Key>
+      <Forenames>J. J.</Forenames>
+      <PageNumber>4707</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mare</Key>
+      <Forenames>I. R.</Forenames>
+      <Text>, Cane</Text>
+      <PageNumber>4040</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Roemer</Key>
+      <Forenames>B.</Forenames>
+      <Text>'N</Text>
       <PageNumber>3743</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rosemond</Forenames>
-      <Text>, E. P. E. C, Sub. not</Text>
+      <Key>De Rosemond</Key>
+      <Forenames>E. P. E. C</Forenames>
+      <Text>, Sub. not</Text>
       <PageNumber>3915</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, C. J</Text>
+      <Key>De Salis</Key>
+      <Forenames>C. J.</Forenames>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2119,6 +2156,13 @@
       <Key>DeSalis</Key>
       <Forenames>J. O.</Forenames>
       <PageNumber>3792</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>G. G. R. E.</Forenames>
+      <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

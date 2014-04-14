@@ -1576,8 +1576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>Q. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Q. St. J</Forenames>
       <PageNumber>4483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2083,7 +2082,9 @@
         <KeyDitto>___ ___ ___ ;</KeyDitto>
       </Key>
       <Forenames>R. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>

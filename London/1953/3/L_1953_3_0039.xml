@@ -1067,8 +1067,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>4586</PageNumber>
     </MainItem>
     <SubItem>
@@ -1553,7 +1553,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3988</PageNumber>
     </MainItem>
   </ItemGroup>

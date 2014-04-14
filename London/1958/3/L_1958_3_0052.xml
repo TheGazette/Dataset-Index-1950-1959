@@ -2506,15 +2506,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, J. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, A</Text>
+      <Key>O'Connell</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2529,8 +2529,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. J.</Forenames>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

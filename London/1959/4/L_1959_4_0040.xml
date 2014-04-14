@@ -2066,17 +2066,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, J. A</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Laum</Forenames>
-      <Text>, J</Text>
+      <Key>Van Laum</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2092,17 +2090,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Lottum</Forenames>
-      <Text>, G. W</Text>
+      <Key>Van Lottum</Key>
+      <Forenames>G. W.</Forenames>
       <PageNumber>6928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zeller</Forenames>
-      <Text>, E. A</Text>
+      <Key>Van Zeller</Key>
+      <Forenames>E. A.</Forenames>
       <PageNumber>7510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2118,7 +2114,9 @@
     <MainItem>
       <Key>Vandyck</Key>
       <Forenames>N. A. R.</Forenames>
-      <Text>, Bt. Vassar-Smith, Sir R</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>

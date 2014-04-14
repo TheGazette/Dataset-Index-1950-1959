@@ -168,9 +168,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Barbe-Smith</Forenames>
-      <Text>, F. H. M. St. John Chappell,</Text>
+      <Key>St. Barbe-Smith</Key>
+      <Forenames>F. H. M. St. John Chappell</Forenames>
+      <Text>,</Text>
       <PageNumber>7072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,8 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>A. de G</Forenames>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwill</Key>
-      <Forenames>M. R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. R. de B</Forenames>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>

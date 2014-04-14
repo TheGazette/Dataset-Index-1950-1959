@@ -1519,8 +1519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G. E</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. E</Text>
       <PageNumber>4516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2393,8 +2393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>T. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>T. A. de V</Forenames>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>

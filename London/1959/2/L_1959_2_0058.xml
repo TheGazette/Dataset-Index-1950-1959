@@ -1136,9 +1136,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, J. R</Text>
+      <Key>St. John</Key>
+      <Forenames>J. R</Forenames>
       <PageNumber>2256</PageNumber>
     </MainItem>
   </ItemGroup>

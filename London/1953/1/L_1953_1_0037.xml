@@ -1127,18 +1127,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>, P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>419</PageNumber>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Johnston</Forenames>
-      <Text>, C. I</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>C. I.</Forenames>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,8 +1598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>279</PageNumber>
       <PageNumber>279</PageNumber>
     </MainItem>
@@ -1743,8 +1740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sevenoaks</Key>
-      <Title>St.</Title>
-      <Forenames>J. E. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E. F.</Forenames>
       <PageNumber>1021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2157,8 +2154,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>1717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2185,8 +2181,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2458,8 +2453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>1083</PageNumber>
     </MainItem>
   </ItemGroup>

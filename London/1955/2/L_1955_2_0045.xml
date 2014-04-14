@@ -795,33 +795,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George</Forenames>
-      <Text>, F. F. B</Text>
+      <Key>St. George</Key>
+      <Forenames>F. F. B.</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, H. L</Text>
+      <Key>St. Leger</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Lo Malet</Forenames>
-      <Text>, Sir E. W., Bt</Text>
+      <Key>St. Lo</Key>
+      <Forenames>Malet</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1516,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2781</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1387,8 +1387,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>P. J.</Forenames>
+      <Title>St. P.</Title>
+      <Forenames>J.</Forenames>
       <PageNumber>5880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,7 +1453,9 @@
       <Key>Henniker</Key>
       <Title>Sir</Title>
       <Forenames>M. C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4287</PageNumber>
     </MainItem>
   </ItemGroup>

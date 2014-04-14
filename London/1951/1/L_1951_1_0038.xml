@@ -518,9 +518,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Niekirk</Forenames>
-      <Text>, B. P</Text>
+      <Key>Van Niekirk</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>1412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weal</Key>
-      <Forenames>S.</Forenames>
-      <Text>de P</Text>
+      <Forenames>S. de P</Forenames>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2484,7 +2482,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>51</PageNumber>
     </MainItem>
   </ItemGroup>

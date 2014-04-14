@@ -1229,7 +1229,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther</Key>
-      <Text>Gough Calthorpe, Sir R. H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1530,8 +1532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Askins</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. E. St. G</Forenames>
       <PageNumber>7650</PageNumber>
     </MainItem>
   </ItemGroup>

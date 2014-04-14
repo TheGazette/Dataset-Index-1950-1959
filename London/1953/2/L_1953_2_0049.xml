@@ -885,7 +885,9 @@
       <Key>Hobhouse</Key>
       <Title>Sir</Title>
       <Forenames>C. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,8 +1385,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>3340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1776,7 +1777,9 @@
       <Key>Inglefield-Watson</Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>

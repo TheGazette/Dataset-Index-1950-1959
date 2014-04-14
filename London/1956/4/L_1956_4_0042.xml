@@ -1847,17 +1847,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Den Heuvel</Forenames>
+      <Key>Van Den</Key>
+      <Forenames>Heuvel</Forenames>
       <Text>, M. J</Text>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Rossum</Forenames>
-      <Text>, R. P. D</Text>
+      <Key>Van Rossum</Key>
+      <Forenames>R. P. D.</Forenames>
       <PageNumber>5973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2188,17 +2187,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Mollerdorf</Forenames>
-      <Text>, J. W</Text>
+      <Key>Von Mollerdorf</Key>
+      <Forenames>J. W.</Forenames>
       <PageNumber>6483</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>H. O'D</Forenames>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>

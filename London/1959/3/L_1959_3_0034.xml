@@ -1010,8 +1010,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. S. de N</Forenames>
       <PageNumber>4795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,25 +1795,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, H. L</Text>
+      <Key>St. Leger</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>5257</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Lo Malet</Forenames>
+      <Key>St. Lo</Key>
+      <Forenames>Malet</Forenames>
       <Text>, H. D</Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, D. A</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>5059</PageNumber>
     </MainItem>
   </ItemGroup>

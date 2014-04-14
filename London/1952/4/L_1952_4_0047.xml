@@ -1757,9 +1757,15 @@
   <KeyDitto>___ ___ ..</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy</Forenames>
-      <Text>, M. C. C</Text>
+      <Key>de Belder</Key>
+      <Forenames>K. R. J.</Forenames>
+      <PageNumber>5524</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Forenames>M. C. C.</Forenames>
       <PageNumber>6479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1772,9 +1778,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Garis</Forenames>
-      <Text>, M. G</Text>
+      <Key>De Garis</Key>
+      <Forenames>M. G.</Forenames>
       <PageNumber>6204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,10 +1792,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sarigny</Forenames>
-      <Text>, D. R C. B</Text>
+      <Key>De Sarigny</Key>
+      <Forenames>D. R</Forenames>
+      <Text>C. B</Text>
       <PageNumber>6208</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wiele</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>5808</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

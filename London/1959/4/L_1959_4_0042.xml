@@ -337,7 +337,7 @@
       <PageNumber>7672</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>E. J</Text>
+      <Text>E. J.</Text>
       <PageNumber>6521</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -815,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. A., Sub. not</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>., Sub. not</Text>
       <PageNumber>6992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +881,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,8 +998,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>P. R. de W</Forenames>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2348,8 +2346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Forenames>D. G. O</Forenames>
-      <Text>'Keeffe, M</Text>
+      <Forenames>D. G. O'Keeffe</Forenames>
+      <Text>, M</Text>
       <PageNumber>7673</PageNumber>
     </MainItem>
   </ItemGroup>

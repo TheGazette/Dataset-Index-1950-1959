@@ -1041,7 +1041,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. A. De L.</Forenames>
+      <Forenames>E. A. De L</Forenames>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,8 +1113,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>P. R. de W</Forenames>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,9 +1691,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wardt</Forenames>
-      <Text>, G. M</Text>
+      <Key>De Wardt</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>1589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2489,8 +2487,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M</Forenames>
       <PageNumber>1023</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,18 +38,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy</Forenames>
-      <Text>, T. J</Text>
+      <Key>de Berry</Key>
+      <Forenames>D. F. R.</Forenames>
+      <PageNumber>4377</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cent</Key>
+      <Forenames>C. D.</Forenames>
+      <PageNumber>4596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Forenames>T. J.</Forenames>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pret-Roose</Forenames>
+      <Key>de Paula</Key>
+      <Forenames>F. C. J. G. De Pret-Roose</Forenames>
       <Text>, M</Text>
       <PageNumber>4596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P. J .</Forenames>
+      <PageNumber>3916</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vine</Key>
+      <Forenames>A. D.</Forenames>
+      <PageNumber>3674</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -162,8 +189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>A.</Forenames>
-      <Text>du Pre .:</Text>
+      <Forenames>A. du Pre</Forenames>
+      <Text>.:</Text>
       <PageNumber>4097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +291,9 @@
       <Key>Dick-Lauder</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>N. D., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +799,9 @@
       <Key>Dupree</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>

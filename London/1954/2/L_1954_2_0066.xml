@@ -33,9 +33,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Amodib</Forenames>
-      <Text>, Marquis</Text>
+      <Key>De Amodib</Key>
+      <Title>Marquis</Title>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,33 +54,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Baughn</Forenames>
-      <Text>, A</Text>
+      <Key>De Baughn</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>3208</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaumont</Forenames>
-      <Text>, C. L. L. A</Text>
+      <Key>De Beaumont</Key>
+      <Forenames>C. L. L. A.</Forenames>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bosdari</Forenames>
-      <Text>, C. D</Text>
+      <Key>de Berry</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>2194</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Bosdari</Key>
+      <Forenames>C. D.</Forenames>
       <PageNumber>3204</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy-Ireland</Forenames>
-      <Text>, L. K</Text>
+      <Key>De Courcy-Ireland</Key>
+      <Forenames>L. K.</Forenames>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,10 +96,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fraine</Forenames>
-      <Text>, J. T</Text>
+      <Key>De Fraine</Key>
+      <Forenames>J. T.</Forenames>
       <PageNumber>3205</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Froberville</Key>
+      <Forenames>M. J. P. F. H.</Forenames>
+      <Text>DA</Text>
+      <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -109,24 +118,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jonge</Forenames>
-      <Text>, F. H</Text>
+      <Key>De Jonge</Key>
+      <Forenames>F. H.</Forenames>
       <PageNumber>3209</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jongh</Forenames>
-      <Text>, C</Text>
+      <Key>De Jongh</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, J. R</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
@@ -154,48 +161,57 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lom</Forenames>
-      <Text>, T. C. B</Text>
+      <Key>De Lom</Key>
+      <Forenames>T. C. B.</Forenames>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Neut</Forenames>
-      <Text>, A. E</Text>
+      <Key>De Neut</Key>
+      <Forenames>A. E.</Forenames>
       <PageNumber>3417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pledge</Forenames>
-      <Text>, J. P</Text>
+      <Key>De Pledge</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>3207</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougemont</Forenames>
-      <Text>, E. C</Text>
+      <Key>de Ramer</Key>
+      <Forenames>F. J</Forenames>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Rougemont</Key>
+      <Forenames>E. C.</Forenames>
+      <PageNumber>3412</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Routon</Key>
+      <Forenames>J. M.</Forenames>
+      <PageNumber>3198</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vere Hunt</Forenames>
+      <Key>De Vere</Key>
+      <Forenames>Hunt</Forenames>
       <Text>, J</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
@@ -217,9 +233,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, H. R</Text>
+      <Key>De Wilde</Key>
+      <Forenames>H. R.</Forenames>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,16 +248,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Worms</Forenames>
-      <Text>, G. P. G</Text>
+      <Key>De Worms</Key>
+      <Forenames>G. P. G.</Forenames>
       <PageNumber>3409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deacock</Key>
-      <Forenames>A. R. De C.</Forenames>
+      <Forenames>A. R. De C</Forenames>
       <PageNumber>2908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2343,8 +2357,7 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -463,8 +463,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. C</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. C</Text>
       <PageNumber>1745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2690,7 +2690,9 @@
       <Key>Tritton</Key>
       <Title>Sir</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1747</PageNumber>
     </MainItem>
   </ItemGroup>

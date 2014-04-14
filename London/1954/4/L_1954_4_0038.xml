@@ -2479,7 +2479,9 @@
       <Key>Quilter</Key>
       <Title>Sir</Title>
       <Forenames>J. R. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>

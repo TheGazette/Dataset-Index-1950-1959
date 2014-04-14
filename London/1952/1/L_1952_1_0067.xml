@@ -147,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swain</Key>
-      <Forenames>C.</Forenames>
-      <Text>de P. D</Text>
+      <Forenames>C. de P</Forenames>
+      <Text>. D</Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swoffer</Key>
-      <Forenames>P. A.</Forenames>
-      <Text>de C, Corr</Text>
+      <Forenames>P. A. de C</Forenames>
+      <Text>, Corr</Text>
       <PageNumber>702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,8 +1722,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. de W</Forenames>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>

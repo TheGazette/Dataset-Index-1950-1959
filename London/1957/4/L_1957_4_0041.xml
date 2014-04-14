@@ -481,7 +481,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,8 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wbitworth</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>6044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2477,7 +2480,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2486,7 +2491,9 @@
       <Key>Williams-Wynn</Key>
       <Title>Sir</Title>
       <Forenames>O. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5698</PageNumber>
     </MainItem>
   </ItemGroup>

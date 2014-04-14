@@ -229,7 +229,7 @@
       <PageNumber>4915</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cane.</Text>
+      <Text>Cane</Text>
       <PageNumber>4917</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1780,7 +1780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>4689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2130,8 +2131,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>

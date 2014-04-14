@@ -541,7 +541,9 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Devon Water Board</Forenames>
-      <Text>, Taunton R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +623,9 @@
     <MainItem>
       <Key>Food</Key>
       <Forenames>Ministry</Forenames>
-      <Text>of, Byelaws, applications for confirmations and notices: Alcester R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>3932</PageNumber>
     </MainItem>
   </ItemGroup>

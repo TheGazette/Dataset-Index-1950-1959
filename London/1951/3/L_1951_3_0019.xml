@@ -658,7 +658,9 @@
       <Key>Lowther</Key>
       <Title>Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +900,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,8 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. F. St. G</Forenames>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>

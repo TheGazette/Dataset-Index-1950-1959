@@ -755,8 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2473,7 +2472,9 @@
       <Key>Coote</Key>
       <Title>Sir</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2905</PageNumber>
     </MainItem>
   </ItemGroup>

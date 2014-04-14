@@ -581,17 +581,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Lawrence</Forenames>
-      <Text>, R. V</Text>
+      <Key>St. Lawrence</Key>
+      <Forenames>R. V.</Forenames>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>

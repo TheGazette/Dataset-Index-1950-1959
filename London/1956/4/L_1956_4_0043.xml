@@ -108,8 +108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. J. de W</Forenames>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +211,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>6118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +741,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>6252</PageNumber>
       <PageNumber>6720</PageNumber>
     </MainItem>
@@ -1273,8 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Forenames>D. M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. M. St. C</Forenames>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>

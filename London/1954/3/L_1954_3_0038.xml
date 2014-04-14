@@ -171,8 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sperling</Key>
-      <Title>St.</Title>
-      <Forenames>J. H.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +853,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Symons</Key>
-      <Forenames>W.</Forenames>
-      <Text>de W. W</Text>
+      <Forenames>W. de W</Forenames>
+      <Text>. W</Text>
       <PageNumber>4379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,8 +1276,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>

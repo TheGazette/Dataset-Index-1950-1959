@@ -1104,6 +1104,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>C. V. E.</Forenames>
+      <Text>, Cane</Text>
+      <PageNumber>3738</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deutsch</Key>
       <Forenames>K. E.</Forenames>
       <PageNumber>2871</PageNumber>
@@ -2287,15 +2295,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, S. M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>S. M.</Forenames>
       <PageNumber>3381</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, M. T</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>M. T.</Forenames>
       <PageNumber>2271</PageNumber>
     </MainItem>
   </ItemGroup>

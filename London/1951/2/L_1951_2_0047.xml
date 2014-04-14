@@ -67,8 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bampton</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>N. P. de B</Forenames>
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,7 +1903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Forenames>M. J. De G.</Forenames>
+      <Forenames>M. J. De G</Forenames>
       <PageNumber>2309</PageNumber>
     </MainItem>
   </ItemGroup>

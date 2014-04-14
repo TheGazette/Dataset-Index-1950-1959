@@ -584,8 +584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Line</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,7 +1825,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>r M. F</Text>
+      <Text>r M. F.</Text>
       <PageNumber>6268</PageNumber>
     </SubItem>
   </ItemGroup>

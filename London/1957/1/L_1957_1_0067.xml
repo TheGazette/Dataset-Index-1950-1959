@@ -118,9 +118,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Overbeke</Forenames>
-      <Text>, M. C</Text>
+      <Key>Van Overbeke</Key>
+      <Forenames>M. C.</Forenames>
       <PageNumber>553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +555,9 @@
     <MainItem>
       <Key>Coast</Key>
       <Forenames>Protection Act</Forenames>
-      <Text>, Smallburgh R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,6 +971,7 @@
     <SubItem>
       <Text>
         <PageNumber>1063</PageNumber>
+        <Honour>R.D.</Honour>
         <PageNumber>1222</PageNumber>
       </Text>
       <PageNumber>74</PageNumber>

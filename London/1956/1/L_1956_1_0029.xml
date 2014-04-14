@@ -298,7 +298,9 @@
       <Key>Boyce</Key>
       <Title>Sir</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1965,8 +1967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucknall</Key>
-      <Forenames>R. W. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. W. St. V</Forenames>
       <PageNumber>1222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2115,8 +2116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>489</PageNumber>
     </MainItem>
   </ItemGroup>

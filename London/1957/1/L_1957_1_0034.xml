@@ -2700,10 +2700,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bruxelles</Forenames>
-      <Text>, C. E</Text>
+      <Key>De Bruxelles</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>1280</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chassiron</Key>
+      <Forenames>H. E. C.</Forenames>
+      <PageNumber>144</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clermont</Key>
+      <Forenames>P. H. V.</Forenames>
+      <PageNumber>493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-lreland</Key>
+      <Forenames>N. K.</Forenames>
+      <PageNumber>1426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2711,6 +2731,14 @@
       <Key>DeLloyd</Key>
       <Forenames>B</Forenames>
       <PageNumber>1729</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Jorre</Forenames>
+      <Text>, J. A</Text>
+      <PageNumber>640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

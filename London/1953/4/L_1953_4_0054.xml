@@ -677,8 +677,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. I. St</Forenames>
-      <Text>. C. ... Cundall, B</Text>
+      <Forenames>E. I. St. C</Forenames>
+      <Text>. ... Cundall, B</Text>
       <PageNumber>6374</PageNumber>
       <PageNumber>6376</PageNumber>
     </MainItem>
@@ -1066,8 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. C</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. C</Text>
       <PageNumber>5849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,10 +1669,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Nett</Forenames>
-      <Text>, T. L</Text>
+      <Key>De Nett</Key>
+      <Forenames>T. L.</Forenames>
       <PageNumber>5436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Val</Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

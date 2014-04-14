@@ -165,7 +165,9 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>w. w. G., Bt. Shaw-Stewart, Sir W</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorn</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Text>G. de M</Text>
+      <Forenames>G. de M</Forenames>
       <PageNumber>4796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +681,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snowdon</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,14 +1062,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sorrill</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southgate</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Squires</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2145,7 +2146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Teasdale</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2273,7 +2274,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T E</Text>
+      <Forenames>T</Forenames>
+      <Text>E</Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2412,7 +2414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4145</PageNumber>
     </MainItem>
   </ItemGroup>

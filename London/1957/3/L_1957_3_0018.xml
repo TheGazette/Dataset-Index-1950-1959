@@ -703,8 +703,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T</Forenames>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,15 +719,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, P</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>P</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J</Forenames>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,6 +1192,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>5102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gretton</Key>
       <Forenames>P. W.</Forenames>
       <PageNumber>4380</PageNumber>
@@ -1221,8 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>5102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1820,8 +1826,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>5221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2170,8 +2176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>V. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>

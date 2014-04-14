@@ -711,7 +711,9 @@
       <Key>Redwood</Key>
       <Title>Sir</Title>
       <Forenames>T. B</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +798,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>6117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1170,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A. De V.</Forenames>
+      <Forenames>J. A. De V</Forenames>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2027,7 +2029,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. L.</Forenames>
-      <Text>.. Roberts, SirrX. H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2347,8 +2351,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. W</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. W</Text>
       <PageNumber>7151</PageNumber>
     </MainItem>
   </ItemGroup>

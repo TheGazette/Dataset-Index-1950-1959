@@ -683,9 +683,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Langenberg</Forenames>
-      <Text>, E. R</Text>
+      <Key>Van Langenberg</Key>
+      <Forenames>E. R.</Forenames>
       <PageNumber>1974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,9 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,7 +1451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1461,9 @@
       <Key>Robertson</Key>
       <Title>Sir</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2513,7 +2514,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. R.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2103</PageNumber>
     </MainItem>
   </ItemGroup>

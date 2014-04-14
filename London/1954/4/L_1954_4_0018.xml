@@ -1808,7 +1808,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2461,8 +2463,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arcedeckne-Boitler</Key>
-      <Title>St.</Title>
-      <Forenames>J. D.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>6979</PageNumber>
     </MainItem>
   </ItemGroup>

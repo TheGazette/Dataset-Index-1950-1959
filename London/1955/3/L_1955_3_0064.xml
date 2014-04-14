@@ -250,6 +250,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Donop</Key>
+      <Forenames>D. B.</Forenames>
+      <PageNumber>3789</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wallace</Key>
       <Forenames>M.</Forenames>
       <Text>'</Text>
@@ -892,7 +899,9 @@
     <MainItem>
       <Key>Food</Key>
       <Forenames>Ministry</Forenames>
-      <Text>of, Bye-laws, application for confirmations and notices, Blofield and Flegg R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>

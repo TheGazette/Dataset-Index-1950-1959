@@ -590,57 +590,107 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beaumont</Forenames>
-      <Text>, H. A</Text>
+      <Key>De Beaumont</Key>
+      <Forenames>H. A.</Forenames>
       <PageNumber>1665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cort</Forenames>
-      <Text>, W. J</Text>
+      <Key>de Bethune</Key>
+      <Forenames>D. Q. M.</Forenames>
+      <PageNumber>1431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brunner</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>77</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>J. A. V.</Forenames>
+      <PageNumber>885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chassiron</Key>
+      <Forenames>H. E. C.</Forenames>
+      <PageNumber>355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chastelain</Key>
+      <Forenames>A. G. G.</Forenames>
+      <PageNumber>1290</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Cort</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Haye</Forenames>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>N. K.</Forenames>
+      <PageNumber>206</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>553</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gooreynd</Key>
+      <Forenames>S. P. J. G. K.</Forenames>
+      <PageNumber>1287</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Haye</Forenames>
       <Text>, P</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Paula</Forenames>
-      <Text>, F. C</Text>
+      <Key>De Paula</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>1504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H</Text>
+      <Key>De Pree</Key>
+      <Forenames>H</Forenames>
       <PageNumber>1361</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pury</Forenames>
-      <Text>, J. D</Text>
+      <Key>De Pury</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>1361</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, J. K</Text>
+      <Key>De Wolf</Key>
+      <Forenames>J. K.</Forenames>
       <PageNumber>81</PageNumber>
       <PageNumber>1868</PageNumber>
     </MainItem>
@@ -1920,8 +1970,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Pontet.</Title>
+      <Key>Du Pontet</Key>
       <Forenames>R. S.</Forenames>
       <PageNumber>1428</PageNumber>
       <PageNumber>1428</PageNumber>
@@ -1929,8 +1978,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier P. E.</Forenames>
+      <Key>Du Vivier</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>

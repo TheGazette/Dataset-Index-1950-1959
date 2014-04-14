@@ -1657,7 +1657,9 @@
       <Key>Boles</Key>
       <Title>Sir</Title>
       <Forenames>J. J. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4293</PageNumber>
     </MainItem>
   </ItemGroup>

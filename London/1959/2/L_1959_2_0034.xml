@@ -1470,8 +1470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Maclean</Key>
-      <Forenames>C. R.</Forenames>
-      <Text>de V., Sub. nots</Text>
+      <Forenames>C. R. de V</Forenames>
+      <Text>., Sub. nots</Text>
       <PageNumber>3472</PageNumber>
       <PageNumber>4220</PageNumber>
     </MainItem>
@@ -1844,8 +1844,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Q. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>Q. St. C</Forenames>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>

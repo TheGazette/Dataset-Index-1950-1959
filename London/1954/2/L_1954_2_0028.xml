@@ -914,8 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1693,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2434,8 +2435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balguy</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. I</Text>
+      <Forenames>J. St. I</Forenames>
       <PageNumber>1954</PageNumber>
     </MainItem>
   </ItemGroup>

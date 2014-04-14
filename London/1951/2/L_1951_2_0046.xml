@@ -815,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warier</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G.,</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>.,</Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +853,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W. J</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>

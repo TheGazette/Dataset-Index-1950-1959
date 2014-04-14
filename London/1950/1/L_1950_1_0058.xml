@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WaLmsley</Key>
-      <Text>, iR. V. Y</Text>
+      <Text>iR. V. Y</Text>
       <PageNumber>284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,21 +26,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wannell</Key>
-      <Text>, iR. C</Text>
+      <Text>iR. C</Text>
       <PageNumber>413</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>,. D. K</Text>
+      <Text>. D. K</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>, D R. ... ..; WeMer, M. A.' -</Text>
+      <Forenames>D</Forenames>
+      <Text>R. ... ..; WeMer, M. A.' -</Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whincop</Key>
-      <Text>, iR</Text>
+      <Text>iR</Text>
       <PageNumber>1273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitworth</Key>
-      <Text>, W, A. O</Text>
+      <Forenames>W</Forenames>
+      <Text>, A. O</Text>
       <PageNumber>1032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whomsley</Key>
-      <Text>, W, E</Text>
+      <Forenames>W</Forenames>
+      <Text>, E</Text>
       <PageNumber>771</PageNumber>
       <PageNumber>771</PageNumber>
     </MainItem>
@@ -726,14 +729,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Widdison</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Widdowson</Key>
-      <Text>, (R. P</Text>
+      <Text>(R. P</Text>
       <PageNumber>1274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigley</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilcock</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,15 +782,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkes</Key>
-      <Forenames>W. G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. G. St. J</Forenames>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkin</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winzar</Key>
-      <Text>, IR. F. C</Text>
+      <Text>IR. F. C</Text>
       <PageNumber>530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,7 +1217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wombwell</Key>
-      <Text>, IM. -N. J., Corr</Text>
+      <Text>IM. -N. J., Corr</Text>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woollard</Key>
-      <Text>. G. K</Text>
+      <Forenames>G. K.</Forenames>
       <PageNumber>1420</PageNumber>
       <PageNumber>1420</PageNumber>
     </MainItem>
@@ -1277,7 +1279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Text>, .M. J.F</Text>
+      <Text>.M. J.F</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>.N. A.-K</Text>
+      <Forenames>N. A.</Forenames>
+      <Text>-K</Text>
       <PageNumber>1541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wykes</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>771</PageNumber>
       <PageNumber>771</PageNumber>
     </MainItem>
@@ -1505,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yapp</Key>
-      <Text>, ID. S</Text>
+      <Text>ID. S</Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,7 +1536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>, J, W</Text>
+      <Forenames>J</Forenames>
+      <Text>, W</Text>
       <PageNumber>657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,7 +1806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,7 +1821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dru</Key>
-      <Text>, ,M. E</Text>
+      <Text>,M. E</Text>
       <PageNumber>1421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,14 +1856,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Foss</Key>
-      <Text>, iM. IM</Text>
+      <Text>iM. IM</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, 'L. IH</Text>
+      <Text>'L. IH</Text>
       <PageNumber>918</PageNumber>
       <PageNumber>920</PageNumber>
     </MainItem>
@@ -1874,7 +1878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Forenames>M. De V.</Forenames>
+      <Forenames>M. De V</Forenames>
       <PageNumber>1033</PageNumber>
       <PageNumber>1034</PageNumber>
     </MainItem>
@@ -1889,7 +1893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>,' J.' P</Text>
+      <Text>' J.' P</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,14 +1911,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>.M. W</Text>
+      <Forenames>M. W.</Forenames>
       <PageNumber>771</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hannaford</Key>
-      <Text>, iM</Text>
+      <Text>iM</Text>
       <PageNumber>1031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoyle</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2073,7 +2077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>1160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2102,7 +2106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearman-Smith</Key>
-      <Text>,.V. B., Sub. not</Text>
+      <Text>.V. B., Sub. not</Text>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2331,7 +2335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willink</Key>
-      <Text>, «. E</Text>
+      <Text>«. E</Text>
       <PageNumber>287</PageNumber>
       <PageNumber>287</PageNumber>
     </MainItem>
@@ -2386,7 +2390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angle</Key>
-      <Text>(Pembroke)and District Fishermen's Association</Text>
+      <Title>(Pembroke)</Title>
+      <Text>and District Fishermen's Association</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -229,7 +229,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. W. V.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1224,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>P. W. R</Text>
+      <Text>P. W. R.</Text>
       <PageNumber>5823</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1778,7 +1780,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. D. R</Text>
+      <Text>W. D. R.</Text>
       <PageNumber>6046</PageNumber>
     </SubItem>
   </ItemGroup>

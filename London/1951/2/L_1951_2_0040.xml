@@ -1137,8 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farran</Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. T</Text>
+      <Forenames>R. A. St. T</Forenames>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2148,8 +2147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J. V</Text>
+      <Forenames>M. St. J</Forenames>
+      <Text>. V</Text>
       <PageNumber>1815</PageNumber>
     </MainItem>
   </ItemGroup>

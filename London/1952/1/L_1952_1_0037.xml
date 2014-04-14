@@ -319,8 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purcell</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. O'C</Forenames>
       <PageNumber>1251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,8 +957,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>E. St. B</Forenames>
       <PageNumber>1456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2569,7 +2567,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. W.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>505</PageNumber>
     </MainItem>
   </ItemGroup>

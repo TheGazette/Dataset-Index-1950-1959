@@ -538,8 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Forenames>D. L. S. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. L. S. St. M</Forenames>
       <PageNumber>1382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,8 +1317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2458,10 +2456,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, A. C</Text>
+      <Key>De Gruchy</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>1749</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Legh</Key>
+      <Forenames>H. L.</Forenames>
+      <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

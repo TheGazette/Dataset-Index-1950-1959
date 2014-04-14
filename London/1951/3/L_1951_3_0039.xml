@@ -208,8 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>4709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +269,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,8 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,9 +1288,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Harris-St</Key>
-      <Forenames>John</Forenames>
-      <Text>, E. D</Text>
+      <Key>Harris-St. John</Key>
+      <Forenames>E. D.</Forenames>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1988,8 +1987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobley</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. B. de C</Forenames>
       <PageNumber>4157</PageNumber>
     </MainItem>
   </ItemGroup>

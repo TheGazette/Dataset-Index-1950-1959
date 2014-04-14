@@ -943,8 +943,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. C. St. J</Forenames>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1030,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steengracht</Key>
-      <Text>van Moyland, J. T. P</Text>
+      <Forenames>van Moyland</Forenames>
+      <Text>, J. T. P</Text>
       <PageNumber>3740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2058,7 +2058,9 @@
       <Key>Tate</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>

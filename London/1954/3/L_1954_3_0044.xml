@@ -338,6 +338,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Chenu</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>4879</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Garis</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>4619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>J. V.</Forenames>
       <PageNumber>4877</PageNumber>
@@ -1345,17 +1359,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Plessis</Forenames>
-      <Text>, B. D</Text>
+      <Key>Du Plessis</Key>
+      <Forenames>B. D.</Forenames>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Vai.</Title>
+      <Key>Du Vai</Key>
       <Forenames>J. Dubbin</Forenames>
       <Text>, D. P</Text>
       <PageNumber>5136</PageNumber>

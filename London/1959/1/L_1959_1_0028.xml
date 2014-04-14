@@ -109,25 +109,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Abela Bord</Forenames>
+      <Key>De Abela</Key>
+      <Forenames>Bord</Forenames>
       <Text>, L. C</Text>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Angeli</Forenames>
-      <Text>, F</Text>
+      <Key>De Angeli</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Clermont</Forenames>
-      <Text>, P. A. J</Text>
+      <Key>De Clermont</Key>
+      <Forenames>P. A. J.</Forenames>
       <PageNumber>1973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,17 +139,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Cour</Forenames>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>67</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Cour</Forenames>
       <Text>, P</Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, N. J. &lt;D. P</Text>
+      <Key>de Quincey</Key>
+      <Forenames>A. B.</Forenames>
+      <PageNumber>805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Remusat</Key>
+      <Forenames>P. J. F. F. A.</Forenames>
+      <PageNumber>1154</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Weld</Key>
+      <Forenames>Silmon</Forenames>
+      <Text>, F. F. J. V</Text>
+      <PageNumber>801</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Winton</Key>
+      <Forenames>N. J.</Forenames>
+      <Text>&lt;D. P</Text>
       <PageNumber>2114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2162,8 +2189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elizabeth</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>Queen Mother</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The Queen Mother</Text>
       <PageNumber>67</PageNumber>
     </MainItem>
   </ItemGroup>

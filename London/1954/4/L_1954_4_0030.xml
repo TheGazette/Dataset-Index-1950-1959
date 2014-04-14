@@ -1407,8 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobley</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. B. de C</Forenames>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2409,8 +2408,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de G</Text>
+      <Forenames>M. J. de G</Forenames>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2573,8 +2571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -451,8 +451,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. S.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. S. de M</Forenames>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1983,7 +1982,9 @@
       <Key>Madden</Key>
       <Title>Sir</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>

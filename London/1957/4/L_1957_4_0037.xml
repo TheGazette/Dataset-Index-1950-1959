@@ -158,8 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2455,16 +2454,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Ford</Forenames>
-      <Text>. P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P</Forenames>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>John.</Title>
+      <Key>St. John</Key>
       <Forenames>A. B.</Forenames>
       <PageNumber>5900</PageNumber>
     </MainItem>
@@ -2480,9 +2477,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, D. A</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,15 +23,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, S</Text>
+      <Key>O'Brian</Key>
+      <Forenames>S</Forenames>
       <PageNumber>189</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, D. J</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,15 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, G</Text>
+      <Key>O'Dell</Key>
+      <Forenames>G</Forenames>
       <PageNumber>1390</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. W</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. W.</Forenames>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,8 +65,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H</Forenames>
       <PageNumber>384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,8 +86,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, T. D</Text>
+      <Key>O'Leary</Key>
+      <Forenames>T. D.</Forenames>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,8 +154,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, T. M</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +202,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,8 +1877,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. A</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. A</Text>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1317,6 +1317,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>Scott</Forenames>
+      <Text>, C. J</Text>
+      <PageNumber>2460</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>A</Forenames>
       <PageNumber>2816</PageNumber>
@@ -2457,8 +2465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardcastle</Key>
-      <Forenames>B.</Forenames>
-      <Text>de V</Text>
+      <Forenames>B. de V</Forenames>
       <PageNumber>3238</PageNumber>
     </MainItem>
   </ItemGroup>

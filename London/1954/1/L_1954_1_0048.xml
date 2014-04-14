@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Forenames>H. G. The</Forenames>
-      <Text>Duke of</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>The Duke of</Text>
       <PageNumber>1302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,8 +1026,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,7 +1739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudge</Key>
-      <Forenames>A. J. De N.</Forenames>
+      <Forenames>A. J. De N</Forenames>
       <PageNumber>995</PageNumber>
     </MainItem>
   </ItemGroup>

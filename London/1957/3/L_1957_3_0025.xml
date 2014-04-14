@@ -102,8 +102,7 @@
     <MainItem>
       <Key>Creagh</Key>
       <Title>Sir</Title>
-      <Forenames>M. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. O'M</Forenames>
       <PageNumber>5161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,34 +905,83 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Baer</Forenames>
-      <Text>, O. R</Text>
+      <Key>De Baer</Key>
+      <Forenames>O. R.</Forenames>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, J.'</Text>
+      <Key>de Bary</Key>
+      <Forenames>J. L. J.</Forenames>
+      <PageNumber>5431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beaulieu</Key>
+      <Forenames>D. L.</Forenames>
+      <PageNumber>4492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brissac</Key>
+      <Forenames>Bernard</Forenames>
+      <Text>, R. D. P</Text>
+      <PageNumber>5097</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>P. N.</Forenames>
+      <PageNumber>4494</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Burgh</Key>
+      <Forenames>J.</Forenames>
+      <Text>'</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, R. J</Text>
+      <Key>de Clive-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>4422</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Forenames>D</Forenames>
+      <Text>, S</Text>
+      <PageNumber>4010</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>B. M.</Forenames>
+      <PageNumber>4690</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>R. J.</Forenames>
       <PageNumber>4082</PageNumber>
       <PageNumber>5280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolf</Forenames>
-      <Text>, J. K. '..:</Text>
+      <Key>De Wolf</Key>
+      <Forenames>J. K.</Forenames>
+      <Text>'..:</Text>
       <PageNumber>4423</PageNumber>
     </MainItem>
   </ItemGroup>

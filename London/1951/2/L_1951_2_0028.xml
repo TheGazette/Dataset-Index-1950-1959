@@ -598,8 +598,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. B. W</Text>
+      <Forenames>T. St. B</Forenames>
+      <Text>. W</Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2325,7 +2325,9 @@
       <Key>Clifford</Key>
       <Title>Sir</Title>
       <Forenames>L. A. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>

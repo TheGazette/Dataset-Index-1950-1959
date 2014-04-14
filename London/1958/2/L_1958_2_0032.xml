@@ -666,8 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. J. O'B</Forenames>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2103,10 +2102,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Chassiron</Key>
+      <Text>, H. E. C</Text>
+      <PageNumber>2073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Cort</Forenames>
       <Text>, W. J</Text>
       <PageNumber>2818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>3449</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Staopoole</Key>
+      <Forenames>G. G. R. E.</Forenames>
+      <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2245,8 +2265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>A.</Forenames>
-      <Text>du P</Text>
+      <Forenames>A. du P</Forenames>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -831,8 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Metters</Key>
-      <Forenames>T. B.</Forenames>
-      <Text>de V</Text>
+      <Forenames>T. B. de V</Forenames>
       <PageNumber>3402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1915,8 +1914,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>2687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,8 +1928,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>2362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,15 +1951,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. D</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>2106</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, C. J. M</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>C. J. M.</Forenames>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1990,8 +1989,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, A</Text>
+      <Key>O'Neill</Key>
+      <Forenames>A</Forenames>
       <PageNumber>2551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2076,8 +2075,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, F</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>F.</Forenames>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>

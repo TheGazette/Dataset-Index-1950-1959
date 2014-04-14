@@ -1282,19 +1282,91 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lane Lea</Forenames>
+      <Key>de Baer</Key>
+      <Forenames>O. R.</Forenames>
+      <PageNumber>6261</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bethune</Key>
+      <Forenames>D. Q. M.</Forenames>
+      <PageNumber>5454</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bruxelles</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>6131</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Charmoy</Key>
+      <Forenames>M. A. F. D</Forenames>
+      <Text>*e</Text>
+      <PageNumber>5727</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>J. A. L.</Forenames>
+      <PageNumber>6067</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>N. J.</Forenames>
+      <PageNumber>5727</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jacobi</Key>
+      <Forenames>du Vallon</Forenames>
+      <Text>, H. G</Text>
+      <PageNumber>6471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Labilliere</Key>
+      <Forenames>P. E. D.</Forenames>
+      <PageNumber>5864</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lane</Key>
+      <Forenames>Lea</Forenames>
       <Text>, J. P</Text>
       <PageNumber>6133</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>St.</Title>
+      <Key>De St</Key>
       <Forenames>Croix</Forenames>
       <Text>, A. M. J</Text>
       <PageNumber>5726</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Saulles</Key>
+      <Forenames>B. R. N.</Forenames>
+      <PageNumber>5451</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vera</Key>
+      <Forenames>Davey</Forenames>
+      <Text>, D. A</Text>
+      <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1359,7 +1431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delacour</Key>
-      <Text>de Labilliere, P. E</Text>
+      <Forenames>de Labilliere</Forenames>
+      <Text>, P. E</Text>
       <PageNumber>5864</PageNumber>
     </MainItem>
   </ItemGroup>

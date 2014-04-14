@@ -643,7 +643,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2386,8 +2388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B:</Text>
+      <Forenames>J. O'B</Forenames>
+      <Text>:</Text>
       <PageNumber>761</PageNumber>
       <PageNumber>1113</PageNumber>
     </MainItem>
@@ -2397,8 +2399,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>R. T. O'B</Forenames>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2612,8 +2613,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>

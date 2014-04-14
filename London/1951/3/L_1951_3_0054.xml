@@ -748,8 +748,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>T. C. St. C</Forenames>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,15 +1589,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, F. G</Text>
+      <Key>O'Brian</Key>
+      <Forenames>F. G.</Forenames>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>4767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,8 +1612,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, D. I., Corrs</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>D. I.</Forenames>
+      <Text>, Corrs</Text>
       <PageNumber>4323</PageNumber>
       <PageNumber>4324</PageNumber>
     </MainItem>
@@ -1635,8 +1635,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, M</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,8 +1689,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, W. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>W. P.</Forenames>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,8 +1779,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, J. P. S. ..,</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>J. P. S.</Forenames>
+      <Text>..,</Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,15 +1794,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, D. B</Text>
+      <Key>O'Neil</Key>
+      <Forenames>D. B</Forenames>
       <PageNumber>4102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D. tP</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D.</Forenames>
+      <Text>tP</Text>
       <PageNumber>4768</PageNumber>
     </MainItem>
   </ItemGroup>

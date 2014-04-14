@@ -918,8 +918,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payrater</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. P</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. P</Text>
       <PageNumber>2455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2225,7 +2225,9 @@
       <Key>Pilkington</Key>
       <Title>Sir</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3147</PageNumber>
     </MainItem>
   </ItemGroup>

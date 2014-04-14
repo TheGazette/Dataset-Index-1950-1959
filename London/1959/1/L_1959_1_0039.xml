@@ -769,7 +769,7 @@
       <PageNumber>298</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>68.</Text>
+      <Text>68</Text>
       <PageNumber>1474</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1047,8 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowett</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L. Q</Text>
+      <Forenames>W. St. L</Forenames>
+      <Text>. Q</Text>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,8 +1287,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F. G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>F. G. de L</Forenames>
       <PageNumber>799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,41 +1454,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubrey Davies</Forenames>
+      <Key>St. Aubrey</Key>
+      <Forenames>Davies</Forenames>
       <Text>, G. R. R</Text>
       <PageNumber>1628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair</Forenames>
-      <Text>, J. D</Text>
+      <Key>St. Clair</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>1545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Wade</Forenames>
-      <Text>, G</Text>
+      <Key>St. Clair-Wade</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur</Forenames>
-      <Text>, E. A. F</Text>
+      <Key>St. Maur</Key>
+      <Forenames>E. A. F.</Forenames>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Paul</Forenames>
-      <Text>, H. J. W</Text>
+      <Key>St. Paul</Key>
+      <Forenames>H. J. W.</Forenames>
       <PageNumber>1392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1777,8 +1772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Forenames>D. W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. W. St. C</Forenames>
       <PageNumber>1722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2011,8 +2005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scriven</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>875</PageNumber>
     </MainItem>
   </ItemGroup>

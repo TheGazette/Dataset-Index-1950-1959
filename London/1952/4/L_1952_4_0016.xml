@@ -591,9 +591,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Orfe</Forenames>
-      <Text>, H. L</Text>
+      <Key>De Orfe</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,8 +1353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,8 +1976,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. H. de C</Forenames>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1988,8 +1985,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. V.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. V. de C</Forenames>
       <PageNumber>6736</PageNumber>
     </MainItem>
   </ItemGroup>

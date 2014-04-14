@@ -247,7 +247,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +854,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +875,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>J. De C. E.</Forenames>
+      <Forenames>J. De C</Forenames>
+      <Text>. E</Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,8 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Floyer</Key>
-      <Forenames>M.</Forenames>
-      <Text>du B</Text>
+      <Forenames>M. du B</Forenames>
       <PageNumber>5001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2095,8 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainer</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>4378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2421,8 +2421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>

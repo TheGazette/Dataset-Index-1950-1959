@@ -2205,8 +2205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mole</Key>
-      <Forenames>H. H. R. J. A. Molesworth-St</Forenames>
-      <Text>. Aubyn</Text>
+      <Forenames>H. H. R. J. A. Molesworth-St. Aubyn</Forenames>
       <PageNumber>764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2229,8 +2228,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. G</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. G</Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>

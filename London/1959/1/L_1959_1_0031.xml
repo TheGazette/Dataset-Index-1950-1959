@@ -591,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkshaw-Burn</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. C</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. C</Text>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1161,9 @@
       <Key>Henniker</Key>
       <Title>Sir</Title>
       <Forenames>M. C. A</Forenames>
-      <Text>„ Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -473,8 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullens</Key>
-      <Forenames>W. J. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. J. H. de W</Forenames>
       <PageNumber>181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,8 +1219,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,15 +1245,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, P. J</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,8 +1289,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, C. A. M</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>C. A. M.</Forenames>
       <PageNumber>355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,8 +1303,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, W. R</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>W. R.</Forenames>
       <PageNumber>1560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,8 +1365,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. J.</Forenames>
       <PageNumber>476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2120,16 +2119,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>B.</Forenames>
-      <Text>de H</Text>
+      <Forenames>B. de H</Forenames>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>1098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,8 +2333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phipps</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. O'C</Forenames>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -299,7 +299,9 @@
     <MainItem>
       <Key>Shaplan</Key>
       <Forenames>J. D.</Forenames>
-      <Text>(R.A1M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,8 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sproule</Key>
-      <Forenames>C. C. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. C. St. G</Forenames>
       <PageNumber>977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2216,8 +2217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. B. de F</Forenames>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>

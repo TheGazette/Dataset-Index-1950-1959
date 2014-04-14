@@ -113,19 +113,86 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>E. S.</Forenames>
+      <PageNumber>55</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Morris</Forenames>
+      <Text>, A</Text>
+      <PageNumber>637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Text>de Candole, J. A. V</Text>
+      <Forenames>de Candole</Forenames>
+      <Text>, J. A. V</Text>
       <PageNumber>1875</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Haviland</Forenames>
-      <Text>, V</Text>
+      <Key>de Carteret</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>'</Text>
+      <PageNumber>1522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clive-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>495</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>J. G.</Forenames>
+      <PageNumber>848</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Haviland</Key>
+      <Forenames>V</Forenames>
       <PageNumber>1598</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Laszlo</Key>
+      <Forenames>P. R.</Forenames>
+      <PageNumber>993</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhe</Key>
+      <Forenames>Philipe</Forenames>
+      <Text>, A. T</Text>
+      <PageNumber>368</PageNumber>
+      <PageNumber>1297</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. B.</Forenames>
+      <PageNumber>287</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>G. B.</Forenames>
+      <PageNumber>1229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

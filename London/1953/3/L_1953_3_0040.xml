@@ -2446,17 +2446,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hasselt</Forenames>
-      <Text>, M</Text>
+      <Key>Van Hasselt</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>5164</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Laun</Forenames>
-      <Text>, T</Text>
+      <Key>Van Laun</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>4920</PageNumber>
       <PageNumber>4803</PageNumber>
     </MainItem>

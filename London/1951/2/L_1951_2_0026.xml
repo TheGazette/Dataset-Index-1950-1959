@@ -1460,6 +1460,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Alphen</Key>
+      <Forenames>H. de La B.</Forenames>
+      <PageNumber>2460</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vassila</Key>
       <Forenames>E. G.</Forenames>
       <PageNumber>3429</PageNumber>
@@ -1522,7 +1529,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>B. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2420,8 +2429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>1739</PageNumber>
       <PageNumber>2377</PageNumber>
     </MainItem>

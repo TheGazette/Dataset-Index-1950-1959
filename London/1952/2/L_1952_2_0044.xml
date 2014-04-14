@@ -1615,7 +1615,9 @@
     <MainItem>
       <Key>Humphreys</Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1929,8 +1931,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>A. H. St. M</Forenames>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2153,7 +2154,7 @@
     </SubItem>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>R. W. C</Text>
+      <Text>R. W. C.</Text>
       <PageNumber>2781</PageNumber>
       <PageNumber>2871</PageNumber>
     </SubItem>
@@ -2285,7 +2286,7 @@
     <KeyDitto>___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>M</Text>
+      <Text>M.</Text>
       <PageNumber>3291</PageNumber>
       <PageNumber>3451</PageNumber>
     </SubItem>

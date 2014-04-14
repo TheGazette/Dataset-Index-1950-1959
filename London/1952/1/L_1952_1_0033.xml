@@ -156,7 +156,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. C.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>1741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2385,7 +2387,9 @@
       <Key>Kinloch</Key>
       <Title>Sir</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1034</PageNumber>
     </MainItem>
   </ItemGroup>

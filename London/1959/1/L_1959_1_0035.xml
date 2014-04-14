@@ -692,8 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan</Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. A. St. C</Forenames>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,9 +1390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Margaret</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Princess</Text>
+      <Title>H.R.H. The Princess .</Title>
       <PageNumber>481</PageNumber>
     </MainItem>
   </ItemGroup>

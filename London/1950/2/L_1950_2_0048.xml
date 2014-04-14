@@ -252,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conchar</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>2724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Text>, W W</Text>
+      <Forenames>W</Forenames>
+      <Text>W</Text>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,14 +642,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtiss</Key>
-      <Text>. E. S!</Text>
+      <Forenames>E. S</Forenames>
+      <Text>!</Text>
       <PageNumber>2420</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cutts</Key>
-      <Text>. A. A. J</Text>
+      <Forenames>A. A. J.</Forenames>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -635,8 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamlin</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>4108</PageNumber>
       <PageNumber>4265</PageNumber>
     </MainItem>
@@ -899,8 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Forenames>G.</Forenames>
-      <Text>de B</Text>
+      <Forenames>G. de B</Forenames>
       <PageNumber>5266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2235,8 +2233,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2251,8 +2249,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, B. P</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>5077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2272,15 +2270,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, ID. A</Text>
+      <Key>O'Meara</Key>
+      <Text>ID. A</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill. F. C</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>4108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2316,8 +2314,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. P. C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. P. C.</Forenames>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>

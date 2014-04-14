@@ -81,8 +81,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,8 +95,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,8 +130,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, A. P</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>A. P.</Forenames>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,9 +1074,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, D. E</Text>
+      <Key>St. John</Key>
+      <Forenames>D. E.</Forenames>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2097,8 +2096,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trouibridge</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>E. St. V</Forenames>
       <PageNumber>550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2149,8 +2147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turtle</Key>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>

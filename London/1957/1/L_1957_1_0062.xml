@@ -10,8 +10,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. F</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,8 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. J</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +80,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,15 +103,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, J. G</Text>
+      <Key>O'Kane</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>1592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, M. A</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>M. A.</Forenames>
       <PageNumber>1739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,8 +133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, D. A</Text>
+      <Key>O'Leary</Key>
+      <Forenames>D. A.</Forenames>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,8 +172,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill. J. P. H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. P. H.</Forenames>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +297,9 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>

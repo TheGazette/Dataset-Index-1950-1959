@@ -230,7 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burder</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +360,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butchart</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caddy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +853,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E: H</Text>
+      <Forenames>E</Forenames>
+      <Text>: H</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coad</Key>
-      <Text>R: E</Text>
+      <Forenames>R</Forenames>
+      <Text>: E</Text>
       <PageNumber>4092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1603,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,7 +1621,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2118,7 +2120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crick</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2227,7 +2229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Text>A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>4428</PageNumber>
     </MainItem>
   </ItemGroup>

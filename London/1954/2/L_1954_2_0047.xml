@@ -413,7 +413,9 @@
       <Key>Pilkington</Key>
       <Title>Sir</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, Bt. .!</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,8 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G. A</Text>
+      <Forenames>B. St. G</Forenames>
+      <Text>. A</Text>
       <PageNumber>2613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2387,17 +2389,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, A. B</Text>
+      <Key>St. John</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Leger</Forenames>
-      <Text>, R. G. T</Text>
+      <Key>St. Leger</Key>
+      <Forenames>R. G. T.</Forenames>
       <PageNumber>2413</PageNumber>
     </MainItem>
   </ItemGroup>

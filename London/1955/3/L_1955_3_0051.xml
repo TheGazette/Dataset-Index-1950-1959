@@ -1166,25 +1166,51 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bois</Forenames>
-      <Text>, W. J</Text>
+      <Key>De Bois</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>3789</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Teissier</Forenames>
-      <Text>, I. G^D</Text>
+      <Key>de Laurier</Key>
+      <Forenames>D. R. P .</Forenames>
+      <PageNumber>5477</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mornay</Key>
+      <Forenames>A. P. B .</Forenames>
+      <PageNumber>3789</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Raeve</Key>
+      <Forenames>P. A.</Forenames>
+      <PageNumber>5175</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Routon</Key>
+      <Forenames>J. M.</Forenames>
+      <PageNumber>3874</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Teissier</Key>
+      <Forenames>I. G</Forenames>
+      <Text>^D</Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>

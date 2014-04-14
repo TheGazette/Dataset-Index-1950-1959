@@ -1706,8 +1706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>I. O'D</Forenames>
       <PageNumber>5695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2068,7 +2067,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>6427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2247,8 +2247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramus</Key>
-      <Forenames>P.</Forenames>
-      <Text>de N</Text>
+      <Forenames>P. de N</Forenames>
       <PageNumber>5557</PageNumber>
     </MainItem>
   </ItemGroup>

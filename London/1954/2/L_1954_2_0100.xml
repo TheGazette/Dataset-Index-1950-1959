@@ -21,7 +21,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allison</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alsop</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,14 +235,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Alston</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alty</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angel</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amnis</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansuategui</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +478,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +531,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +563,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +581,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,56 +595,869 @@
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ — ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ —</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>S. H</Forenames>
+      <PageNumber>2274</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T</Forenames>
+      <PageNumber>26611</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Armstrong</Key>
+      <Forenames>M. B. H.</Forenames>
+      <PageNumber>3808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arnan</Key>
+      <Forenames>M. F.</Forenames>
+      <PageNumber>2531</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arnold</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>3112</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>K. N</Forenames>
+      <PageNumber>2808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>V. F</Forenames>
+      <PageNumber>3253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arnott</Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>2468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aronsberg</Key>
+      <Forenames>M. B.</Forenames>
+      <PageNumber>2976</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aronson</Key>
+      <Forenames>D</Forenames>
+      <PageNumber>3808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arrol</Key>
+      <Title>Dame</Title>
+      <Forenames>E. R.</Forenames>
+      <PageNumber>3509</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arstall</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>2349</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arthur</Key>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>2352</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arundale</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>3442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashby</Key>
+      <Forenames>E. R</Forenames>
+      <PageNumber>3443</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. G</Forenames>
+      <PageNumber>2814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashplant</Key>
+      <Forenames>R. H.</Forenames>
+      <PageNumber>3658</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashton</Key>
+      <Forenames>Florence</Forenames>
+      <PageNumber>2596</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Frederick</Forenames>
+      <PageNumber>2742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ashworth</Key>
+      <Forenames>A. C</Forenames>
+      <Text>,</Text>
+      <PageNumber>2750</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>2471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aske</Key>
+      <Title>Sir</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>2664</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aspinall</Key>
+      <Text>,H. L</Text>
+      <PageNumber>3113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Asplin</Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>2473</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Asserati</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>3581</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Astle</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>2665</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atherton</Key>
+      <Forenames>B.</Forenames>
+      <PageNumber>3242</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atkins</Key>
+      <Forenames>E. K.</Forenames>
+      <PageNumber>2260</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. L.</Forenames>
+      <PageNumber>3385</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ — ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. I.</Forenames>
+      <PageNumber>2097</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atkinson</Key>
+      <Forenames>C. D.</Forenames>
+      <PageNumber>2536</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J</Forenames>
+      <PageNumber>2029</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>2473</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atter</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2344</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>2344</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Attfield</Key>
+      <Forenames>A. P.</Forenames>
+      <PageNumber>2472</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Auber</Key>
+      <Forenames>S. A.</Forenames>
+      <PageNumber>3039</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aubertin</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>3722</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Auld</Key>
+      <Forenames>D. M.</Forenames>
+      <PageNumber>2818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aungier</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>3040</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Austin</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>2880</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>3444</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>IR. H</Text>
+      <PageNumber>2964</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. G.</Forenames>
+      <PageNumber>3662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W.</Forenames>
+      <Text>(W. A.)</Text>
+      <PageNumber>3860</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Avery</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>3383</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Avison</Key>
+      <Forenames>J. W.</Forenames>
+      <PageNumber>3511</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ayles</Key>
+      <Forenames>B. R.</Forenames>
+      <PageNumber>2812</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aylwdn</Key>
+      <Forenames>T. W.</Forenames>
+      <PageNumber>2471</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ayres</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3378</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Babbs</Key>
+      <Forenames>A. T.</Forenames>
+      <PageNumber>2261</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Backhouse</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>3799</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bacon</Key>
+      <Forenames>W. E. T.</Forenames>
+      <PageNumber>2894</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. T.</Forenames>
+      <PageNumber>2534</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. C. A.</Forenames>
+      <PageNumber>3655</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. D.</Forenames>
+      <PageNumber>2168</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Badger</Key>
+      <Forenames>H. O</Forenames>
+      <Text>^L</Text>
+      <PageNumber>2602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Badrick</Key>
+      <Forenames>E. I.</Forenames>
+      <PageNumber>3176</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bagg</Key>
+      <Forenames>F.</Forenames>
+      <PageNumber>3102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bailey</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>3508</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>2476</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>3384</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>2092</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>BaMy</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>3727</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>N. B.</Forenames>
+      <PageNumber>3723</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baker</Key>
+      <Forenames>C. E.</Forenames>
+      <PageNumber>3658</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. A. G.</Forenames>
+      <PageNumber>3716</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G. P.</Forenames>
+      <PageNumber>3655</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>2175</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>K. A.</Forenames>
+      <PageNumber>3720</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>2597</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. L.</Forenames>
+      <PageNumber>3805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>3717</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baldwin</Key>
+      <Forenames>R. C.</Forenames>
+      <PageNumber>2669</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Balkwill</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>2606</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ball</Key>
+      <Forenames>F. S.</Forenames>
+      <PageNumber>2266</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3183</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ballard</Key>
+      <Text>iR. V</Text>
+      <PageNumber>2662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Balleime</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2390</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Balsdon</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>2479</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bamber</Key>
+      <Forenames>G. J.</Forenames>
+      <PageNumber>2181</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barobridge</Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>3384</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bamkin</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>2884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bancroft</Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>2171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Banfield</Key>
+      <Forenames>G. L.</Forenames>
+      <PageNumber>2748</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>J</Forenames>
+      <PageNumber>3174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Banks</Key>
+      <Forenames>G. W.</Forenames>
+      <PageNumber>3446</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H</Forenames>
+      <PageNumber>31174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bannerman</Key>
+      <Forenames>J. A. M.</Forenames>
+      <PageNumber>3440</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Banyard</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>3724</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barber</Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>2344</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barker</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>2597</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Eliza F.</Forenames>
+      <PageNumber>3190</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Elizabeth F.</Forenames>
+      <PageNumber>3858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. T. H.</Forenames>
+      <PageNumber>3049</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>F.</Forenames>
+      <PageNumber>3394</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>F. R. B.</Forenames>
+      <PageNumber>2740</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. D.</Forenames>
+      <PageNumber>2098</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>3378</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. M. H.</Forenames>
+      <PageNumber>3034</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>S.</Forenames>
+      <PageNumber>3184</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barkley</Key>
+      <Forenames>G. S.</Forenames>
+      <PageNumber>2098</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barley</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>3649</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barlow</Key>
+      <Forenames>C. J. B.</Forenames>
+      <PageNumber>3503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ —</KeyDitto>
+      </Key>
+      <Forenames>Eliza A.</Forenames>
+      <PageNumber>3805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barlow</Key>
+      <Forenames>Emily A.</Forenames>
+      <PageNumber>3592</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>F. B</Forenames>
+      <PageNumber>2665</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. E</Forenames>
+      <PageNumber>2810</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barltrop</Key>
+      <Forenames>F. H. M.</Forenames>
+      <Text>(F. H. or P.)</Text>
+      <PageNumber>3384</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
@@ -724,7 +1536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrable</Key>
-      <Text>, IR. H</Text>
+      <Text>IR. H</Text>
       <PageNumber>2757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,36 +1554,140 @@
       <PageNumber>3651</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Barrington, H</SubCategoryTitle>
-  <SubCategoryTitle>Barron, C</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Barry, D</SubCategoryTitle>
-  <SubCategoryTitle>Bartholomew, M</SubCategoryTitle>
-  <SubCategoryTitle>Bartlett, H. A</SubCategoryTitle>
-  <SubCategoryTitle>Barton, F. F</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Bartram, W</SubCategoryTitle>
-  <SubCategoryTitle>Bas, W</SubCategoryTitle>
-  <SubCategoryTitle>Bas-de Vries, H</SubCategoryTitle>
-  <SubCategoryTitle>Bash, C</SubCategoryTitle>
-  <SubCategoryTitle>Baskett, H. R</SubCategoryTitle>
-  <SubCategoryTitle>Bassett, G</SubCategoryTitle>
-  <SubCategoryTitle>Bastick, E. A</SubCategoryTitle>
-  <SubCategoryTitle>Batavia, E. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Batchelar</Key>
-      <Text>, V</Text>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>A.</Forenames>
+      <Text>IM</Text>
+      <PageNumber>3505</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>F. A.</Forenames>
+      <PageNumber>3189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barrington</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3649</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barron</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>3728</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>D. A.</Forenames>
+      <PageNumber>2271</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barry</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>3719</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bartholomew</Key>
+      <Forenames>M.</Forenames>
+      <PageNumber>3249</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bartlett</Key>
+      <Forenames>H. A.</Forenames>
+      <PageNumber>3174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Barton</Key>
+      <Forenames>F. F.</Forenames>
+      <PageNumber>3105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. E.</Forenames>
+      <PageNumber>3660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bartram</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>2809</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bas</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>2809</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bas-de</Key>
+      <Forenames>Vries</Forenames>
+      <Text>, H</Text>
+      <PageNumber>2351</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bash</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>2097</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baskett</Key>
+      <Forenames>H. R.</Forenames>
+      <PageNumber>2894</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bassett</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>2537</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bastick</Key>
+      <Forenames>E. A.</Forenames>
+      <PageNumber>3506</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Batavia</Key>
+      <Forenames>E.</Forenames>
+      <Text>... H. (H. V.) Batchelar, V</Text>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +1748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batten</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +1757,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +1771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baum</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,14 +1810,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bay</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>21011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +1861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bealey</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +1875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1900,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,14 +1943,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Becker</Key>
-      <Text>, IF. D. A</Text>
+      <Text>IF. D. A</Text>
       <PageNumber>3045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beddoes</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,14 +2012,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Beebee</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3723</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beech</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +2054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Begley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +2095,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,11 +2124,55 @@
       <PageNumber>2169</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. W.</Forenames>
+      <PageNumber>2605</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bellamy</Key>
+      <Forenames>F.</Forenames>
+      <PageNumber>3727</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. A.</Forenames>
+      <PageNumber>2808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Benibow</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>3726</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. W. O.</Forenames>
+      <PageNumber>2752</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bence</Key>
+      <Forenames>Pembroke</Forenames>
+      <Text>, R. A</Text>
+      <PageNumber>3174</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Benjamin</Key>
@@ -1367,7 +2327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernstein</Key>
-      <Text>, IL</Text>
+      <Text>IL</Text>
       <PageNumber>2093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,14 +2336,14 @@
       <Key>
         <KeyDitto>___ ___ ___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3649</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,17 +2356,98 @@
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Bethell</Key>
-      <Forenames>M. A.</Forenames>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H</Forenames>
+      <PageNumber>3389</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. E</Forenames>
+      <PageNumber>3176</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. L</Forenames>
+      <PageNumber>2893</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T</Forenames>
+      <PageNumber>2669</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Berryman</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>3807</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bertiolo</Key>
+      <Forenames>H. F.</Forenames>
+      <PageNumber>3797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Berwick</Key>
+      <Forenames>A. S.</Forenames>
+      <PageNumber>2540</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Besant</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>2346</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bessant</Key>
+      <Forenames>W. R.</Forenames>
+      <PageNumber>2467</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Best</Key>
+      <Text>EL</Text>
+      <PageNumber>2020</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. K</Forenames>
+      <PageNumber>3504</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bestiwick</Key>
+      <Forenames>E.</Forenames>
+      <Text>... Bethell, M. A</Text>
       <PageNumber>2174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +2485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bewers</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,21 +2520,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Bills</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bimboni</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2541</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Binnion</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +2607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,33 +2673,111 @@
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Biss, P. R. ..</SubCategoryTitle>
-  <SubCategoryTitle>Bithell, A. W</SubCategoryTitle>
-  <SubCategoryTitle>Black, J</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. A.</Forenames>
+      <PageNumber>2879</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. M.</Forenames>
+      <PageNumber>3104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. J.</Forenames>
+      <PageNumber>3722</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>2602</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R. M.</Forenames>
+      <PageNumber>3723</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Biss</Key>
+      <Forenames>P. R.</Forenames>
+      <PageNumber>2968</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bithell</Key>
+      <Forenames>A. W.</Forenames>
+      <PageNumber>3044</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Black</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>2894</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Blackali, J. F</SubCategoryTitle>
-  <SubCategoryTitle>Blackburn, A</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
-  <SubCategoryTitle>Blackett, A. W</SubCategoryTitle>
-  <SubCategoryTitle>
-    <KeyDitto>—___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blackali</Key>
+      <Forenames>J. F.</Forenames>
+      <PageNumber>2883</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blackburn</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>3242</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>2353</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Blackett</Key>
+      <Forenames>A. W.</Forenames>
+      <PageNumber>3722</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—___ ___</KeyDitto>
+      </Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>2883</PageNumber>
+    </MainItem>
+  </ItemGroup>
 </Index>
 

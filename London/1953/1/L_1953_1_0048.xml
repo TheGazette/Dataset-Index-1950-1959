@@ -776,8 +776,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. St. C</Forenames>
       <PageNumber>686</PageNumber>
       <PageNumber>1024</PageNumber>
     </MainItem>
@@ -1267,9 +1266,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hasselt</Forenames>
-      <Text>, M</Text>
+      <Key>Van Hasselt</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1319,9 @@
       <Key>Venablles-LIewelyn</Key>
       <Title>Sir</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,7 +1804,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1515</PageNumber>
     </MainItem>
   </ItemGroup>

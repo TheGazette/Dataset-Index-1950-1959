@@ -1173,8 +1173,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>B. J. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>B. J. St. M</Forenames>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1970,8 +1969,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>4693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2007,15 +2006,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, D. M</Text>
+      <Key>O'Grady</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, C. A. M</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>C. A. M.</Forenames>
       <PageNumber>4054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2108,8 +2107,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, T. M</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>T. M.</Forenames>
       <PageNumber>4413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2145,8 +2144,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, B F</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>B</Forenames>
+      <Text>F</Text>
       <PageNumber>4802</PageNumber>
     </MainItem>
   </ItemGroup>

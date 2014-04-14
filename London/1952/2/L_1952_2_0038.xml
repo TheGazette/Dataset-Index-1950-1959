@@ -662,8 +662,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Telford</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. R</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. R</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +769,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>2008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,8 +1519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull-Kemp</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>2567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,9 +1825,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Laun</Forenames>
-      <Text>, T</Text>
+      <Key>Van Laun</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>2778</PageNumber>
     </MainItem>
   </ItemGroup>

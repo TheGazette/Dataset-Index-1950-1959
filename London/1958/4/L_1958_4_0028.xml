@@ -90,7 +90,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. D</Forenames>
-      <Text>;, Bt. ..:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,8 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainer</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>P. St. G</Forenames>
       <PageNumber>6723</PageNumber>
       <PageNumber>7943</PageNumber>
     </MainItem>
@@ -1204,8 +1205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glen</Key>
-      <Forenames>A. M.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. M. de C</Forenames>
       <PageNumber>6482</PageNumber>
     </MainItem>
   </ItemGroup>

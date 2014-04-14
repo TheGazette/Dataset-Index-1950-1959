@@ -138,8 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>2460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +953,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Compton</Key>
-      <Forenames>C. A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>C. A. O'B</Forenames>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,8 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coote</Key>
-      <Forenames>R. L. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. L. St. G</Forenames>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2090,7 +2087,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W.</Text>
+      <Text>W</Text>
       <PageNumber>3148</PageNumber>
     </SubItem>
   </ItemGroup>

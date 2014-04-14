@@ -852,6 +852,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belder</Key>
+      <Forenames>D. G.</Forenames>
+      <PageNumber>6137</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Labilliere</Key>
+      <Forenames>A. M. D.</Forenames>
+      <PageNumber>4884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Orfe</Key>
+      <Forenames>H. L.</Forenames>
+      <PageNumber>6137</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>K. W.</Forenames>
       <PageNumber>4885</PageNumber>
@@ -2292,8 +2313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Forenames>M. L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. L. de V</Forenames>
       <PageNumber>4883</PageNumber>
     </MainItem>
   </ItemGroup>

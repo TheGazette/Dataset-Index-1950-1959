@@ -133,7 +133,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. De F.</Forenames>
+      <Forenames>P. De F</Forenames>
       <PageNumber>1873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,33 +966,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, M</Text>
+      <Key>De Burgh</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rohan</Forenames>
-      <Text>, L. F</Text>
+      <Key>De Rohan</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>73</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, G. F</Text>
+      <Key>De Sausmarez</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wynter</Forenames>
-      <Text>, I. H</Text>
+      <Key>de Villiers</Key>
+      <Forenames>D.</Forenames>
+      <PageNumber>1511</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wynter</Key>
+      <Forenames>I. H.</Forenames>
       <PageNumber>1515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,8 +1341,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,9 +1663,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, A. N</Text>
+      <Key>Du Feu</Key>
+      <Forenames>A. N.</Forenames>
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -10,8 +10,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, J. J</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>6162</PageNumber>
       <PageNumber>7763</PageNumber>
     </MainItem>
@@ -26,8 +26,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, K. A</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>K. A.</Forenames>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,15 +102,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, J. E</Text>
+      <Key>O'Malley</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>6725</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, V. P</Text>
+      <Key>O'Neill</Key>
+      <Forenames>V. P.</Forenames>
       <PageNumber>6577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,8 +260,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ryan, P. J. F</Text>
+      <Key>O'Ryan</Key>
+      <Forenames>P. J. F.</Forenames>
       <PageNumber>7650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +307,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, J. P</Text>
+      <Key>O'Shea</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,8 +360,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. F. X</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. F. X.</Forenames>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1509,8 +1509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>6242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2366,7 +2365,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. G. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>

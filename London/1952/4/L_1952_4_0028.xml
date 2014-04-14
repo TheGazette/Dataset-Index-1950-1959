@@ -59,8 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,15 +82,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, H. T. J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>H. T. J.</Forenames>
       <PageNumber>6473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, B. A</Text>
+      <Key>O'Toole</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,8 +1300,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. T. O'B</Forenames>
       <PageNumber>6404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,8 +1770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollock</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>J. P. O'H</Forenames>
       <PageNumber>6332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1810,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P. B.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6070</PageNumber>
     </MainItem>
   </ItemGroup>

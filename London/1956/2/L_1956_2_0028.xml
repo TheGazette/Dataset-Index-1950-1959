@@ -702,8 +702,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. M. O</Forenames>
-      <Text>'R. :</Text>
+      <Forenames>J. M. O'R</Forenames>
+      <Text>. :</Text>
       <PageNumber>3794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +787,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,8 +1520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bembridge</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de L. H</Text>
+      <Forenames>R. A. de L</Forenames>
+      <Text>. H</Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2526,8 +2528,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. A. O</Forenames>
-      <Text>'B. ff, Sub. not</Text>
+      <Forenames>M. A. O'B</Forenames>
+      <Text>. ff, Sub. not</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>

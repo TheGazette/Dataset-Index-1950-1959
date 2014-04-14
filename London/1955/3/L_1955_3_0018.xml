@@ -152,8 +152,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
       <PageNumber>4172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,15 +173,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D</Forenames>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, F. J</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +212,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. S</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. S.</Forenames>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,9 +1271,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, M. B</Text>
+      <Key>St. John</Key>
+      <Forenames>M. B.</Forenames>
       <PageNumber>4308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2336,8 +2335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>D. E. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>D. E. O'D</Forenames>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2604,9 +2602,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrwhitt</Key>
-      <Title>Sir St.</Title>
-      <Forenames>J. R. J.</Forenames>
-      <Text>Bt</Text>
+      <Title>Sir St. J.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>

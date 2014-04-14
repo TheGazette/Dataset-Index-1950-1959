@@ -2,6 +2,21 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="030" pageID="https://www.thegazette.co.uk/id/London/index/year/1952/volume/1/page/030" pagePDF="https://www.thegazette.co.uk/London/index/year/1952/volume/1/page/030" pageRDF="https://www.thegazette.co.uk/London/index/year/1952/volume/1/page/030?view=linked-data" type="index" volume="1" year="1952">
   <ItemGroup>
     <MainItem>
+      <Key>de Rosa</Key>
+      <Forenames>L. V.</Forenames>
+      <PageNumber>629</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>Count C. J.</Forenames>
+      <Text>, Sub. not. '</Text>
+      <PageNumber>566</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
@@ -11,18 +26,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sevin</Forenames>
-      <Text>, D. F</Text>
+      <Key>De Sevin</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>1032</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, E. J</Text>
+      <Key>De Souza</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>1740</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vere</Key>
+      <Forenames>White</Forenames>
+      <Text>, N</Text>
+      <PageNumber>380</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Waele</Key>
+      <Forenames>P. E.</Forenames>
+      <PageNumber>242</PageNumber>
+      <PageNumber>1670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

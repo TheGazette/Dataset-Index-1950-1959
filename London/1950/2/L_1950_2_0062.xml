@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>, IL...H</Text>
+      <Text>IL...H</Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Text>, L; C. :..J</Text>
+      <Forenames>L</Forenames>
+      <Text>; C. :..J</Text>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aston</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beeston</Key>
-      <Text>, ,M. S</Text>
+      <Text>,M. S</Text>
       <PageNumber>2684</PageNumber>
       <PageNumber>1871</PageNumber>
     </MainItem>
@@ -737,7 +738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>, it. M</Text>
+      <Text>it. M</Text>
       <PageNumber>2569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burkett</Key>
-      <Text>. S. E</Text>
+      <Forenames>S. E.</Forenames>
       <PageNumber>2832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,14 +860,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Colls</Key>
-      <Text>, 'M. E. ..:</Text>
+      <Text>'M. E. ..:</Text>
       <PageNumber>2828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, ..N. H. D</Text>
+      <Text>..N. H. D</Text>
       <PageNumber>2828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>2684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Floyd</Key>
-      <Text>. A. 'M</Text>
+      <Forenames>A.</Forenames>
+      <Text>'M</Text>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>. P. R. N</Text>
+      <Forenames>P. R. N.</Forenames>
       <PageNumber>2026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howison</Key>
-      <Text>. D. B</Text>
+      <Forenames>D. B.</Forenames>
       <PageNumber>1658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamgford</Key>
-      <Text>. C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>3176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,14 +1183,14 @@
   <ItemGroup>
     <MainItem>
       <Key>iMason</Key>
-      <Text>. D. F</Text>
+      <Forenames>D. F</Forenames>
       <PageNumber>2832</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,14 +1242,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M</Forenames>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>. K. C</Text>
+      <Forenames>K. C.</Forenames>
       <PageNumber>1870</PageNumber>
       <PageNumber>2304</PageNumber>
     </MainItem>
@@ -1255,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendall</Key>
-      <Text>. M. M</Text>
+      <Forenames>M. M.</Forenames>
       <PageNumber>2307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brenchley</Key>
-      <Text>. Provident Association, dissolution</Text>
+      <Forenames>Provident Asso-</Forenames>
+      <Text>ciation, dissolution</Text>
       <PageNumber>2445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Companhia</Key>
-      <Text>de Mocambique, notice</Text>
+      <Forenames>de Mocambique</Forenames>
+      <Text>, notice</Text>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>

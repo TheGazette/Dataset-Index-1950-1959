@@ -2207,10 +2207,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, G. E</Text>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>3523</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lacy</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>2488</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, A. M. J</Text>
+      <PageNumber>2281</PageNumber>
+      <PageNumber>3456</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2329,7 +2344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Desire</Key>
-      <Text>de Lannoy, S. W</Text>
+      <Forenames>de Lannoy</Forenames>
+      <Text>, S. W</Text>
       <PageNumber>3459</PageNumber>
     </MainItem>
   </ItemGroup>

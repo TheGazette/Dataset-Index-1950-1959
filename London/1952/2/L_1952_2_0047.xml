@@ -378,8 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1431,9 @@
       <Key>Redwood</Key>
       <Title>Sir</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2405,7 +2406,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudge</Key>
-      <Forenames>A. J. De N.</Forenames>
+      <Forenames>A. J. De N</Forenames>
       <PageNumber>2647</PageNumber>
     </MainItem>
   </ItemGroup>

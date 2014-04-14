@@ -782,7 +782,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. L.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,8 +1006,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>M. A. de V</Forenames>
       <PageNumber>4766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1372,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>

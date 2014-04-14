@@ -705,8 +705,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, D. F</Text>
+      <Key>O'Shea</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>3178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,7 +1577,9 @@
     <MainItem>
       <Key>Food</Key>
       <Forenames>Ministry</Forenames>
-      <Text>of, Orders:. Chorley R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>2179</PageNumber>
     </MainItem>
   </ItemGroup>

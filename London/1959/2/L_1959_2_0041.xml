@@ -57,8 +57,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallot</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. St. G</Forenames>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patey</Key>
-      <Forenames>P.</Forenames>
-      <Text>de V</Text>
+      <Forenames>P. de V</Forenames>
       <PageNumber>3265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1334,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>

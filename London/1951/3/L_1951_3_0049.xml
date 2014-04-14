@@ -1457,25 +1457,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Teissigr-Prevost</Forenames>
-      <Text>, A</Text>
+      <Key>de Putron</Key>
+      <Forenames>O. W.</Forenames>
+      <PageNumber>3748</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Teissigr-Prevost</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>3616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vigne</Forenames>
-      <Text>, L. C. E;</Text>
+      <Key>De Vigne</Key>
+      <Forenames>L. C. E</Forenames>
+      <Text>;</Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, W. E</Text>
+      <Key>De Wilde</Key>
+      <Forenames>W. E.</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,8 +1756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickey</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>D. O'R</Forenames>
       <PageNumber>4219</PageNumber>
     </MainItem>
   </ItemGroup>

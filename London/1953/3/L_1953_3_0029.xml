@@ -67,7 +67,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +395,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. S.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. S. de N</Forenames>
       <PageNumber>5043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,8 +490,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>H. L. St. V</Forenames>
       <PageNumber>4467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +555,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,8 +917,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Title>Clair.</Title>
+      <Key>St. Clair</Key>
       <Forenames>J. D.</Forenames>
       <PageNumber>4799</PageNumber>
     </MainItem>
@@ -1356,7 +1357,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>M. B.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1445,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. W.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,8 +1900,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. F. de V</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2838,7 +2842,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2848,7 +2854,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. W.</Forenames>
-      <Text>(R.A.M.C. NonMedical)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4692</PageNumber>
     </MainItem>
   </ItemGroup>

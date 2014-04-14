@@ -590,15 +590,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, P. G. St. G</Text>
+      <Key>O'Brian</Key>
+      <Forenames>P. G. St. G</Forenames>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. N</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. N.</Forenames>
       <PageNumber>3158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,15 +613,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, T. F</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>T. F.</Forenames>
       <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. J.</Forenames>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,8 +643,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, R. W</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>R. W.</Forenames>
       <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +671,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, D. I</Text>
+      <Key>O'Hara</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>

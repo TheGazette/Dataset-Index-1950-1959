@@ -466,8 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kydd</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. A. de R</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +899,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. S</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. S.</Forenames>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>

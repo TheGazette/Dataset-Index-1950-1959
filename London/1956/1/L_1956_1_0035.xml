@@ -27,7 +27,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>SirF., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,8 +1546,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de H</Text>
+      <Forenames>J. F. de H</Forenames>
       <PageNumber>1138</PageNumber>
     </MainItem>
   </ItemGroup>

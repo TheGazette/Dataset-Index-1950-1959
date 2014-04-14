@@ -147,8 +147,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>de C. M</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. M</Text>
       <PageNumber>478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,17 +1610,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Merwe</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Merwe</Forenames>
       <Text>, D</Text>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Waitmelo</Forenames>
-      <Text>, W</Text>
+      <Key>Van Waitmelo</Key>
+      <Forenames>W</Forenames>
       <PageNumber>1592</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -901,7 +901,9 @@
       <Key>Forbes</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,8 +1950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gainher</Key>
-      <Forenames>R. J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. J. de M</Forenames>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>

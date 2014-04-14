@@ -995,7 +995,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(R.A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1007,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1120,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>L.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5314</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1691,7 +1691,9 @@
       <Key>Clayton</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2227,8 +2229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2296,6 +2297,14 @@
     <MainItem>
       <Key>Deny</Key>
       <Forenames>G. C.</Forenames>
+      <PageNumber>3763</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, J</Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>

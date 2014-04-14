@@ -321,8 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanford</Key>
-      <Forenames>J.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,9 +805,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Blommestein</Forenames>
-      <Text>, V. C</Text>
+      <Key>Van Blommestein</Key>
+      <Forenames>V. C.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,9 +1423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,9 +1488,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, P. H</Text>
+      <Key>De Havilland</Key>
+      <Forenames>P. H.</Forenames>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>

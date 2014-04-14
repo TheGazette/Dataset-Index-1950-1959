@@ -19,7 +19,9 @@
       <Key>Stirling-Hamilton</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2553,8 +2555,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. G.</Forenames>
-      <Text>de St. V</Text>
+      <Forenames>M. G. de St</Forenames>
+      <Text>. V</Text>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>

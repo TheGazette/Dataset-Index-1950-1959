@@ -1051,7 +1051,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackenbury</Key>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>

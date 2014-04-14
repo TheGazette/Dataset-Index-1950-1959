@@ -533,18 +533,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blank</Forenames>
-      <Text>, I. P. M</Text>
+      <Key>De Blank</Key>
+      <Forenames>I. P. M.</Forenames>
       <PageNumber>2193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ferranti</Forenames>
-      <Text>, S. B. J. Z</Text>
+      <Key>De Ferranti</Key>
+      <Forenames>S. B. J. Z.</Forenames>
       <PageNumber>3868</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>J. E.</Forenames>
+      <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -558,6 +563,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Jimenez</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>3015</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeKeyser</Key>
       <Forenames>G. M.</Forenames>
       <PageNumber>3873</PageNumber>
@@ -565,10 +577,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pury</Forenames>
-      <Text>, J. D</Text>
+      <Key>De Pury</Key>
+      <Forenames>J. D.</Forenames>
       <PageNumber>3306</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P</Forenames>
+      <Text>; J</Text>
+      <PageNumber>2927</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>E. J.</Forenames>
+      <PageNumber>3499</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

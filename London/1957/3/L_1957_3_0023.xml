@@ -361,7 +361,9 @@
         <KeyDitto>-.</KeyDitto>
       </Key>
       <Forenames>N.</Forenames>
-      <Text>A.E</Text>
+      <Text>
+        <Honour>A.E</Honour>
+      </Text>
       <PageNumber>5217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +473,9 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>A. T.</Forenames>
-      <Text>... T R Brooksbank, Sir E. W., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,7 +1647,9 @@
       <Key>Campbell-Orde</Key>
       <Title>Sir</Title>
       <Forenames>S. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1718,8 +1724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantlie</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>

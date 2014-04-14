@@ -260,7 +260,9 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Sir L. T., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3674</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -529,7 +531,9 @@
     <MainItem>
       <Key>Caplen</Key>
       <Forenames>R. A. W.</Forenames>
-      <Text>, Bt. Carden, Sir F. H</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4710</PageNumber>
     </MainItem>
   </ItemGroup>

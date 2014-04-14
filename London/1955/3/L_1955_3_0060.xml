@@ -1511,8 +1511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sells</Key>
-      <Forenames>G.</Forenames>
-      <Text>de G</Text>
+      <Forenames>G. de G</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,8 +1767,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>C</Forenames>
+      <Forenames>St. C</Forenames>
       <PageNumber>4168</PageNumber>
     </MainItem>
   </ItemGroup>

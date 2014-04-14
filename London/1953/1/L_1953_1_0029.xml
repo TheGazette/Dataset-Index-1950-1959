@@ -237,10 +237,68 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wallens</Forenames>
-      <Text>, P. J</Text>
+      <Key>de Bethune</Key>
+      <Forenames>D. Q. M.</Forenames>
+      <PageNumber>970</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>P. G.</Forenames>
+      <PageNumber>821</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lane</Key>
+      <Forenames>Lea</Forenames>
+      <Text>, J. P</Text>
+      <PageNumber>1023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mey</Key>
+      <Forenames>J. P. F. R.</Forenames>
+      <PageNumber>884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, I. C</Text>
+      <PageNumber>817</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Valero</Key>
+      <Forenames>Wills</Forenames>
+      <Text>, M. A</Text>
+      <PageNumber>340</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wallens</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>1510</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winne</Key>
+      <Forenames>L. F.</Forenames>
+      <PageNumber>1023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>J. H.</Forenames>
+      <PageNumber>342</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1057,9 +1115,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Randt</Forenames>
-      <Text>, J</Text>
+      <Key>Du Randt</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,9 +1537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>339</PageNumber>
       <PageNumber>339</PageNumber>
     </MainItem>

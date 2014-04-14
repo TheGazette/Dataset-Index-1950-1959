@@ -273,8 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,8 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>1249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomb</Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,8 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1208,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. A. De G.</Forenames>
+      <Forenames>S. A. De G</Forenames>
       <PageNumber>1597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1252,9 @@
     <MainItem>
       <Key>Adam</Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2422,8 +2421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkins</Key>
-      <Forenames>M. G.</Forenames>
-      <Text>de St. V</Text>
+      <Forenames>M. G. de St</Forenames>
+      <Text>. V</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1795,7 +1795,9 @@
       <Key>Clayton</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,8 +1806,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>M. B. de S</Forenames>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2297,8 +2298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2320,10 +2320,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Chair.</Title>
+      <Key>De Chair</Key>
       <Forenames>R. S.</Forenames>
       <PageNumber>5762</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -2450,9 +2456,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, P. W. G</Text>
+      <Key>Du Buisson</Key>
+      <Forenames>P. W. G.</Forenames>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>

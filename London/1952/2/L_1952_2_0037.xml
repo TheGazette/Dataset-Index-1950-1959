@@ -320,7 +320,9 @@
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
       <Forenames>M. J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,8 +584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearburn</Key>
-      <Forenames>S. R. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>S. R. O'R</Forenames>
       <PageNumber>3223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,8 +1224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smiley</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C</Text>
+      <Forenames>D. de C</Forenames>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1475,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>2226</PageNumber>
     </MainItem>
   </ItemGroup>

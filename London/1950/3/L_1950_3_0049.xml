@@ -9,10 +9,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Naeyer</Forenames>
-      <Text>, R. E. S</Text>
+      <Key>De Naeyer</Key>
+      <Forenames>R. E. S.</Forenames>
       <PageNumber>4694</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Teissier-Prevost</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>3814</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>D. J.</Forenames>
+      <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -26,7 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearnally</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +580,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eiloart</Key>
-      <Text>N. C. Ekbery, B. V</Text>
+      <Forenames>N. C. Ekbery</Forenames>
+      <Text>, B. V</Text>
       <PageNumber>4580</PageNumber>
       <PageNumber>4580</PageNumber>
     </MainItem>
@@ -833,7 +847,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P: M</Text>
+      <Forenames>P</Forenames>
+      <Text>: M</Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fennessy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3947</PageNumber>
       <PageNumber>3948</PageNumber>
     </MainItem>
@@ -1339,7 +1354,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fish</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2089,7 +2104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrard</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2210,7 +2225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>G. C</Text>
+      <Forenames>G. C.</Forenames>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2365,7 +2380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>D,</Text>
+      <Forenames>D</Forenames>
+      <Text>,</Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2502,7 +2518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldthorpe</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2540,7 +2556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goode</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>

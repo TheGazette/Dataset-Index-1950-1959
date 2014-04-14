@@ -104,8 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stracey</Key>
-      <Forenames>H. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>H. A. St. C</Forenames>
       <PageNumber>6728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +168,7 @@
       <PageNumber>6610</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>3.</Text>
+      <Text>3</Text>
       <PageNumber>5522</PageNumber>
     </SubItem>
   </ItemGroup>

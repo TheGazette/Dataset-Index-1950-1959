@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>C.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2335,8 +2337,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M. D.</Forenames>
-      <Text>de P</Text>
+      <Forenames>M. D. de P</Forenames>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2396,8 +2397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L:</Text>
+      <Forenames>B. St. L</Forenames>
+      <Text>:</Text>
       <PageNumber>6403</PageNumber>
     </MainItem>
   </ItemGroup>

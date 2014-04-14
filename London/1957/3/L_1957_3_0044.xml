@@ -33,9 +33,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiers</Forenames>
-      <Text>, D</Text>
+      <Key>De Villiers</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>5434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,9 +532,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Feu</Forenames>
-      <Text>, D. F</Text>
+      <Key>Du Feu</Key>
+      <Forenames>D. F.</Forenames>
       <PageNumber>4775</PageNumber>
     </MainItem>
   </ItemGroup>

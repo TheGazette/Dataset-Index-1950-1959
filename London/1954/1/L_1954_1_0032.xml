@@ -213,7 +213,9 @@
       <Key>Horsbrugh-Porter</Key>
       <Title>Sir</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2505,8 +2507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelton</Key>
-      <Forenames>M. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>M. J. St. G</Forenames>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>

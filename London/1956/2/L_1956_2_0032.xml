@@ -761,7 +761,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. De V.</Forenames>
+      <Forenames>H. De V</Forenames>
       <PageNumber>2619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,58 +1368,103 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Baer</Forenames>
-      <Text>, O. R</Text>
+      <Key>De Baer</Key>
+      <Forenames>O. R.</Forenames>
       <PageNumber>3434</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Board</Forenames>
-      <Text>, R</Text>
+      <Key>De Board</Key>
+      <Forenames>R.</Forenames>
       <PageNumber>2695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bruxelles</Forenames>
-      <Text>, C. E</Text>
+      <Key>De Bruxelles</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>2834</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Clive-Lowe</Key>
+      <Forenames>S. G.</Forenames>
+      <PageNumber>3033</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Constanzo</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>2250</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costobadie</Key>
+      <Forenames>F. E.</Forenames>
+      <PageNumber>3296</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, R. St. C</Text>
       <PageNumber>3433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lane Lea</Forenames>
+      <Key>De Lane</Key>
+      <Forenames>Lea</Forenames>
       <Text>, J. P</Text>
       <PageNumber>2399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lloyd</Forenames>
-      <Text>, B</Text>
+      <Key>De Lloyd</Key>
+      <Forenames>B</Forenames>
       <PageNumber>2155</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roeper</Forenames>
-      <Text>, G. F</Text>
+      <Key>de Peyer</Key>
+      <Forenames>D. C.</Forenames>
+      <PageNumber>1956</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Roeper</Key>
+      <Forenames>G. F</Forenames>
       <PageNumber>2838</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rome</Key>
+      <Forenames>N</Forenames>
+      <PageNumber>3028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Paer</Forenames>
+      <Text>, L. E</Text>
+      <PageNumber>3152</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>2764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1433,17 +1478,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sauza</Forenames>
-      <Text>, D</Text>
+      <Key>De Sauza</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Zouche</Forenames>
-      <Text>, R. B</Text>
+      <Key>de Uphaugh</Key>
+      <Forenames>J. R. D.</Forenames>
+      <PageNumber>3493</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>C. S.</Forenames>
+      <PageNumber>2915</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. P. G.</Forenames>
+      <PageNumber>3029</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>J. K.</Forenames>
+      <PageNumber>3151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Zouche</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1755,8 +1826,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dew</Key>
-      <Forenames>D. G.</Forenames>
-      <Text>du B</Text>
+      <Forenames>D. G. du B</Forenames>
       <PageNumber>2151</PageNumber>
     </MainItem>
   </ItemGroup>

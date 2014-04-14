@@ -1407,8 +1407,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey</Key>
-      <Text>de Burgh, U. F</Text>
+      <Forenames>de Burgh</Forenames>
+      <Text>, U. F</Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,8 +1806,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>L. St. G</Forenames>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>

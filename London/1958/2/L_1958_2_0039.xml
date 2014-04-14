@@ -1488,8 +1488,7 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. A. St. C</Forenames>
       <PageNumber>2989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,8 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maguire</Key>
-      <Forenames>M. T. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. T. R. St. J</Forenames>
       <PageNumber>2455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2073,7 +2071,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>C.H. R</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2212</PageNumber>
     </MainItem>
   </ItemGroup>

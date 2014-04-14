@@ -185,8 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creswell</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G. R</Text>
+      <Forenames>D. St. G</Forenames>
+      <Text>. R</Text>
       <PageNumber>2873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,6 +1435,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Raeve</Key>
+      <Forenames>P. A.</Forenames>
+      <PageNumber>3232</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>C. E.</Forenames>
       <Text>, Corr</Text>
@@ -2467,9 +2474,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, P. F</Text>
+      <Key>Du Sautoy</Key>
+      <Forenames>P. F.</Forenames>
       <PageNumber>2346</PageNumber>
     </MainItem>
   </ItemGroup>

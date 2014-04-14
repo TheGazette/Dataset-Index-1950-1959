@@ -101,8 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>3453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmes</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firth</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,14 +489,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3454</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +545,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>A.E. L</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +905,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansell</Key>
-      <Text>C, enquiry</Text>
+      <Forenames>C</Forenames>
+      <Text>, enquiry</Text>
       <PageNumber>3975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +996,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishopsgate</Key>
-      <Text>M o r t g a«g e Advance Co., exemption from Moneylenders Acts</Text>
+      <Forenames>M</Forenames>
+      <Text>o r t g a«g e Advance Co., exemption from Moneylenders Acts</Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1211,9 @@
     <MainItem>
       <Key>Food</Key>
       <Forenames>Ministry</Forenames>
-      <Text>of, Byelaws, application for confirmation and notices: Abergavenny R.D</Text>
+      <Text>
+        <Honour>R.D</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>

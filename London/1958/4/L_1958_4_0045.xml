@@ -798,9 +798,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Laurier</Key>
+      <Forenames>D. R. P.</Forenames>
+      <PageNumber>7357</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeSalis</Key>
       <Forenames>H. J. A. F.</Forenames>
       <PageNumber>6584</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Samsonow</Key>
+      <Forenames>V.</Forenames>
+      <PageNumber>6423</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1421,8 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. St. Q</Forenames>
       <PageNumber>7952</PageNumber>
     </MainItem>
   </ItemGroup>

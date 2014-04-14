@@ -45,8 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guiton</Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,8 +426,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de H</Text>
+      <Forenames>J. F. de H</Forenames>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,8 +1380,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. O</Forenames>
-      <Text>'B. .:</Text>
+      <Forenames>P. O'B</Forenames>
+      <Text>. .:</Text>
       <PageNumber>1873</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>

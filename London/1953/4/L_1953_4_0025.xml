@@ -142,8 +142,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T.</Forenames>
-      <Text>de P</Text>
+      <Forenames>T. de P</Forenames>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,8 +340,116 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Waele.</Title>
+      <Key>de Broe-i</Key>
+      <Forenames>Ferguson</Forenames>
+      <Text>, A</Text>
+      <PageNumber>5980</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>J</Forenames>
+      <PageNumber>5982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>Morris</Forenames>
+      <Text>, A</Text>
+      <PageNumber>5697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Charmoy</Key>
+      <Forenames>M. A. F.</Forenames>
+      <Text>dE</Text>
+      <PageNumber>7028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cruz</Key>
+      <Forenames>S. J.</Forenames>
+      <PageNumber>6057</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>5221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Forenames>D. S.</Forenames>
+      <PageNumber>6589</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Keyzer</Key>
+      <Forenames>M. I.</Forenames>
+      <PageNumber>5835</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mahiby</Key>
+      <Forenames>A. G. O.</Forenames>
+      <PageNumber>6148</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meyrick</Key>
+      <Forenames>B. N.</Forenames>
+      <PageNumber>7027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, W. M</Text>
+      <PageNumber>5761</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>M. G.</Forenames>
+      <PageNumber>5424</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vere</Key>
+      <Forenames>F. F.</Forenames>
+      <PageNumber>5221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Voil</Key>
+      <Forenames>D. J.</Forenames>
+      <PageNumber>6726</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Waal</Key>
+      <Forenames>R. F.</Forenames>
+      <PageNumber>5423</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Waele</Key>
       <Forenames>J. P. A.</Forenames>
       <PageNumber>6360</PageNumber>
     </MainItem>
@@ -462,8 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delaforce</Key>
-      <Forenames>P.</Forenames>
-      <Text>de F</Text>
+      <Forenames>P. de F</Forenames>
       <PageNumber>5224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,8 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. H. O'D</Forenames>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1411,9 @@
       <Key>Duckworth</Key>
       <Title>Sir</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5630</PageNumber>
     </MainItem>
   </ItemGroup>

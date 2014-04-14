@@ -246,8 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Forenames>D. L. S. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. L. S. St. M</Forenames>
       <PageNumber>221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,15 +324,17 @@
       <Key>Anson</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C. ..;</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. ..;</Text>
       <PageNumber>220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,8 +1505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronyn</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
+      <Title>St. J.</Title>
       <PageNumber>627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,9 +1920,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>358</PageNumber>
       <PageNumber>358</PageNumber>
     </MainItem>

@@ -340,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Danvers</Key>
-      <Text>E. B</Text>
+      <Forenames>E. B.</Forenames>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +479,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5425</PageNumber>
     </MainItem>
     <SubItem>
@@ -631,7 +631,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,9 +645,29 @@
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vote</Forenames>
-      <Text>, A. V</Text>
+      <Key>de Keyser</Key>
+      <Forenames>G. M.</Forenames>
+      <PageNumber>5080</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Larrinaga</Key>
+      <Forenames>R. A. R.</Forenames>
+      <PageNumber>6125</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>P. J.</Forenames>
+      <PageNumber>5482</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vote</Key>
+      <Forenames>A. V.</Forenames>
       <PageNumber>5615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diamond</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>Alan</Forenames>
+      <Title>Alan .</Title>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dinnes</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Docker</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dolby</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorkins</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dove</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>P. S</Text>
+      <Forenames>P. S.</Forenames>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,14 +1640,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmunds</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>5944</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edney</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>5239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eggleston</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5356</PageNumber>
     </MainItem>
   </ItemGroup>

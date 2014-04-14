@@ -70,8 +70,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,15 +1631,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. D</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. D.</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, L. M</Text>
+      <Key>O'Toole</Key>
+      <Forenames>L. M.</Forenames>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>

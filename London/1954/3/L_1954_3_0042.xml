@@ -407,8 +407,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>T. St. J</Forenames>
       <PageNumber>5131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +521,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>M. W. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5011</PageNumber>
       <PageNumber>5016</PageNumber>
     </MainItem>

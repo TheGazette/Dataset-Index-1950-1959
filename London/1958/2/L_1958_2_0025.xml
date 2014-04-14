@@ -284,10 +284,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Merindol.</Title>
+      <Key>de Gale</Key>
+      <Forenames>P. O.</Forenames>
+      <PageNumber>3779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Forenames>G. C.</Forenames>
+      <PageNumber>2905</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Merindol</Key>
       <Forenames>P. H.</Forenames>
       <PageNumber>3465</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Saram</Key>
+      <Forenames>R. B.</Forenames>
+      <PageNumber>3464</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

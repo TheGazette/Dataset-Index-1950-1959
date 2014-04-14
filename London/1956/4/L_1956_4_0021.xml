@@ -820,8 +820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>W. P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. P. St. J</Forenames>
       <PageNumber>6715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1198,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. W. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>

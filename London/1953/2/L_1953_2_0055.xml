@@ -1554,8 +1554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Applegate</Key>
-      <Forenames>W. J.</Forenames>
-      <Text>de P</Text>
+      <Forenames>W. J. de P</Forenames>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2053,6 +2052,13 @@
       </Key>
       <Forenames>E. A</Forenames>
       <PageNumber>3150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>C. V. E.</Forenames>
+      <PageNumber>3028</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

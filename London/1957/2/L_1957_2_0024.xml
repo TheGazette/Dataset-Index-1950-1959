@@ -590,8 +590,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. P. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. P. H.</Forenames>
       <PageNumber>2264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,15 +606,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, K. P</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>K. P.</Forenames>
       <PageNumber>2598</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, H. L</Text>
+      <Key>O'Dell</Key>
+      <Forenames>H. L.</Forenames>
       <PageNumber>2478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,8 +627,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, M. J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>2478</PageNumber>
       <PageNumber>3432</PageNumber>
     </MainItem>

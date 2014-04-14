@@ -707,8 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Killery</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. (16337) King, C. H. H</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. (16337) King, C. H. H</Text>
       <PageNumber>3169</PageNumber>
       <PageNumber>3169</PageNumber>
     </MainItem>
@@ -2001,8 +2001,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomb</Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2446,7 +2445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowther</Key>
-      <Text>/Sir W. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2513,8 +2514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luckham</Key>
-      <Forenames>T.</Forenames>
-      <Text>de C</Text>
+      <Forenames>T. de C</Forenames>
       <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2535,8 +2535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumley</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. O'D</Forenames>
       <PageNumber>1874</PageNumber>
       <PageNumber>2068</PageNumber>
     </MainItem>

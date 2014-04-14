@@ -777,8 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamotte</Key>
-      <Forenames>J.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. de G</Forenames>
       <PageNumber>6137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lines</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>6138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,8 +1350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magniac</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. C. L</Text>
+      <Forenames>V. St. C</Forenames>
+      <Text>. L</Text>
       <PageNumber>4883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2058,8 +2056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nolan</Key>
-      <Forenames>A. R. J. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. R. J. St. Q</Forenames>
       <PageNumber>6137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2087,8 +2084,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. M.</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2160,8 +2157,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. F</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. F.</Forenames>
       <PageNumber>6137</PageNumber>
     </MainItem>
   </ItemGroup>

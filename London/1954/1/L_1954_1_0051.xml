@@ -167,8 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bampton</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>N. P. de B</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1719,8 +1718,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, H</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>H.</Forenames>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1735,29 +1734,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, H. M. B</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>H. M. B.</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, E</Text>
+      <Key>O'Kane</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loan, E</Text>
+      <Key>O'Loan</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, E. K</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>E. K.</Forenames>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2021,9 +2020,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Clair-Vivian</Forenames>
-      <Text>, D. W. F</Text>
+      <Key>St. Clair-Vivian</Key>
+      <Forenames>D. W. F.</Forenames>
       <PageNumber>376</PageNumber>
     </MainItem>
   </ItemGroup>

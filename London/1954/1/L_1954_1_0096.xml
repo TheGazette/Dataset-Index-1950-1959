@@ -1,11 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="096" pageID="https://www.thegazette.co.uk/id/London/index/year/1954/volume/1/page/096" pagePDF="https://www.thegazette.co.uk/London/index/year/1954/volume/1/page/096" pageRDF="https://www.thegazette.co.uk/London/index/year/1954/volume/1/page/096?view=linked-data" type="index" volume="1" year="1954">
-  <SubCategoryTitle>
-    <KeyDitto>___</KeyDitto>
-    <KeyDitto>___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jagelman</Key>
+      <Forenames>E. F.</Forenames>
+      <PageNumber>1443</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jager</Key>
+      <Forenames>G. H.</Forenames>
+      <PageNumber>1655</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jakeman</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>1788</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>R. M.</Forenames>
+      <PageNumber>1948</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>James</Key>
+      <Forenames>A. H.</Forenames>
+      <PageNumber>690</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Forenames>E. M.</Forenames>
+      <PageNumber>424</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>1938</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. M. W. B.</Forenames>
+      <Text>(M. M. W. B. B.)</Text>
+      <PageNumber>755</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -465,7 +524,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +533,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Catherine</Forenames>
+      <Title>Catherine .</Title>
       <PageNumber>1135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +876,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +912,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Hannah</Forenames>
+      <Title>Hannah .</Title>
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +921,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Harold</Forenames>
+      <Title>Harold .</Title>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1114,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>1794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jopson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,21 +1200,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Joslin</Key>
-      <Text>C. R</Text>
+      <Forenames>C. R</Forenames>
       <PageNumber>1726</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jowett</Key>
-      <Text>H. C. V</Text>
+      <Forenames>H. C. V.</Forenames>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joy</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jubb</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,21 +1248,21 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1942</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Juckes</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1282</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Judge</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M</Forenames>
       <PageNumber>900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1278,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kane</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1358,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1367,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1376,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keats</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,14 +1517,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Keissidis</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,14 +1552,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelsall</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>196</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kelsey</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kember</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,31 +1609,682 @@
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ .</KeyDitto>
-    <KeyDitto>— ___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kennedy</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>1854</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kenney</Key>
+      <Forenames>J. W.</Forenames>
+      <PageNumber>1123</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kensit</Key>
+      <Forenames>J</Forenames>
+      <PageNumber>481</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kent</Key>
+      <Forenames>E. K</Forenames>
+      <PageNumber>479</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kentish</Key>
+      <Forenames>A. M.</Forenames>
+      <PageNumber>760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kenyon</Key>
+      <Forenames>J. D.</Forenames>
+      <PageNumber>684</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keogh</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>827</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keppel</Key>
+      <Forenames>M. P.</Forenames>
+      <PageNumber>614</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kerley</Key>
+      <Forenames>H</Forenames>
+      <PageNumber>139</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kerr</Key>
+      <Forenames>M</Forenames>
+      <PageNumber>556</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kerry</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>1431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kershaw</Key>
+      <Forenames>H. E.</Forenames>
+      <PageNumber>1734</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ketchlee</Key>
+      <Forenames>A. D.</Forenames>
+      <PageNumber>271</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kettlewell</Key>
+      <Forenames>R. M.</Forenames>
+      <PageNumber>758</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T</Forenames>
+      <PageNumber>831</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kewley</Key>
+      <Forenames>E. M. E. H.</Forenames>
+      <PageNumber>363</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keys</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>1124</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keyser</Key>
+      <Forenames>M. L.</Forenames>
+      <PageNumber>977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Keyworth</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kidd</Key>
+      <Forenames>A. M</Forenames>
+      <PageNumber>273</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>D. E. A.</Forenames>
+      <PageNumber>436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>E. J</Forenames>
+      <PageNumber>610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kidman</Key>
+      <Forenames>L</Forenames>
+      <PageNumber>684</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kidner</Key>
+      <Forenames>F. G.</Forenames>
+      <PageNumber>971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Killorn</Key>
+      <Forenames>A. F.</Forenames>
+      <PageNumber>141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kiln</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>1515</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kilner</Key>
+      <Forenames>J. A.</Forenames>
+      <PageNumber>478</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Killworth</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>491</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kimberley</Key>
+      <Forenames>H. W.</Forenames>
+      <PageNumber>438</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kimmens</Key>
+      <Forenames>A. J.</Forenames>
+      <PageNumber>689</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>King</Key>
+      <Title>Ambrose .</Title>
+      <PageNumber>1586</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Archibald .</Title>
+      <PageNumber>282</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(E. A.)</Text>
+      <PageNumber>1737</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>A. R</Forenames>
+      <PageNumber>1726</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>D. H</Forenames>
+      <Text>:</Text>
+      <PageNumber>617</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G. S</Forenames>
+      <PageNumber>1279</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>T. S</Forenames>
+      <PageNumber>1865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. S</Forenames>
+      <PageNumber>1141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
+      <PageNumber>1944</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. F</Forenames>
+      <PageNumber>679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>R</Forenames>
+      <PageNumber>1587</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ .</KeyDitto>
+      </Key>
+      <Forenames>S</Forenames>
+      <PageNumber>1798</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>— ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. H. T.</Forenames>
+      <PageNumber>828</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kingdom</Key>
+      <Forenames>A. M.</Forenames>
+      <PageNumber>1656</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kingdon</Key>
+      <Forenames>E. C.</Forenames>
+      <PageNumber>1730</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kinghorn</Key>
+      <Forenames>A.</Forenames>
+      <PageNumber>1787</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kings</Key>
+      <Forenames>D. L</Forenames>
+      <PageNumber>1518</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kingsnorth</Key>
+      <Forenames>E. L.</Forenames>
+      <PageNumber>1942</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kingwell</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>482</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kinloch</Key>
+      <Forenames>T. F.</Forenames>
+      <PageNumber>135</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirby</Key>
+      <Forenames>B. J</Forenames>
+      <PageNumber>679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>1652</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirk</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>1442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>T</Forenames>
+      <PageNumber>550</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirkham</Key>
+      <Title>Edwin .</Title>
+      <PageNumber>1517</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Ellen</Forenames>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. J</Forenames>
+      <PageNumber>1941</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirkley</Key>
+      <Forenames>E. St. B</Forenames>
+      <PageNumber>986</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kirkipatrick</Key>
+      <Forenames>I.</Forenames>
+      <Text>.N. (N.)</Text>
+      <PageNumber>271</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W.</Forenames>
+      <Text>McC</Text>
+      <PageNumber>1431</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kistler</Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>1518</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kitchin</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>139</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kite</Key>
+      <Forenames>A. M</Forenames>
+      <PageNumber>901</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kitson</Key>
+      <Forenames>H. I.</Forenames>
+      <PageNumber>620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Klein</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>844</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>I.</Forenames>
+      <PageNumber>844</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knapp</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>1660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knapton</Key>
+      <Forenames>T. H.</Forenames>
+      <PageNumber>760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knight</Key>
+      <Forenames>F. A.</Forenames>
+      <PageNumber>1947</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H</Forenames>
+      <PageNumber>365</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. E</Forenames>
+      <PageNumber>1221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knigbtbridge</Key>
+      <Forenames>F.</Forenames>
+      <PageNumber>1436</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>KnoHys</Key>
+      <Forenames>R. H.</Forenames>
+      <PageNumber>1127</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knott</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>1513</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knowles</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>905</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knuckey</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>487</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Koch</Key>
+      <Forenames>C. L. A.</Forenames>
+      <PageNumber>1865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Koenig</Key>
+      <Forenames>J. E.</Forenames>
+      <PageNumber>749</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kohn</Key>
+      <Forenames>H. R.</Forenames>
+      <PageNumber>1058</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kopitko</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>899</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Koreman</Key>
+      <Forenames>A</Forenames>
+      <PageNumber>1125</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Korman</Key>
+      <Forenames>B. J.</Forenames>
+      <PageNumber>1283</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kuipfer</Key>
+      <Forenames>S</Forenames>
+      <PageNumber>613</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kushner</Key>
+      <Forenames>L</Forenames>
+      <PageNumber>675</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kyle</Key>
+      <Forenames>A. D</Forenames>
+      <PageNumber>687</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Labbett</Key>
+      <Forenames>R. L. A.</Forenames>
+      <PageNumber>1512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lacy</Key>
+      <Forenames>R. H.</Forenames>
+      <PageNumber>141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ladd</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>1858</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ladenburg</Key>
+      <Forenames>W.</Forenames>
+      <Text>and A. L. 'Ladenburg</Text>
+      <PageNumber>1414</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ladipo</Key>
@@ -1585,7 +2295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +2371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +2439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laming</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +2453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamont</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +2481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,7 +2490,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: A</Text>
+      <Forenames>J</Forenames>
+      <Text>: A</Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,7 +2574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansdown</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1981,7 +2692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1990,7 +2701,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,7 +2759,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E J</Text>
+      <Forenames>E</Forenames>
+      <Text>J</Text>
       <PageNumber>436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,7 +2769,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2066,7 +2778,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2082,14 +2794,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Laws</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>988</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1094,8 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazalet</Key>
-      <Forenames>R. P. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. P. St. G</Forenames>
       <PageNumber>3175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,17 +1860,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ruyter</Forenames>
-      <Text>, J. C</Text>
+      <Key>De Ruyter</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>3450</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Trafford</Forenames>
-      <Text>, D. H</Text>
+      <Key>de Salis</Key>
+      <Forenames>M. A. H. F.</Forenames>
+      <PageNumber>3448</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Trafford</Key>
+      <Forenames>D. H.</Forenames>
       <PageNumber>3175</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -57,7 +57,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>4691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +845,7 @@
       <PageNumber>5159</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>I.</Text>
+      <Text>I</Text>
       <PageNumber>5158</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -2,15 +2,15 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="043" pageID="https://www.thegazette.co.uk/id/London/index/year/1955/volume/1/page/043" pagePDF="https://www.thegazette.co.uk/London/index/year/1955/volume/1/page/043" pageRDF="https://www.thegazette.co.uk/London/index/year/1955/volume/1/page/043?view=linked-data" type="index" volume="1" year="1955">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, J. F. K</Text>
+      <Key>O'Malley</Key>
+      <Forenames>J. F. K.</Forenames>
       <PageNumber>298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, F. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>221</PageNumber>
       <PageNumber>1251</PageNumber>
     </MainItem>
@@ -26,8 +26,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, B. P</Text>
+      <Key>O'Neill</Key>
+      <Forenames>B. P.</Forenames>
       <PageNumber>72</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,8 +124,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, D. I</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>D. I.</Forenames>
       <PageNumber>1703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +208,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun. A. G</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,8 +257,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, B. A</Text>
+      <Key>O'Toole</Key>
+      <Forenames>B. A.</Forenames>
       <PageNumber>1260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2566,7 +2566,9 @@
       <Key>Pilkington</Key>
       <Title>Sir</Title>
       <Forenames>T. H.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>

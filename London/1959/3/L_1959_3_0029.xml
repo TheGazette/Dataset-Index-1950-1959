@@ -40,8 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>C. P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. P. de L</Forenames>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,8 +49,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. H. de L</Forenames>
       <PageNumber>4793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +209,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. H. V. !</Text>
+      <Forenames>R. St. H</Forenames>
+      <Text>. V. !</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacot</Key>
-      <Text>de Boinod, D. B. de V</Text>
+      <Forenames>de Boinod</Forenames>
+      <Text>, D. B. de V</Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>

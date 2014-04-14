@@ -283,8 +283,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, M. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,9 +604,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, P. P. C</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>5531</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1136,8 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Troy</Key>
-      <Forenames>K. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>K. O'D</Forenames>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,9 +1523,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eesbeck</Forenames>
-      <Text>, P. J</Text>
+      <Key>Van Eesbeck</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,8 +1922,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B.</Forenames>
-      <Text>de V</Text>
+      <Forenames>B. de V</Forenames>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>

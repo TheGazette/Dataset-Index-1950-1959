@@ -1469,7 +1469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoffman</Key>
-      <Text>de Visnve. G. F. A</Text>
+      <Title>de Visnve.</Title>
+      <Forenames>G. F. A.</Forenames>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1810,9 @@
       <Key>Hope</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>

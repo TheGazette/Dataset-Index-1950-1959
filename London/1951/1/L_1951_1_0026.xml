@@ -356,8 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>S. St. V</Forenames>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,9 +497,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Laurent</Forenames>
-      <Text>, R. M. S</Text>
+      <Key>St. Laurent</Key>
+      <Forenames>R. M. S.</Forenames>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,6 +574,13 @@
       <Key>Dawmay</Key>
       <Forenames>D</Forenames>
       <PageNumber>49</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonfolanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>179</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -683,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Captain-General</Key>
-      <Forenames>The Royal Regiment</Forenames>
+      <Title>The</Title>
+      <Forenames>Royal Regiment</Forenames>
       <Text>of Artillery, notice of change of title</Text>
       <PageNumber>471</PageNumber>
     </MainItem>

@@ -1505,7 +1505,9 @@
       <Key>Wrixon-Becher</Key>
       <Title>Sir</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>

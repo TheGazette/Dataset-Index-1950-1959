@@ -185,7 +185,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,8 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantile</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. St. G</Forenames>
       <PageNumber>5755</PageNumber>
     </MainItem>
   </ItemGroup>

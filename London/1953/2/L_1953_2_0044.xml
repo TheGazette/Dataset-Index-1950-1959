@@ -300,7 +300,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.) (</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>359815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +312,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.) (</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>428195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,16 +1096,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Queen</Key>
-      <Forenames>H.M. The</Forenames>
+      <Forenames>H.M.</Forenames>
+      <Text>The</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2092,7 +2096,9 @@
       <Key>Bacon</Key>
       <Title>Sir</Title>
       <Forenames>E. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -193,8 +193,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. A. C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. A. C. de C</Forenames>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,8 +836,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. M.</Forenames>
-      <Text>de L</Text>
+      <Forenames>L. M. de L</Forenames>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,8 +1719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummings</Key>
-      <Forenames>E. I. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>E. I. St. C</Forenames>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2203,15 +2200,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, W. P. not. Oliver, I. H., Sub</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>W. P.</Forenames>
+      <Text>not. Oliver, I. H., Sub</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>

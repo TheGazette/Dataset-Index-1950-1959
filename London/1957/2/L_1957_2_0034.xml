@@ -1246,7 +1246,9 @@
     <MainItem>
       <Key>Hobden</Key>
       <Forenames>J. H. C</Forenames>
-      <Text>, Bt. Hobhouse, Sir C</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,8 +1730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooley</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>

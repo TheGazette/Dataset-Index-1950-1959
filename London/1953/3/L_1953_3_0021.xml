@@ -121,8 +121,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. P. de C</Forenames>
       <PageNumber>4181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,26 +146,82 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, B. W</Text>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>4857</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jimenez</Key>
+      <Forenames>H. G.</Forenames>
+      <PageNumber>4918</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jong</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>3920</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Morgan</Key>
+      <Forenames>B. W.</Forenames>
       <PageNumber>5042</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, S. C. F</Text>
+      <Key>de Quetteville</Key>
+      <Forenames>H. L.</Forenames>
+      <PageNumber>3736</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>F. M.</Forenames>
+      <PageNumber>4470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>S. C. F.</Forenames>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, E. J</Text>
+      <Key>de Soissons</Key>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
+      <PageNumber>3787</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>4917</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stecher</Key>
+      <Forenames>R. D.</Forenames>
+      <Text>DO</Text>
+      <PageNumber>3788</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vivenot</Key>
+      <Forenames>F. X.</Forenames>
+      <PageNumber>5043</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -672,8 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorman</Key>
-      <Forenames>O</Forenames>
-      <Text>'Gowan, E. E</Text>
+      <Forenames>O'Gowan</Forenames>
+      <Text>, E. E</Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downer</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>J. H. O'D</Forenames>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,9 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>

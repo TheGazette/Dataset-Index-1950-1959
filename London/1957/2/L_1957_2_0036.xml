@@ -163,8 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidwell</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V. V</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>. V</Text>
       <PageNumber>2113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. T</Text>
+      <Forenames>D. St. T</Forenames>
       <PageNumber>2508</PageNumber>
     </MainItem>
   </ItemGroup>

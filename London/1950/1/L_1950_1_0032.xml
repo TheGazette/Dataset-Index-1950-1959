@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartnett</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Text>, IR. H. W. S</Text>
+      <Text>IR. H. W. S</Text>
       <PageNumber>466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +195,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. B. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>J. B. St. V</Forenames>
       <PageNumber>387</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -460,7 +459,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcoat-Airiory</Key>
-      <Text>,</Text>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wendy</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herdon</Key>
-      <Text>, (D. J. de L</Text>
+      <Text>(D. J. de L</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickes</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilditch</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,14 +839,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>. A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hullman</Key>
-      <Text>. R. C</Text>
+      <Forenames>R. C.</Forenames>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hince</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,14 +1046,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hitchcott</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hitchen</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobley</Key>
-      <Forenames>A. B. De C.</Forenames>
+      <Forenames>A. B. De C</Forenames>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1186,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,8 +1265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holligan</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1437,7 @@
       <Key>
         <KeyDitto>___ ___ ___ :</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1516,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homer</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hough</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,7 +1776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hounsell</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1895,7 +1892,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Text>. F. E</Text>
+      <Forenames>F. E.</Forenames>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1944,8 +1941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoysted</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>1411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2391,7 +2387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hylton</Key>
-      <Text>, iR. A</Text>
+      <Text>iR. A</Text>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2484,7 +2480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Innes</Key>
-      <Text>, C A Inskip, H: F., Suib. not</Text>
+      <Forenames>C</Forenames>
+      <Text>A Inskip, H: F., Suib. not</Text>
       <PageNumber>1151</PageNumber>
     </MainItem>
   </ItemGroup>

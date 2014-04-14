@@ -1014,8 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meir</Key>
-      <Forenames>F. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>F. O'D</Forenames>
       <PageNumber>4555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,8 +1493,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. C. de B</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2065,8 +2063,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>F.</Forenames>
-      <Text>de C. G</Text>
+      <Forenames>F. de C</Forenames>
+      <Text>. G</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>

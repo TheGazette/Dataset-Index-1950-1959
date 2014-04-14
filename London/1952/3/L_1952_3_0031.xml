@@ -180,8 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>March</Key>
-      <Forenames>Phillipps</Forenames>
-      <Text>de Lisle, E. J. R</Text>
+      <Forenames>Phillipps de Lisle</Forenames>
+      <Text>, E. J. R</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +414,7 @@
       <Key>
         <KeyDitto>-—-___</KeyDitto>
       </Key>
-      <Forenames>P. L. De C.</Forenames>
+      <Forenames>P. L. De C</Forenames>
       <PageNumber>5021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +734,7 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lord</Title>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>3741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2183,8 +2182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>H. M. de V</Forenames>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>

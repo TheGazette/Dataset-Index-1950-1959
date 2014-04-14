@@ -33,6 +33,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rouffignac</Key>
+      <Forenames>C. T.</Forenames>
+      <PageNumber>5826</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deekes</Key>
       <Forenames>M. J.</Forenames>
       <PageNumber>5753</PageNumber>
@@ -1178,22 +1185,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. M</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. M.</Forenames>
       <PageNumber>5826</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, S. E</Text>
+      <Key>O'Dea</Key>
+      <Forenames>S. E</Forenames>
       <PageNumber>4424</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, G. M</Text>
+      <Key>O'Dell</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>4927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,15 +1220,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, M</Text>
+      <Key>O'Hara</Key>
+      <Forenames>M</Forenames>
       <PageNumber>4927</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kane, E</Text>
+      <Key>O'Kane</Key>
+      <Forenames>E</Forenames>
       <PageNumber>4206</PageNumber>
     </MainItem>
   </ItemGroup>

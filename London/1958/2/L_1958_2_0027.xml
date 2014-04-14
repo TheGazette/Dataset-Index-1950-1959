@@ -660,8 +660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>T. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>T. A. de L</Forenames>
       <PageNumber>2906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,17 +1702,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Byl</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Byl</Forenames>
       <Text>, V. J. H</Text>
       <PageNumber>2905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, J. F. T</Text>
+      <Key>Van Oss</Key>
+      <Forenames>J. F. T.</Forenames>
       <PageNumber>3464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1762,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>B. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1990,8 +1990,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>J. St. H</Forenames>
       <PageNumber>3346</PageNumber>
     </MainItem>
   </ItemGroup>
